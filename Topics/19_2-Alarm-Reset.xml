@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>19.2 Alarm Reset</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Alarm Reset</para>
+    </header>
+    <para styleclass="Normal"><text style="font-weight:bold;">PMC Alarms Reset Procedure </text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-left:26px;">1) &#160;Press the <text style="font-weight:bold;">[ALARM RESET]</text> button on the main operation panel. If the conditions causing</para>
+    <para styleclass="Normal" style="margin-left:26px;"> &#160; &#160; the alarm are cleared, the alarm is reset.</para>
+    <para styleclass="Normal" style="margin-left:26px;"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text style="font-size:10pt;">-NOTE-</text></para>
+    <para styleclass="Normal"><text style="font-size:10pt;">PMC alarm reset button can be protected with password in the User Management screen.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-weight:bold;">NC Alarms Reset Procedure</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-left:26px;">1) &#160;When alarm “SW0100 PARAMETER ENABLE SWITCH ON” appears, press the</para>
+    <para styleclass="Normal" style="margin-left:26px;"><text style="font-weight:bold;"> &#160; &#160; [NC RESET]</text> and <text style="font-weight:bold;">[CAN] </text>keys on the MDI panel to reset the alarm. Alternatively,</para>
+    <para styleclass="Normal" style="margin-left:26px;"> &#160; &#160; disable the parameter-editing mode.</para>
+    <para styleclass="Normal" style="margin-left:26px;"></para>
+    <para styleclass="Normal" style="margin-left:26px;">2)<tab />Pressing the <text style="font-weight:bold;">[NC RESET]</text> key on the MDI panel can reset most of NC alarms.</para>
+    <para styleclass="Normal" style="margin-left:26px;"> &#160; &#160; &#160;If the conditions causing the alarm are cleared, the alarm is reset. However,</para>
+    <para styleclass="Normal" style="margin-left:26px;"> &#160; &#160; &#160;some alarms require the main power to be turned off.</para>
+    <para styleclass="Normal" style="margin-left:26px; page-break-before:always;"></para>
+  </body>
+</topic>

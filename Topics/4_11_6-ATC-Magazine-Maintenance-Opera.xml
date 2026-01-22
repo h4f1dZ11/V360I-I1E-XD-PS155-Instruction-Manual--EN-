@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.11.6 ATC Magazine Maintenance Operation</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">ATC Magazine Maintenance Operation</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">The ATC magazine can be operated in four modes:</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Reference Mode</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Inch Mode</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Index Mode</li>
+      <li styleclass="Normal" style="margin-left:13px;"> Jog Mode</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:13px;"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text style="font-weight:bold;">ATC Magazine Reference Mode</text></para>
+    <para styleclass="Normal">This mode allows the operator to perform the magazine reference setting manually. In this mode, magazine rotation speed is locked to the minimum.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text style="font-weight:bold;">ATC Magazine Inch Mode</text></para>
+    <para styleclass="Normal">This mode allows the operator to rotate the magazine by a fixed distance clockwise or anti-clockwise each time the button is pressed.</para>
+    <para styleclass="Normal">The inching amount in degrees must be entered in the input box. If no value is set, the magazine does not move. The rotation speed setting is applicable in this mode.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text style="font-weight:bold;">ATC Magazine Index Mode</text></para>
+    <para styleclass="Normal">In this mode, the magazine will rotate when the clockwise or anti-clockwise button is pressed. These CW and CCW buttons are located the ATC operation panel. Once the button is released, the magazine will automatically rotate the nearest pot to the index position. The rotation speed setting is applicable in this mode.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-bottom:15px;"><text style="font-weight:bold;">ATC Magazine Jog Mode</text></para>
+    <para styleclass="Normal" style="margin-bottom:8px;">In this mode, the magazine will rotate when the clockwise or anti-clockwise button is pressed. When the button is released, the magazine stops immediately at the current position.</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">The rotation speed setting is applicable in this mode.</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">The current magazine coordinates and current indexed pot number are displayed on the right for reference.</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">The Magazine Reference status as well as the Magazine Pot Indexed status is also displayed below.</para>
+    <para styleclass="Normal">The clockwise and anti-clockwise buttons are located on the ATC operation panel on the left of the machine. This is for safety as the operator is unable to see the magazine when operating from the operator panel.</para>
+    <para styleclass="Normal" style="page-break-before:always;"><text style="font-weight:bold;">ATC Magazine Maintenance Operation Procedure</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-bottom:4px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">1)</text><tab/><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Enable Maintenance mode.</text></para>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-bottom:4px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">2)</text><tab/><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Select Magazine Rotation.</text></para>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-bottom:4px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">3)</text><tab/><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Select an operation mode, Ref, Inch, Index or Jog.</text></para>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-bottom:4px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">4)</text><tab/><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Enter an inching amount if Inch mode is selected.</text></para>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-bottom:4px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">5)</text><tab/><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Select a rotation speed.</text></para>
+    <para styleclass="1_11mm" style="margin-top:0px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">6)</text><tab/><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Press CW or CCW on the ATC operator panel.</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="ATC Magazine Maintenance.JPG" scale="48.00%" width="410" height="345" styleclass="Image Caption"></image><draft-comment width="29px" height="13px" modified="2024-09-13" styleclass="Comment"><![CDATA[Replace the figure to "ATC Magazine Maintenance" from Chp 4.11 folder in Graphic folder]]></draft-comment></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=4%&gt;.&lt;%HMFIGURECOUNTER%&gt;  </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">ATC Magazine Maintenance</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:196px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+        <td style="width:46px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:202px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:196px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Current Pot Information</para>
+        </td>
+        <td style="vertical-align:middle; width:46px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:202px; height:22px;">
+          <para styleclass="Table Font_Left">ATC Magazine Information</para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

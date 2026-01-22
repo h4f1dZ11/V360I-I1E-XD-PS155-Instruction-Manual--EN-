@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.9.4 EXIST</title>
+  <body>
+    <header>
+      <para styleclass="Heading4"><text style="font-size:12pt;">EXIST</text><draft-comment width="29px" height="13px" modified="2024-09-12" styleclass="Comment"><![CDATA[This page should be same as V180I-I1E-XD Slim3n Instruction Manual (EN) chapter 4.9.4
+]]></draft-comment></para>
+    </header>
+    <para styleclass="Normal">The presence of Tool for the respective pot is indicated by YES / NO under this field. This status can only be changed during Tool load / unload process.</para>
+  </body>
+</topic>

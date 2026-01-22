@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2.2 Machine Primary Components</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Machine Primary Components</para>
+    </header>
+    <para styleclass="Normal">The machine configuration and features are described in this section.</para>
+    <para styleclass="Normal"></para>
+    <list id="5" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px;">&#32;<text style="font-weight:bold;">Spindle</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:8px; margin-left:15px;">The spindle head is mounted onto the column. The spindle head moves up and down to form the Z-axis.</para>
+    <para styleclass="Normal" style="margin-bottom:8px; margin-left:15px;">A built-in AC motor drives the spindle.</para>
+    <para styleclass="Normal" style="margin-left:15px;">The spindle bearings are lubricated with grease/oil+air (option) for life time. The spindle head and motor is jacket-cooled and the generated heat is removed by coolant from the Spindle Cooler Unit.</para>
+    <para styleclass="Normal" style="margin-left:15px;"></para>
+    <list id="5" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px;">&#32;<text style="font-weight:bold;">Bed</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:8px; margin-left:15px;">The bed is of high-strength structure consisting of multiple ribs. The linear guideways for the Y-axis are mounted on the bed.</para>
+    <para styleclass="Normal" style="margin-left:15px;">A six-point support structure is employed to improve installation accuracy and stability.</para>
+    <para styleclass="Normal" style="margin-left:15px;"></para>
+    <list id="5" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px;">&#32;<text style="font-weight:bold;">Column</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-left:15px;">The column is sitting on the bed casting and carries the Z-axis.</para>
+    <para styleclass="Normal" style="margin-left:15px;"></para>
+    <list id="5" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px;">&#32;<text style="font-weight:bold;">Table</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-left:15px;">The table is sitting on the saddle and moves along the X-axis and Y-axis. It comes with T-slots to facilitate clamping of fixture/component for machining.</para>
+    <para styleclass="Normal" style="margin-left:15px;"></para>
+    <list id="6" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px;">&#32;<text style="font-weight:bold;">Automatic Tool Changer (ATC)</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-left:15px;">The Automatic Tool Changer (ATC) consists of tool pockets to accommodate the tools and uses an arm for tool pick-up and loading from ATC to spindle. Magazine indexing is done by servomotor through intermediate gearbox.</para>
+    <para styleclass="Normal" style="margin-left:15px;"></para>
+    <list id="7" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px;">&#32;<text style="font-weight:bold;">Spindle Oil Cooler</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-left:15px;">The spindle cooling oil temperature controller circulates cooling oil through the spindle head outer cylinder and absorbs the generated heat to adjust the temperature of the spindle to that of the machine bed.</para>
+    <para styleclass="Normal" style="margin-left:15px;"></para>
+    <list id="8" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px;">&#32;<text style="font-weight:bold;">Grease Supply Unit</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-left:15px;">The grease supply unit supplies grease to the drive units of the machine components. As a standard scope, machine is supplied with auto greasing system, greasing takes place automatically and the grease cartridge is to be replaced when alarm is triggered by the system.</para>
+    <para styleclass="Normal" style="margin-left:15px;"></para>
+    <list id="9" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px;">&#32;<text style="font-weight:bold;">Hydraulic Unit</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-left:15px;">The hydraulic unit supplies hydraulic oil to the spindle head for tool clamp/unclamp function.</para>
+    <list id="7" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; page-break-before:always; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; page-break-before:always;">&#32;<text style="font-weight:bold;">Chip Disposal Device</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-left:15px;">Cutting chips are flushed away from the machining point using coolant discharge from the nozzles provided on spindle head. Cutting chips on the inside chamber of the machine are carried out by the spiral conveyors and discharged into a chip bucket (or through the drum conveyor - option).</para>
+    <para styleclass="Normal" style="margin-left:15px;"></para>
+    <list id="8" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px;">&#32;<text style="font-weight:bold;">Machine Controller</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-left:15px;">The machine controller controls the overall machine operations and functions, including management of tool/workpiece data required for controlling devices such as the Automatic Tool Changer (ATC) for machining.</para>
+    <para styleclass="Normal" style="margin-left:15px;"></para>
+    <list id="9" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px;">&#32;<text style="font-weight:bold;">NC (Numerical Control) Unit</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-left:15px;">The NC unit executes NC programs and controls axes servomotors and spindle drive motor.</para>
+    <para styleclass="Normal" style="text-align:center; margin-left:15px; page-break-before:always;"></para>
+  </body>
+</topic>

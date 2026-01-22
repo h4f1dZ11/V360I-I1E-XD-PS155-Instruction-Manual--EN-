@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>13.4.1 Signal Control Timing Chart</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Signal Control Timing Chart</para>
+    </header>
+    <para styleclass="Normal">The input/output signals are controlled by signal control when the signal set is not assigned to any group (1 ~ 4) or when the signal set is the only one assigned to a group.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">Single signal control is described below with an example case in which USDO1/USDI1 are controlled with M580 and M581.</para>
+    <para styleclass="Normal">USDO1 is turned on by M581 and USDO1 is turned off by M580. All other input/outputs signal sets are controlled in the same manner with different M codes.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">The timing chart below shows the operation with the following functions:</para>
+    <para styleclass="Normal"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Start Condition Not Confirmed</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Finish Condition Confirmed</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Completion Delay Time Specified</li>
+      <li styleclass="Normal" style="margin-left:13px;"> Output Signal Not Turned Off Upon Completion</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:13px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"><image src="Ch 4 Fig 13.5.png" scale="25.00%" width="378" height="212" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="margin-left:13px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"><text styleclass="Figure E" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=13%&gt;.&lt;%HMFIGURECOUNTER%&gt; Example of Signal Control Timing Chart</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px; margin-left:13px; page-break-before:always;"></para>
+  </body>
+</topic>

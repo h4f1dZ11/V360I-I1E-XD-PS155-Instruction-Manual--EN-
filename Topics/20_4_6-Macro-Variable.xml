@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>20.4.6 Macro Variable</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Macro Variable</para>
+    </header>
+    <para styleclass="Normal">No restriction on macro variable numbers to be used.</para>
+  </body>
+</topic>

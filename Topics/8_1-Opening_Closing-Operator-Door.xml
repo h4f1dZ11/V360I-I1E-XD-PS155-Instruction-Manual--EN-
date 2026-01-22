@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>8.1 Opening/Closing Operator Door</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Opening/Closing Operator Door</para>
+    </header>
+    <para styleclass="Normal">The following door locking system can be installed on the operator door.</para>
+    <para styleclass="Normal"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Door Lock system (Standard)</li>
+    </list>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px; margin-left:13px;"><image src="Fig 8.1 OpeningClosing Operator Door.png" scale="30.00%" width="423" height="466" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"><text styleclass="Figure E" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=8%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; Opening/Closing Operator Door</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px; page-break-before:always;"></para>
+  </body>
+</topic>

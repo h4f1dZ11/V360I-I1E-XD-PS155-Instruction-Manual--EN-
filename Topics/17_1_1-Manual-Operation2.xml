@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>17.1.1 Manual Operation</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Manual Operation</para>
+    </header>
+    <para styleclass="Normal">Manual operation of mist collector (option) from the Function screen.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text style="font-weight:bold;">Manual Operation Procedure</text></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">Press the MDI key <text style="font-weight:bold;">[CUSTOM2]</text>.</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">Select <text style="font-weight:bold;">[MAINT MENU]</text> by moving the <text style="font-weight:bold;">[</text><text styleclass style="font-family:Symbol; font-size:11pt; font-weight:bold; color:#000000;">¬</text><text style="font-weight:bold;">]</text> or <text style="font-weight:bold;">[</text><text styleclass style="font-family:Symbol; font-size:11pt; font-weight:bold; color:#000000;">®</text><text style="font-weight:bold;">]</text> cursor.</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">Select Mist Collector by moving the MDI cursor key <text style="font-weight:bold;">[</text><text styleclass style="font-family:Symbol; font-size:11pt; font-weight:bold; color:#000000;">­</text><text style="font-weight:bold;">]</text> or <text style="font-weight:bold;">[</text><text styleclass style="font-family:Symbol; font-size:11pt; font-weight:bold; color:#000000;">¯</text><text style="font-weight:bold;">]</text>.</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">Press the <text style="font-weight:bold;">[ON]</text> soft key to turn on mist collector.</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">Press the <text style="font-weight:bold;">[OFF]</text> soft key to turn off mist collector.</li>
+    </list>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px; margin-left:13px;"><draft-comment width="29px" height="13px" modified="2024-09-13" styleclass="Comment"><![CDATA[Replace the figure to "Mist Collector Manual Operation" from Chp 14 folder in Graphic folder]]></draft-comment><text styleclass="Image Caption"> </text><image src="Mist Collector Button.png" scale="65.00%" width="418" height="339" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=17%&gt;.&lt;%HMFIGURECOUNTER=1%&gt;  </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Mist Collector Manual Operation</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:196px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:196px; height:22px;">
+          <para styleclass="Normal"><text style="font-size:10pt; font-weight:bold;"> [MIST COLLECTOR]</text><text style="font-size:10pt;"> Button</text></para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>11.1 Manual Reference Position Return</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Manual Reference Position Return</para>
+    </header>
+    <para styleclass="Normal">Each axis can be manually returned to its pre-set machine reference position.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">NC Alarm No. DS0300: Reference Position Return Required is triggered when the reference position is not recognized in such cases as when the NC backup battery voltage is lower or a motor cable is disconnected. When this alarm is triggered, perform reference position manually to establish the reference position.</para>
+    <para styleclass="Normal" style="margin-top:8px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Danger symbol no text.ipp" scale="16.00%" width="42" height="37" styleclass="Image Caption"></image></para>
+          <para styleclass="Warning_bold_1"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">WARNING</text></para>
+        </td>
+        <td style="vertical-align:middle; width:589px; border-left:none;">
+          <list id="4" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Table font Warning_3" style="font-family:Symbol; font-size:10pt; color:#000000;">
+            <li styleclass="Table font Warning_3">Moving the axes at high speed is dangerous. Make sure to confirm the axis feed rate that has been set before performing reference position return.</li>
+            <li styleclass="Table font Warning_3">Exercise extreme caution when operating the machine with the operator door open to prevent being seriously injured.</li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-top:8px;"></para>
+    <para styleclass="Normal">Each axis can be manually returned to its pre-set machine reference position.</para>
+    <para styleclass="Normal"></para>
+    <list id="5" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> X-Axis: Minus End of Stroke</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Y-Axis: Plus End of Stroke</li>
+      <li styleclass="Normal" style="margin-left:13px;"> Z-Axis: Plus End of Stroke</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:13px;"></para>
+    <para styleclass="Normal">The axis reference position return procedure described in this section returns one axis at a time to its reference position.</para>
+    <para styleclass="Normal" style="page-break-before:always;">To return all axes to their respective reference positions simultaneously, use the <text style="font-weight:bold;">[AUTO ZERO]</text> One-Touch function switch on the main operation panel. The Z-axis, X-axis and Y-axis are returned to their reference positions in this order (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="2_4-One-Touch-Function-Switches" style="color:#0000ff;">2.4 One-Touch Function Switches</link>).</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">The manual reference position return operation cannot be performed with the operator door open under the following conditions.</para>
+    <para styleclass="Normal"></para>
+    <list id="6" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Operation Mode 1 in Operator Door Unlock (Door Lock System)</li>
+      <li styleclass="Normal" style="margin-left:13px;"> Operator Door Lock (Power Out System - Option)</li>
+    </list>
+    <para styleclass="Normal" style="margin-top:8px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Danger symbol no text.ipp" scale="16.00%" width="42" height="37" styleclass="Image Caption"></image></para>
+          <para styleclass="Warning_bold_1"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">WARNING</text></para>
+        </td>
+        <td style="vertical-align:middle; width:589px; border-left:none;">
+          <list id="7" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Table font Warning_3" style="font-family:Symbol; font-size:10pt; color:#000000;">
+            <li styleclass="Table font Warning_3">Exercise extreme caution when operating the machine with the operator door open to prevent being seriously injured.</li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

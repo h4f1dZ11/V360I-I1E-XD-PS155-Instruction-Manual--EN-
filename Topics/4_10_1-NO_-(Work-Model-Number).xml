@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.10.1 NO. (Work Model Number)</title>
+  <body>
+    <header>
+      <para styleclass="Heading4"><text style="font-size:12pt;">NO. (Work Model Number)</text><draft-comment width="29px" height="14px" modified="2024-09-13" styleclass="Comment"><![CDATA[This page should be same as V180I-I1E-XD Slim3n Instruction Manual (EN) chapter 4.10.1]]></draft-comment></para>
+    </header>
+    <para styleclass="Normal">Work model of up to 10 (model 0 to 9) can be selected. The work model is selected by pressing the respective number. The selected model will be highlighted in yellow.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><draft-comment width="29px" height="13px" modified="2024-09-13" styleclass="Comment"><![CDATA[Need to include figure "Work Model No. 0 is Selected" from Chp 4.10.1 folder in Graphic folder]]></draft-comment></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Work Model No. 0 is Selected.JPG" scale="35.00%" width="181" height="114" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=4%&gt;.&lt;%HMFIGURECOUNTER%&gt;  </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Work Model No. 0 is Selected</text></para>
+  </body>
+</topic>

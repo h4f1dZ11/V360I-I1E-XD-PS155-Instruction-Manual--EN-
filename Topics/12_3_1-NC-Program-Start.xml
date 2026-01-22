@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>12.3.1 NC Program Start</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">NC Program Start</para>
+    </header>
+    <para styleclass="Normal">NC programs are started with the <text style="font-weight:bold;">[CYCLE START]</text> switch on the main operation panel. The green lamp built into the<text style="font-weight:bold;"> [CYCLE START]</text> switch is on while the NC program is running.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">The <text style="font-weight:bold;">[CYCLE START]</text> switch is enabled when the MDI/Memory/External Input mode is selected.</para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

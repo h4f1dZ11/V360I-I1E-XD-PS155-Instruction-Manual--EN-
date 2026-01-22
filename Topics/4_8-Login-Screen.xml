@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.8 Login Screen</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Login Screen<draft-comment width="29px" height="13px" modified="2024-09-11" styleclass="Comment"><![CDATA[This page should be same as V180I-I1E-XD Slim3n Instruction Manual (EN) chapter 4.8]]></draft-comment></para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">From the Login Screen machine can be access with different privilege levels.</para>
+    <para styleclass="Normal">To navigate to Login Screen, press <text style="font-weight:bold;">[MENU]</text> <text styleclass style="font-family:Symbol; font-size:11pt; color:#000000;">®</text> press Makino icon <text styleclass style="font-family:Symbol; font-size:11pt; color:#000000;">®</text> Main Menu Screen is displayed <text styleclass style="font-family:Symbol; font-size:11pt; color:#000000;">®</text> press Login Screen icon <text styleclass style="font-family:Symbol; font-size:11pt; color:#000000;">®</text> Login Screen is displayed.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="1_11mm" style="text-align:center; margin-top:0px; margin-bottom:8px;"><image src="Login Screen.JPG" scale="45.00%" width="392" height="292" styleclass="Image Caption"></image><draft-comment width="29px" height="13px" modified="2024-09-11" styleclass="Comment"><![CDATA[Replace the figure to"Login Screen" from Chp 4.8 folder in Graphic folder]]></draft-comment></para>
+    <para styleclass="1_11mm" style="text-align:center; margin-top:0px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=4%&gt;.&lt;%HMFIGURECOUNTER%&gt;  </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Login Screen</text></para>
+    <para styleclass="Normal" style="text-align:center;"><draft-comment width="29px" height="13px" modified="2024-09-11" styleclass="Comment"><![CDATA[Remove the table]]></draft-comment></para>
+    <para styleclass="Normal"><draft-comment width="29px" height="13px" modified="2024-09-11" styleclass="Comment"><![CDATA[Remove the figures and all the contents below]]></draft-comment></para>
+  </body>
+</topic>

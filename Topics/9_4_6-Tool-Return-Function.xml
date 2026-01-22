@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>9.4.6 Tool Return Function</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Tool Return Function</para>
+    </header>
+    <para styleclass="Normal">Tool return is the process to return all tools to the magazine. To do this, at least 1 pot in the magazine must be empty. Note that the spindle is also considered as a pot, i.e. in a 30 Tool Magazine Machine, there are 31 pots including the spindle pot.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">Magazine pots that are not in use should have 0 assigned to the PTN Number. When T0 command is issued, the magazine will index to a pot with PTN number 0. Commanding M6 will return the current spindle tool to the magazine.</para>
+  </body>
+</topic>

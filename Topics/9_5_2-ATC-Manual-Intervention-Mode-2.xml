@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>9.5.2 ATC Manual Intervention Mode On/Off Conditions</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">ATC Manual Intervention Mode On/Off Conditions</para>
+    </header>
+    <para styleclass="Normal">The following conditions are required for turning on/off ATC Manual Intervention mode:</para>
+    <para styleclass="Normal"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Not M06 Operation</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Not M319 Operation</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Not ATC Auto Recovery Operation</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Not Magazine Auto Reference Operation</li>
+      <li styleclass="Normal" style="margin-left:13px;"> Not Magazine Auto Return Operation</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:13px;"></para>
+    <para styleclass="Normal">If the <text style="font-weight:bold;">[ATC Manual Intervention Mode]</text> push button is pressed and the above conditions are not satisfied, the ATC Manual mode lamp will blink. Once the above conditions are satisfied, the lamp will stop blinking. If the switch is pressed again while the lamp is blinking, the on/off request will cancel and the lamp will stop blinking.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">The <text style="font-weight:bold;">[ATC Manual Intervention Mode]</text> push button is accessible on the ATC operation panel. (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="9_5_3-ATC-Operation-Panel-(ATC-Magaz" style="color:#0000ff;">9.5.3 ATC Operation Panel (ATC Magazine Side)</link>) </para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

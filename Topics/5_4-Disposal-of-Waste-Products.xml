@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">5.4 Disposal of Waste Products</title>
+  <body>
+    <header>
+      <para styleclass="Heading3" style="page-break-before:always;"><text styleclass="Heading3" translate="true">Disposal of Waste Products</text></para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:11px;"></para>
+  </body>
+</topic>

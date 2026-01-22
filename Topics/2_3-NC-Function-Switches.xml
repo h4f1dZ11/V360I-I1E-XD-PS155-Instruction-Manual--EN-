@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2.3 NC Function Switches</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">NC Function Switches</para>
+    </header>
+    <para styleclass="Normal">Four NC function switches <text style="font-weight:bold;">[SINGLE BLOCK]</text>, <text style="font-weight:bold;">[BLOCK SKIP]</text>, <text style="font-weight:bold;">[DRY RUN]</text> and <text style="font-weight:bold;">[OPTIONAL STOP]</text> are allocated to the main operation panel. When a switch is pressed, the corresponding function is turned on (switch lamp illuminated). When the switch is pressed again, the function is turned off (switch lamp extinguished).</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Title1" style="text-align:left; background-color:transparent; border:none;"><table styleclass="Default" rowcount="5" colcount="4" style="width:100%; cell-padding:3px; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; head-row-background-color:#dddddd; alt-row-background-color:none;">
+      <thead style="vertical-align:top">
+        <td style="width:31px;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:176px;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+        <td style="width:94px;">
+          <para styleclass="Table font_Header">Symbol</para>
+        </td>
+        <td style="width:581px;">
+          <para styleclass="Table font_Header">Description</para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:31px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">1</text></para>
+        </td>
+        <td style="width:176px;">
+          <para styleclass="Normal"><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">[SINGLE BLOCK] </text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Switch</text></para>
+        </td>
+        <td style="vertical-align:top; width:94px;">
+          <para styleclass="Normal" style="text-align:center;"><image src="Single Block Switch.png" scale="22.00%" width="53" height="53" styleclass="Image Caption"></image></para>
+        </td>
+        <td style="vertical-align:top; width:581px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">This switch turns the Single Block mode on/off. When the Single Block mode is on, programs are executed in single blocks and operation stops after each block in the program is executed. Operation can be continued by pressing the </text><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">[CYCLE START]</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;"> switch.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:31px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">2</text></para>
+        </td>
+        <td style="width:176px;">
+          <para styleclass="Normal"><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">[BLOCK SKIP] </text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Switch</text></para>
+        </td>
+        <td style="vertical-align:top; width:94px;">
+          <para styleclass="Normal" style="text-align:center;"><image src="Block Skip Switch.png" scale="22.00%" width="54" height="54" styleclass="Image Caption"></image></para>
+        </td>
+        <td style="vertical-align:top; width:581px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">This switch turns the Block Skip mode on/off. When the Block Skip mode is on, blocks in the program with a “ / &#160;” (slash) at the beginning are ignored.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:31px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">3</text></para>
+        </td>
+        <td style="width:176px;">
+          <para styleclass="Normal"><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">[DRY RUN]</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;"> Switch</text></para>
+        </td>
+        <td style="vertical-align:top; width:94px;">
+          <para styleclass="Normal" style="text-align:center;"><image src="Dry Run Switch.png" scale="22.00%" width="54" height="53" styleclass="Image Caption"></image></para>
+        </td>
+        <td style="vertical-align:top; width:581px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">This switch turns the Dry Run mode on/off. Dry Run refers to test-running the machine for the purpose of checking programs. When this mode is on, the Dry Run feed replaces the cutting feed rate specified in the program.</text></para>
+          <para styleclass="Notes">-NO<text styleclass=" " style="font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#231f20; background-color:#ffffff; letter-spacing:normal; letter-scaling:100%;">TES</text>-</para>
+          <list id="4" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Notes" style="font-family:Arial; font-size:10pt; color:#231f20;">
+            <li styleclass="Notes">To enable this mode, this switch must be turned on before the program is started. To turn on this mode during program operation, turn on the <text style="font-weight:bold;">[SINGLE BLOCK]</text> mode, then turn on the <text style="font-weight:bold;">[DRY RUN]</text> function after the single block is executed.</li>
+          </list>
+          <list id="5" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="Notes" style="margin-bottom:0px; font-family:Arial; font-size:10pt; color:#231f20;">
+            <li styleclass="Notes" style="margin-bottom:0px;">When the <text style="font-weight:bold;">[DRY RUN]</text> switch is turned on while performing measurement using the Automatic Workpiece Measuring unit or the Automatic Tool Length Measuring unit, accurate measurement results cannot be obtained. Therefore, make sure to disable the Dry Run mode during measurement.</li>
+          </list>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:31px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">4</text></para>
+        </td>
+        <td style="width:176px;">
+          <para styleclass="Normal"><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">[OPTIONAL STOP] </text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Switch</text></para>
+        </td>
+        <td style="vertical-align:top; width:94px;">
+          <para styleclass="Normal" style="text-align:center;"><image src="Optional Stop Switch.png" scale="22.00%" width="55" height="55" styleclass="Image Caption"></image></para>
+        </td>
+        <td style="vertical-align:top; width:581px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">This switch turns the Optional Stop mode on/off. Turning the Optional Stop mode on enables operation to be stopped by M01 codes in the program. The </text><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">[CYCLE START]</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;"> switch blinks while the operation is suspended by M01. Operation can be continued by pressing the </text><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">[CYCLE START]</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;"> switch.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Title1" style="text-align:left; background-color:transparent; page-break-before:always; border:none;"></para>
+  </body>
+</topic>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>3.3 PS155 Table Specification</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">P155 Table Specification</para>
+    </header>
+    <para styleclass="Normal" style="margin-top:8px;"><table rowcount="5" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:407px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Specification</para>
+        </td>
+        <td style="width:249px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Measurement</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:407px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Table Working Surface</text></para>
+        </td>
+        <td style="width:249px; height:24px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">1800 mm x 700 mm</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:407px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Fixing Screw</text></para>
+        </td>
+        <td style="width:249px; height:24px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">18H7 T-slot</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:407px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Maximum Pay-Load</text></para>
+        </td>
+        <td style="width:249px; height:24px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">1500 kg</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:407px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Loading Height</text></para>
+        </td>
+        <td style="width:249px; height:24px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">950 mm</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-top:8px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-top:8px;"><image src="Fig 3.1 PS155 Table Specification.png" scale="28.00%" width="520" height="470" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-top:8px;"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=3%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; &#160;PS155 Table Specification</text></para>
+    <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-before:always; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+  </body>
+</topic>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2 Preparation of Installation Space</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Preparation of Installation Space</para>
+    </header>
+    <para styleclass="Normal">Refer to the figures showing the general view and layout drawing for the respective machine specifications to confirm the space requirements and prepare the required installation space.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;">Note the following:</para>
+    <list id="2" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> The maintenance area is the maintenance space required after installation.</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> The maintenance area varies depending on the machine specifications.</li>
+    </list>
+    <para styleclass="Normal">Refer to Installation Manual Chapter 2 Preparation &amp; Installation for the figures showing the general view and layout drawings.</para>
+  </body>
+</topic>

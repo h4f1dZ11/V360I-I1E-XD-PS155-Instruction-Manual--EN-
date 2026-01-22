@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.3 Peripherals</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Peripherals</para>
+    </header>
+    <para styleclass="Normal">The supporting components include:</para>
+    <para styleclass="Normal" style="margin-top:8px;"><table rowcount="15" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:227px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Device</para>
+        </td>
+        <td style="width:425px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Function</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:227px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Spindle Cooler</text></para>
+        </td>
+        <td style="width:425px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;"> Cools the Spindle Unit.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:227px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Machine Light</text></para>
+        </td>
+        <td style="width:425px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;"> LED light provides work area illumination.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:227px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Nozzle Coolant</text></para>
+        </td>
+        <td style="width:425px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;"> Liquid coolant system for the machining process.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:227px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Air Blow</text></para>
+        </td>
+        <td style="width:425px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;"> An air blow coolant system for the machining process.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:227px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">ATC</text></para>
+        </td>
+        <td style="width:425px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;"> Automatic Tool Changer.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:227px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Signal Light</text></para>
+        </td>
+        <td style="width:425px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;"> Signals machine status (running, machining finished, operator attention</text></para>
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;"> and machine in alarm state).</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:227px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Rotary Work Head Table (Option)</text></para>
+        </td>
+        <td style="width:425px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;"> Provides an additional indexing axis on the machine table.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:227px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Through Spindle Coolant (Option)</text></para>
+        </td>
+        <td style="width:425px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;"> Liquid coolant introduced into the machining process through the tool.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:227px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Coolant Flush</text></para>
+        </td>
+        <td style="width:425px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;"> Flushes the chips off the machining chamber area.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:227px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Drum Conveyor (Option)</text></para>
+        </td>
+        <td style="width:425px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;"> An efficient chip disposal system.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:227px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Hydraulic Fixture (Option)</text></para>
+        </td>
+        <td style="width:425px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;"> Provides hydraulic fixture clamping for the workpiece.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:227px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Air Seat Check (Option)</text></para>
+        </td>
+        <td style="width:425px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;"> For checking the proper seating/position of the workpiece.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:227px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Broken Tool Sensor - BTS (Option)</text></para>
+        </td>
+        <td style="width:425px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;"> For detecting a broken tool.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:227px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Linear Scales (Option)</text></para>
+        </td>
+        <td style="width:425px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;"> Improve position accuracy.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-top:8px;"></para>
+    <para styleclass="Normal">Many other options are possible depending on the machining equipment.</para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

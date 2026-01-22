@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>12.4 Machining Modes M250/M251</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Machining Modes M250/M251</para>
+    </header>
+    <para styleclass="Normal">GI Control allows different machining mode selections for specific purposes by M code. Selection of the most appropriate machining mode enhances GI control performance. This machine provides the following two modes of operation during machining:</para>
+    <para styleclass="Normal"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> M250 High Accuracy Mode: Used when priority is machining accuracy.</li>
+      <li styleclass="Normal" style="margin-left:13px;"> M251 High Performance Mode: Used when priority is machining speed.</li>
+    </list>
+  </body>
+</topic>

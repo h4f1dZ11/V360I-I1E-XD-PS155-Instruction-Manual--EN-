@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.9.3 TYPE</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">TYPE<draft-comment width="29px" height="13px" modified="2024-09-11" styleclass="Comment"><![CDATA[This page should be same as V180I-I1E-XD Slim3n Instruction Manual (EN) chapter 4.9.3]]></draft-comment></para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">The type of Tool used is set in this field. When the cursor is placed on TYPE field, on the output line at the bottom of the screen the selectable Tool type figure with selection number is displayed.</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">Example:</para>
+    <para styleclass="Normal">Select the required Tool type, press <text style="font-weight:bold;">[2]</text> MDI key <text styleclass style="font-family:Symbol; font-size:11pt; color:#000000;">®</text> <draft-comment width="29px" height="13px" modified="2024-09-11" styleclass="Comment"><![CDATA[Include "figure 1" from Chp 4.9.3 folder in Graphic folder.]]></draft-comment> <image src="figure 1.JPG" scale="38.00%" width="28" height="26" styleclass="Image Caption"></image> is displayed.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><draft-comment width="29px" height="13px" modified="2024-09-11" styleclass="Comment"><![CDATA[Include figure of "Tool Type Selection" from Chp 4.9.3 folder in Graphic folder.]]></draft-comment><image src="Tool type selection.JPG" scale="38.00%" width="490" height="30" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=4%&gt;.&lt;%HMFIGURECOUNTER%&gt;  </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Tool Type Selection</text></para>
+    <para styleclass="Normal"><draft-comment width="29px" height="13px" modified="2024-09-11" styleclass="Comment"><![CDATA[Remove the table.]]></draft-comment></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

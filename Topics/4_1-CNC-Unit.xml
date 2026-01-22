@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.1 CNC Unit</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">CNC Unit</para>
+    </header>
+    <para styleclass="Normal">The term CNC unit mentioned in this manual refers to the Fanuc Controller FS0i-MF+ series.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-weight:bold; text-decoration:underline;">Servo Amplifier Module (SVM) and Power Supply Module (PSM)</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">The axis AC servomotors are driven by the FANUC Alpha Series Servo Amplifier Module (or SVM). The built-in type spindle motor is driven by a Spindle Amplifier Module (or SPM) with a serial interface to the CPU. A central Power Supply Module (PSM) supplies the power to the SVM and SPM.</para>
+  </body>
+</topic>

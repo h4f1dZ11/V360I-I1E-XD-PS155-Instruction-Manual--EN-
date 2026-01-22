@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.9.17 RET TYPE (Retract Type)</title>
+  <body>
+    <header>
+      <para styleclass="Heading4"><text style="font-size:12pt;">RET TYPE (Retract Type)</text><draft-comment width="29px" height="14px" modified="2024-09-12" styleclass="Comment"><![CDATA[This page should be same as V180I-I1E-XD Slim3n Instruction Manual (EN) chapter 4.9.17
+]]></draft-comment></para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">In RET TYPE field, Z-axis retract path can be set between Z0 or Not Z0 path. </para>
+    <para styleclass="Normal" style="margin-bottom:8px;">Z0 - Tool retract to Z0 to clear fixture interface.</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">Not Z0 - Tool path interpolates during Tool change.</para>
+  </body>
+</topic>

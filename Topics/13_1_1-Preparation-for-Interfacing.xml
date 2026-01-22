@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>13.1.1 Preparation for Interfacing</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Preparation for Interfacing</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">In order to utilize the user I/O interface, the following preparations are necessary:</para>
+    <list id="2" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Set the machine parameters for each user I/O to specify the usage of the following functions</li>
+    </list>
+    <list id="3" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:4px; margin-left:52px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:52px;">Grouping of user I/O signals</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:52px;">Confirmation of conditions at M code start</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:52px;">Confirmation of conditions at M code finish</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:52px;">M code completion delay time</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:52px;">Output signal Off after operation completion</li>
+    </list>
+    <list id="2" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Connect the machine controller and the external device with cables.</li>
+      <li styleclass="Normal" style="margin-left:13px;"> Confirm the external device functions properly.</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:13px; page-break-before:always;"></para>
+  </body>
+</topic>

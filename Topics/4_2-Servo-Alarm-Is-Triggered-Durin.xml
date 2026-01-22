@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.2 Servo Alarm Is Triggered During Operation</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Servo Alarm Is Triggered During Operation</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="10" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:239px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Possible Causes</para>
+        </td>
+        <td style="width:648px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Corrective Measures</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Workpiece and spindle head come into contact.</para>
+        </td>
+        <td style="vertical-align:top; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:4px; line-height:1.00;">Spindle head may be damaged. Contact your Makino service representative for assistance.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Workpiece exceeds specifications (weight).</para>
+        </td>
+        <td style="vertical-align:top; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:4px; line-height:1.00;">Use workpiece within specified weight.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Cutting overload.</para>
+        </td>
+        <td style="vertical-align:middle; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Confirm the tool is not damaged and machining condition is correct.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Faulty electric circuit.</para>
+        </td>
+        <td style="vertical-align:middle; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">There is a possibility of a electrical short circuit. Check each cable using the</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">volt meter.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Servomotor wiring (cable) is improperly connected or damaged.</para>
+        </td>
+        <td style="vertical-align:top; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Check the cable is correctly connected. If the cable is damaged, replace the cable.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Circuit breaker is tripped.</para>
+        </td>
+        <td style="vertical-align:top; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Circuit breaker is tripped when the motor load is excessive. Eliminate the cause of the problem and then power on the motor breaker inside the machine controller.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Voltage is low.</para>
+        </td>
+        <td style="vertical-align:middle; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Check cause of low voltage and adjust to the proper voltage.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Electromagnetic contactor is improperly connected.</para>
+        </td>
+        <td style="vertical-align:top; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">If the electromagnetic contactor is damaged, replacement is necessary.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Contact your Makino service representative.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Other servo system malfunction.</para>
+        </td>
+        <td style="vertical-align:top; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Servomotor, servo amplifier, servomotor encoder or scale unit is malfunctioning.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Confirm the alarm content and replace the damaged parts if necessary.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">When replacing the scale unit, contact your Makino service representative.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>13.6.2 Controlling Double Solenoid Valve</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Controlling Double Solenoid Valve</para>
+    </header>
+    <para styleclass="Normal">The control procedure for a double solenoid valve device consisting of two solenoid valves and two limit switches is described below.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Ch 4 Fig 13.17.png" scale="25.00%" width="406" height="296" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"><text styleclass="Figure E" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=13%&gt;.&lt;%HMFIGURECOUNTER%&gt; Double Solenoid Valve Device Control Timing Chart</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"></para>
+    <para styleclass="Normal"><text style="font-weight:bold;">Control Procedure Using USDO1/USDI1</text></para>
+    <para styleclass="Normal"></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Set the machine parameters as follows:</text></li>
+    </list>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-left:100px;"><text styleclass style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">USDO1/USDI1 Setting</text></para>
+    <list id="3" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body bullet" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">  No. 11001 (USDO1/USDI1 assigned to Group 1) 1: Yes</text></li>
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">  No. 11033 (Start Condition Confirm – Single) 0: Not Confirmed</text></li>
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">  No. 11041 (Start Condition Confirm – Group) 0: Not Confirmed</text></li>
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">  No. 11049 (Finish Condition Confirm – Single) 1: Confirmed</text></li>
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">  No. 11057 (Finish Condition Confirm – Group)  1: Confirmed</text></li>
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">  No. 11073 (Operation Completion Time Limit) 30: 30 [sec]</text></li>
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">  No. 11089 (Off Operation Completion Delay Time) 0: 0 [msec]</text></li>
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">  No. 11081 (On Operation Completion Delay Time) 0: 0 [msec]</text></li>
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">  No. 11065 (USDO1 turn off after operation completion) 0: Not turned off</text></li>
+    </list>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-left:100px; page-break-before:always;"><text styleclass style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">USDO2/USDI2 Setting</text></para>
+    <list id="3" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body bullet" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">  No. 11002 (USDO2/USDI2 assigned to Group 1) 1: Yes</text></li>
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">  No. 11034 (Start Condition Confirm – Single) 0: Not Confirmed</text></li>
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">  No. 11042 (Start Condition Confirm – Group) 0: Not Confirmed</text></li>
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">  No. 11050 (Finish Condition Confirm – Single) 1: Confirmed</text></li>
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">  No. 11058 (Finish Condition Confirm – Group) 1: Confirmed</text></li>
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">  No. 11074 (Operation Completion Time Limit) 30: 30 [sec]</text></li>
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">  No. 11090 (Off Operation Completion Delay Time) 0: 0 [msec]</text></li>
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">  No. 11082 (On Operation Completion Delay Time) 0: 0 [msec]</text></li>
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">  No. 11066 (USDO1 turn off after operation completion) 0: Not turned off</text></li>
+    </list>
+    <para styleclass="Body bullet" style="margin-top:0px;"></para>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; margin-left:100px;"><text styleclass style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">Other Settings</text></para>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-left:100px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Set parameter from No. 11003 to No. 11008 to “0”</text></para>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-left:100px;"></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Connect the limit switch/solenoid valve and the input/output signal terminal in the machine controller with cables. Connect the solenoid valve to USDO1 and USDO2 and the limit switch to USDI1 and USDI2.</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Issue M581 and M583 in MDI mode to confirm the double actuator operation.</text></li>
+    </list>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; page-break-before:always;"></para>
+  </body>
+</topic>

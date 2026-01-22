@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>6.2 Servo Alarm Is Triggered During Operation</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Servo Alarm Is Triggered During Operation</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="4" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:239px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Possible Causes</para>
+        </td>
+        <td style="width:648px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Corrective Measures</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Tool magazine driver motor malfunction.</para>
+        </td>
+        <td style="vertical-align:top; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Record the alarm number and operating conditions at the time of the alarm and contact your Makino service representative.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Excessive load is applied to drive unit for some reason, resulting in motor overload/overcurrent alarm being triggered.</para>
+        </td>
+        <td style="vertical-align:top; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Record the alarm number and operating conditions at the time of the alarm and check for any obstruction to the magazine rotation.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Contact your Makino service representative.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Tool exceeds specifications. (weight)</para>
+        </td>
+        <td style="vertical-align:top; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Use a tool within specified weight. (Refer to <text style="color:#0000ff;">Chapter 4,</text> <link displaytype="text" defaultstyle="false" type="topiclink" href="9-Tool-Preparations" style="color:#0000ff;">9 Tool Preparations</link><link displaytype="text" defaultstyle="false" type="topiclink" href="9-Tool-Preparations">)</link></para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

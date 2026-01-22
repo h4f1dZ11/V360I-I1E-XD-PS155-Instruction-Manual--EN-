@@ -1,0 +1,810 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>6.1 G Code List</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">G Code List</para>
+    </header>
+    <para styleclass="Normal"><table rowcount="27" colcount="3" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:middle">
+        <td style="width:82px; height:28px; background-color:#dddddd;">
+          <para styleclass="Table font_Header" style="margin-top:0px; margin-bottom:0px;">Code No.</para>
+        </td>
+        <td style="width:75px; height:28px; background-color:#dddddd;">
+          <para styleclass="Table font_Header" style="margin-top:0px; margin-bottom:0px;">Group</para>
+        </td>
+        <td style="width:458px; height:28px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Function</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G00</text></para>
+        </td>
+        <td rowspan="4" style="vertical-align:middle; width:75px; height:28px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">01</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Positioning</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G01</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Linear Interpolation</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:29px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G02</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:29px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Circular Interpolation/Helical Interpolation CW</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G03</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Circular Interpolation/Helical Interpolation CCW</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G04</text></para>
+        </td>
+        <td rowspan="7" style="vertical-align:middle; height:28px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">00</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Dwell, Exact Stop</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G05.1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">AI Advanced Control/AI Contour Control</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G07.1(G107)</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Cylindrical Interpolation</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G08</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Advanced Preview Control</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G09</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Exact Stop</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G10</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Programmable Data Input</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G11</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Programmable Data Input Mode Cancel</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G15</text></para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; height:28px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">17</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Polar Coordinates Command Cancel</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G16</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Polar Coordinates Command</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G17</text></para>
+        </td>
+        <td rowspan="3" style="vertical-align:middle; height:28px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">02</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Xp Yp Plane Selection      Xp: X axis or its parallel axis</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G18</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Zp Xp Plane Selection       Yp: Y axis or its parallel axis</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G19</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Yp Zp Plane Selection       Zp: Z axis or its parallel axis</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G20</text></para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; height:28px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">06</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Input in inch</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G21</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Input in mm</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G22</text></para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; height:28px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">04</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Stored Stroke Check Function On</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G23</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Stored Stroke Check Function Off</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G27</text></para>
+        </td>
+        <td rowspan="5" style="vertical-align:middle; height:28px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">00</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Reference Position Return Check</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G28</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Return To Reference Position</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G29</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Return From Reference Position</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G30</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">2nd, 3rd and 4th Reference Position Return</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G31</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Skip Function</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G33</text></para>
+        </td>
+        <td style="vertical-align:middle; width:75px; height:28px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">01</text></para>
+        </td>
+        <td style="vertical-align:middle; width:458px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Thread Cutting</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="page-break-before:always;"><table rowcount="29" colcount="3" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G37</text></para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; width:74px; height:28px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">00</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Automatic Tool Length Measurement</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G39</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Corner Offset Circular Interpolation</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G40</text></para>
+        </td>
+        <td rowspan="3" style="vertical-align:middle; height:14px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">07</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Cutter Compensation Cancel/Three-Dimensional Tool Compensation Cancel</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G41</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Cutter Compensation Left/Three-Dimensional Tool Compensation</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G42</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Cutter Compensation Right</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G40.1(G150)</text></para>
+        </td>
+        <td rowspan="3" style="vertical-align:middle; height:14px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">19</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Normal Direction Control Cancel Mode</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G41.1(G151)</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Normal Direction Control Left Side On</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G42.1(G152)</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Normal Direction Control Right On</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G43</text></para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; height:14px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">08</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Tool Length Compensation + Direction</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G44</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Tool Length Compensation - Direction</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G45</text></para>
+        </td>
+        <td rowspan="4" style="vertical-align:middle; height:14px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">00</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Tool Offset Increase</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G46</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Tool Offset Decrease</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G47</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Tool Offset Double Increase</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G48</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Tool Offset Double Decrease</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G49</text></para>
+        </td>
+        <td style="vertical-align:middle; height:3px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">08</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Tool Length Compensation Cancel</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G50</text></para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; height:3px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">11</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Scaling Cancel</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G51</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Scaling</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G50.1</text></para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; height:3px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">22</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Programmable Mirror Image Cancel</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G51.1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Programmable Mirror Image</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G52</text></para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; height:3px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">00</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Local Coordinate System Setting</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G53</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Machine Coordinate System Selection</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G54</text></para>
+        </td>
+        <td rowspan="7" style="vertical-align:middle; height:3px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">14</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Workpiece Coordinate System 1 Selection</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G54.1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Additional Workpiece Coordinate System Selection</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G55</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Workpiece Coordinate System 2 Selection</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G56</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Workpiece Coordinate System 3 Selection</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G57</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Workpiece Coordinate System 4 Selection</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G58</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Workpiece Coordinate System 5 Selection</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G59</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Workpiece Coordinate System 6 Selection</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:28px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G60</text></para>
+        </td>
+        <td style="vertical-align:middle;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">00</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Single Direction Positioning</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="page-break-before:always;"><table rowcount="32" colcount="3" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G61</text></para>
+        </td>
+        <td rowspan="4" style="vertical-align:middle; width:74px; height:26px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">15</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Exact Stop Mode</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G62</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Automatic Corner Override</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G63</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Tapping Mode</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G64</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Cutting Mode</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G65</text></para>
+        </td>
+        <td style="vertical-align:middle; width:74px; height:26px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">00</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Macro Call</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G66</text></para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; height:26px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">12</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Macro Modal Call</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G67</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Macro Modal Call Cancel</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G68</text></para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; height:26px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">16</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Coordinate Rotation/Three-Dimensional Coordinate Conversion</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G69</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Coordinate Rotation Cancel/Three-Dimensional Coordinate Conversion Cancel</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G73</text></para>
+        </td>
+        <td rowspan="13" style="vertical-align:middle; height:26px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">09</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Peck Drilling Cycle</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G74</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Counter Tapping Cycle</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G76</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Fine Boring Cycle</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G80</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Canned Cycle Cancel/External Operation Function Cancel</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G81</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Drilling Cycle, Spot Boring Cycle or External Operation Function</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G82</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Drilling Cycle or Counter Boring Cycle</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G83</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Peck Drilling Cycle</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G84</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Tapping Cycle</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G85</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Boring Cycle</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G86</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Boring Cycle</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G87</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Back Boring Cycle</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G88</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Boring Cycle</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G89</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Boring Cycle</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G90</text></para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; height:26px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">03</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Absolute Command</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G91</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Increment Command</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G92</text></para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; height:26px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">00</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Setting For Work Coordinate System or Clamp at Maximum Spindle Speed</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G92.1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Workpiece Coordinate System Preset</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G94</text></para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; height:26px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">05</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Feed Per Minute</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G95</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Feed Per Rotation</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G96</text></para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; height:26px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">13</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Constant Surface Speed Control</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G97</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Constant Surface Speed Control Cancel</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G98</text></para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; height:26px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">10</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Return To Initial Point in Canned Cycle</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:82px; height:26px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">G99</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:26px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Return To R Point in Canned Cycle</text></para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

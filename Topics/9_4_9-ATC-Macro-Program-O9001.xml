@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>9.4.9 ATC Macro Program O9001</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">ATC Macro Program O9001</para>
+    </header>
+    <para styleclass="Normal">Many conditions are necessary to be satisfied before tool change is allowed to be performed. To facilitate the ease of programming by the operator, a macro program has been prepared to perform the following actions when a M6 is commanded. </para>
+    <para styleclass="Normal"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Canned Cycle Cancel</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Mirror Image Off</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Z-Axis 2nd Reference Position</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Coolant Off</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Spindle Orientation</li>
+      <li styleclass="Normal" style="margin-left:13px;"> X &amp; Y-Axis 2nd Reference Position</li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">The standard program sent with the machine is O9001. The operator is allowed to modify this macro program if necessary.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><table styleclass="Default" rowcount="6" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="width:190px; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">O9001;</para>
+        </td>
+        <td style="width:1px; border-bottom:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:190px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">G80M23;</para>
+        </td>
+        <td style="width:1px; border-top:none; border-bottom:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:190px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">G30G91Z0M319;</para>
+        </td>
+        <td style="width:1px; border-top:none; border-bottom:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:190px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">G30G91X0Y0;</para>
+        </td>
+        <td style="width:1px; border-top:none; border-bottom:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:190px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">M06;</para>
+        </td>
+        <td style="width:1px; border-top:none; border-bottom:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:190px; border-top:none; border-right:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">M99;</para>
+        </td>
+        <td style="width:1px; border-top:none; border-bottom:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;"></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">NC Parameter 6071 is set to 6 to enable O9001 call during M6 command. To disable this macro call, set NC parameter 6071 to 0.</para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

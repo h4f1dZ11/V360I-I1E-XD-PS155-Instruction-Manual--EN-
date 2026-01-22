@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>9.3.3 Tool Change Command Start Conditions</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Tool Change Command Start Conditions</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">The following conditions are required for tool change command:</para>
+    <list id="2" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Z-axis 2nd Reference Position</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Spindle Orientation</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Coolant Off</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> ATC Magazine Door Close</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Spindle Tool is Clamped</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Maintenance Mode Off</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> ATC Manual Intervention Mode Off</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Tool Data Screen Tool Call Mode Off</li>
+      <li styleclass="Normal" style="margin-left:13px;"> ATC Magazine Index Position</li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"></para>
+    <para styleclass="Notes">-NOTES-</para>
+    <list id="3" type="ol" listtype="decimal" formatstring="%0:s    " format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Notes" style="margin-bottom:0px; font-family:Arial; font-size:10pt; color:#231f20;">
+      <li styleclass="Notes" style="margin-bottom:0px;">Pressing the <text style="font-weight:bold;">[OT RELEASE]</text> switch on the main operator panel can bypass these conditions</li>
+    </list>
+    <para styleclass="Normal"><text style="font-size:10pt;">      during manual and maintenance operations. When the </text><text style="font-size:10pt; font-weight:bold;">[OT RELEASE]</text><text style="font-size:10pt;"> button is pressed,</text></para>
+    <para styleclass="Normal"><text style="font-size:10pt;">      safety checks are ignored. Extreme care must be taken by the operator during operations</text></para>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text style="font-size:10pt;">      with “OT Release” activated.</text></para>
+    <list id="3" type="ol" listtype="decimal" formatstring="%0:s    " format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Notes" style="margin-bottom:0px; font-family:Arial; font-size:10pt; color:#231f20;">
+      <li styleclass="Notes" style="margin-bottom:0px;">The ATC arm standby position is monitored by the machine controller to confirm that the ATC</li>
+    </list>
+    <para styleclass="Normal"><text style="font-size:10pt;">      arm is in a safe position for axes movements. When the ATC arm is not in standby position,</text></para>
+    <para styleclass="Normal"><text style="font-size:10pt;">      axis movement is prohibited by axis interlock. In addition, an alarm is triggered if a tool change</text></para>
+    <para styleclass="Normal"><text style="font-size:10pt;">      operation is commanded.</text></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

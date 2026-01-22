@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>7.4 Turning Power Off</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Turning Power Off</para>
+    </header>
+    <para styleclass="Normal">Turn off the power supply using any of the following procedures:</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-weight:bold;">A   Manual Operation (Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href="7_1-Switches_Buttons-to-Turn-Power" anchor="Fig7.1" style="font-weight:bold; color:#0000ff;">Figure 7.1</link><text style="font-weight:bold;">)</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">Press the <text style="font-weight:bold;">[POWER OFF]</text> switch on the main operation panel once. The main power supply is turned off after a certain amount of time elapses.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Notes">-NOTES-</para>
+    <list id="5" type="ol" listtype="decimal" formatstring="%0:s    " format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Notes" style="font-family:Arial; font-size:10pt; color:#231f20;">
+      <li styleclass="Notes">If the <text style="font-weight:bold;">[EMERGENCY STOP]</text> switch is pressed before the <text style="font-weight:bold;">[POWER OFF]</text> switch is pressed, the power off time will be less than 10 seconds.</li>
+      <li styleclass="Notes" style="margin-bottom:4px;">Pressing the <text style="font-weight:bold;">[POWER OFF]</text> switch initiates the power off sequence. During this time, the <text style="font-weight:bold;">[POWER OFF]</text> switch lamp blinks. If the <text style="font-weight:bold;">[POWER OFF]</text> switch is pressed again, the power off sequence is canceled. The main power supply is not turned off.</li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-weight:bold;">B   Automatic Operation (Automatic Power Out Function) (Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href="7_1-Switches_Buttons-to-Turn-Power" anchor="Fig7.1" style="font-weight:bold; color:#0000ff;">Figure 7.1</link><text style="font-weight:bold;">)</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">Enable the <text style="font-weight:bold;">[POWER OFF]</text> soft key on the Function screen. This activates the auto power ff mode.</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">The machine power is automatically turned Off under any of the following situations. </para>
+    <list id="3" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:4px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Machining is completed (execution of M02 or M30 command)</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Emergency stop is activated</li>
+      <li styleclass="Normal" style="margin-left:13px;"> Some alarms are triggered</li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:8px; margin-left:13px; page-break-before:always;"></para>
+  </body>
+</topic>

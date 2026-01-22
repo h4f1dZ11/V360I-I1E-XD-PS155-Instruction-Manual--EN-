@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>10.2 Workpiece Set-Up</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Workpiece Set-Up</para>
+    </header>
+    <para styleclass="Normal" style="margin-top:8px; margin-bottom:15px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Danger symbol no text.ipp" scale="16.00%" width="42" height="37" styleclass="Image Caption"></image></para>
+          <para styleclass="Warning_bold_1"><text styleclass style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">WARNING</text></para>
+        </td>
+        <td style="vertical-align:middle; width:589px; border-left:none;">
+          <list id="2" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Table font Warning_3" style="margin-bottom:0px; font-family:Symbol; font-size:10pt; color:#000000;">
+            <li styleclass="Table font Warning_3" style="margin-bottom:0px;">Firmly secure the workpiece with the fixtures.</li>
+            <li styleclass="Table font Warning_3" style="margin-bottom:0px;">Remove any sharp edges on the workpiece with a file prior to set-up.</li>
+            <li styleclass="Table font Warning_3" style="margin-bottom:0px;">When unclamping the workpiece, firmly support it and take adequate precautions to ensure it does not drop.</li>
+            <li styleclass="Table font Warning_3" style="margin-top:0px;">Use a crane or a manual lifter to load workpieces too heavy to lift unassisted.</li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal">The workpiece set-up/removal and machining ready operation procedures are described in this section.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-weight:bold;">Mounting/Removal Procedure</text></para>
+    <para styleclass="Normal"></para>
+    <list id="3" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Open the operator door and mount/remove the workpiece.</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">When workpiece setup is completed and secured, close the operator door.</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Start machining operation or cleaning routine.</text></li>
+    </list>
+    <para styleclass="1_11mm" style="margin-top:0px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">This completes the workpiece mounting/removal procedure.</text></para>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; page-break-before:always;"></para>
+  </body>
+</topic>

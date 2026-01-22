@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>8 Checks/Precautions When Performing Transportation/Installation Work</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Checks/Precautions When Performing Transportation/Installation Work</para>
+    </header>
+    <para styleclass="Normal"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass="Warning_bold_1"><image src="Danger symbol no text.ipp" scale="18.00%" width="48" height="41"></image></para>
+          <para styleclass="Warning_bold_1">WARNING</para>
+        </td>
+        <td style="width:560px; border-left:none;">
+          <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass style="text-align:left; text-indent:-11px; margin-top:4px; margin-right:4px; margin-bottom:4px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ; font-family:Symbol; font-size:10pt; color:#000000;">
+            <li styleclass style="text-align:left; text-indent:-11px; margin-top:4px; margin-right:4px; margin-bottom:4px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="Table font Warning_1">Some installation procedures can only be performed by moving the machine.</text></li>
+            <li styleclass style="text-align:left; text-indent:-11px; margin-top:4px; margin-right:4px; margin-bottom:4px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="Table font Warning_1">Except for some work which must be performed with the power turned off, make sure to stop the machine and turn off the control power and main power source before performing work.</text></li>
+            <li styleclass style="text-align:left; text-indent:-11px; margin-top:4px; margin-right:4px; margin-bottom:4px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="Table font Warning_1">Make sure to place a warning tag on each operation panel, main power switch and other locations when performing work to ensure that other personnel do not turn On the power inadvertently which could result in the machine being operated. (Refer to </text><text styleclass="Table font Warning_1" style="color:#0000ff;">Chap. 1 Safety </text><link displaytype="text" defaultstyle="false" type="topiclink" href="1_6-Implementing-Lock-out-and-Tag-out" styleclass="Table font Warning_1" style="color:#0000ff;">1.6 Implementing Lock-out and Tag-out</link><text styleclass="Table font Warning_1">).</text></li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">The previous Chapter 1 describes the safety precautions for machine operation, maintenance and inspection in general. Read that chapter thoroughly prior to installation.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">This section specifically describes safety precautions for installation as well as what needs to be checked when performing installation. Read and understand this section and Chapter 1 thoroughly and observe the safety precautions to ensure safety.</para>
+  </body>
+</topic>

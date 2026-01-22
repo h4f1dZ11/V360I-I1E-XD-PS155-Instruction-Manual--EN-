@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.2 Main Menu Screen</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Main Menu Screen<draft-comment width="29px" height="13px" modified="2024-09-11" styleclass="Comment"><![CDATA["Navigation Menu Screen" title need to update to "Main Menu Screen"
+
+This page should be same as V180I-I1E-XD Slim3n Instruction Manual (EN) chapter 4.2]]></draft-comment></para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:10px;">By pressing the Makino icon, the Main Menu Screen is displayed.<draft-comment width="29px" height="13px" modified="2024-09-11" styleclass="Comment"><![CDATA[Replace to "By pressing the Makino icon, the Main Menu Screen is displayed"]]></draft-comment></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Main Menu Screen.JPG" scale="65.00%" width="389" height="280" styleclass="Image Caption"></image><draft-comment width="29px" height="13px" modified="2024-09-11" styleclass="Comment"><![CDATA[Replace the figure to "Main Menu Screen" figure from Chp 4.2 folder in Graphic folder
+]]></draft-comment></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=4%&gt;.&lt;%HMFIGURECOUNTER%&gt;  </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Main Menu Screen</text><draft-comment width="29px" height="13px" modified="2024-09-11" styleclass="Comment"><![CDATA[Change to "Main Menu Screen"]]></draft-comment></para>
+    <para styleclass="Normal" style="margin-bottom:6px;">For selection the screen under each menu, press the icon displayed against each screen menu.</para>
+    <para styleclass="Normal" style="margin-bottom:6px;"><text style="font-weight:bold;">Example:</text></para>
+    <para styleclass="Normal" style="margin-bottom:8px;">Navigating to M-Code List.</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">1) Press the icon for M-Code List.</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">2) M-Code List is displayed.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><draft-comment width="29px" height="13px" modified="2024-09-11" styleclass="Comment"><![CDATA[Need to remove all below the items]]></draft-comment></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

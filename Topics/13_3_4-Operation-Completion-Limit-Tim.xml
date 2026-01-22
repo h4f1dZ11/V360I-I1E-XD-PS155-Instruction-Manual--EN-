@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>13.3.4 Operation Completion Limit Time</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Operation Completion Limit Time</para>
+    </header>
+    <para styleclass="Normal">This function sets the limit time allowed for each M code operation. One parameter is assigned to each pair of M code allocated for each input/output signal set.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">An alarm is triggered if either M codes exceed the time set in this parameter. If “0” is set into this parameter, the alarm is always triggered.</para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

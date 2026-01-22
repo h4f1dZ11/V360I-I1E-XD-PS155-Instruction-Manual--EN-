@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.9.14 BT CHECK (Broken Tool Check)</title>
+  <body>
+    <header>
+      <para styleclass="Heading4"><text style="font-size:12pt;">BT CHECK (Broken Tool Check)</text><draft-comment width="29px" height="14px" modified="2024-09-12" styleclass="Comment"><![CDATA[This page should be same as V180I-I1E-XD Slim3n Instruction Manual (EN) chapter 4.9.14]]></draft-comment></para>
+    </header>
+    <para styleclass="Normal">If a Tool needs BT Check, select YES but when not required select NO for the respective Tool. For the Tool which BTS was set to YES, the check is performed after the cutting process</para>
+  </body>
+</topic>

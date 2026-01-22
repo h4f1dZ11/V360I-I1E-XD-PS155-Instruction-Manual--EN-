@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>3.4 14K Spindle Specification</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">14K Spindle Specification</para>
+    </header>
+    <para styleclass="Normal" style="margin-top:8px;"><table rowcount="11" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:270px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Specification</para>
+        </td>
+        <td style="width:457px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Measurement &amp; Description</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:270px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Maximum Power at 25% ED</text></para>
+        </td>
+        <td style="vertical-align:middle; width:457px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">30 kW</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:270px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Maximum Power at Continuous Rated</text></para>
+        </td>
+        <td style="vertical-align:middle; width:457px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">18.5 kW</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:270px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Maximum Output Torque at 15% ED</text></para>
+        </td>
+        <td style="vertical-align:middle; width:457px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">175.1 &#160;Nm</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:270px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Maximum Output Torque at Continuous Rated</text></para>
+        </td>
+        <td style="vertical-align:middle; width:457px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">95.5 &#160;Nm</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:270px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Base Speed (15% ED/Continuous)</text></para>
+        </td>
+        <td style="width:457px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:4px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">1,500 rpm</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:270px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Built-in Thermal Overload Detection</text></para>
+        </td>
+        <td style="width:457px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:4px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Yes</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:270px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Tool Clamping Force</text></para>
+        </td>
+        <td style="width:457px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:4px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">9.8 ±10% kN (7/24 taper #40)</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:4px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">18 ±10% kN (HSK-A63)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:270px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Speed Range</text></para>
+        </td>
+        <td style="width:457px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;"> &#160;50 rpm to 14,000 rpm</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:270px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Tool Shank &amp; Retention Knob</text></para>
+        </td>
+        <td style="width:457px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">MAS403 BT40 (JIS B6339 40T) + MAS403 P40T-1 (no TSA/TSC) (Standard) MAS403 BT40 (JIS B6339 40T) + JIS B6339-40P (no TSA/TSC) (Option) DIN69871-A40 + DIN69872-19 (no TSA/TSC) (Option)</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">DIN69871-A40 + T13M-1272D (TSA/TSC) (Option)</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">V-CAT NO.40 + T13M-0414D (no TSA/TSC) (Option)</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">V-CAT NO.40 + T13M-2151D (TSA/TSC) (Option)</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">HSK DIN69893-HSK-A63 (no TSA/TSC) (Option)</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">HSK DIN69893-HSK-A63 + T13M-2702D (TSA/TSC) (Option)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:270px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Cooling Method</text></para>
+        </td>
+        <td style="width:457px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;"> &#160;Jacket Cooling</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-top:8px;"></para>
+    <para styleclass="Notes">-NOTES-</para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Notes" style="margin-bottom:4px; font-family:Arial; font-size:10pt; color:#231f20;">
+      <li styleclass="Notes" style="margin-bottom:4px;">Ensure cutting tools used are balanced to avoid spindle damage.</li>
+      <li styleclass="Notes" style="margin-bottom:0px;">Recommended value G2.5 and below. (ISO 1940-1)</li>
+    </list>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>9 Air Dryer (Option)</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Air Dryer (Option)</para>
+    </header>
+    <para styleclass="Normal">If any problem occur, inspect the following table and if the problem cannot be solved, shut Off the power supply and contact your Makino service representative.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="10" colcount="3" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:239px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Problem</para>
+        </td>
+        <td style="width:239px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Possible Causes</para>
+        </td>
+        <td style="width:239px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Corrective Measures</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="2" style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Air dryer does not operate and run lamp does not light up, when the circuit breaker is on.</para>
+        </td>
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Power cord or plug is loose or not connected to the power source.</para>
+        </td>
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Perform proper connection on the power cord and plug.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Circuit breaker is off.</para>
+        </td>
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Confirm whether the proper capacity of the circuit breaker is used.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Resume the operation after resetting the circuit breaker to on.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">If the circuit breaker still trip to off, failure of electrical insulation may have occurred.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Remove the power supply and contact your Makino service representative.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="4" style="vertical-align:top; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Evaporation thermometer indicates higher than green zone and the compressor stops while driving.</para>
+        </td>
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Installation place is poorly ventilated. Ambient temperature is too high.</para>
+        </td>
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Improve the ventilation system to lower the ambient temperature.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">The ventilation grilles are obstructed by wall or clogged with dust.</para>
+        </td>
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Install the air dryer more than 16” (40cm) away from the wall.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Clean the ventilation grilles once a month.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Temperature of the compressed air is too high.</para>
+        </td>
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Improve the ventilation system around air or make ambient temperature low.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Reduce the temperature of the compressed air by installing an additional after-cooler before the air dryer.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Supply voltage is not in the following range: AC180～AC220V</para>
+        </td>
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Set the voltage to a proper value by installing a transformer or review the electrical wiring.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="3" style="vertical-align:top; height:5px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Evaporation thermometer indicates higher than green zone.</para>
+        </td>
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Installation place is poorly ventilated. Ambient temperature is too high.</para>
+        </td>
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Improve the ventilation system to lower the ambient temperature.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">The ventilation grilles are obstructed by wall or clogged with dust.</para>
+        </td>
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Install the air dryer more than 16” (40cm) away from the wall.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Clean the ventilation grilles once a month.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Temperature of the compressed air is too high.</para>
+        </td>
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Improve the ventilation system around the air compressor or make ambient temperature around the air compressor low to lower the temperature of discharge from compressor. </para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Reduce the temperature of the compressed air by installing an additional after-cooler after the air dryer.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>13.2.3 Air Is Leaked from Bowl Connection Point</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Air Is Leaked from Bowl Connection Point</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="3" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:239px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Possible Causes</para>
+        </td>
+        <td style="width:471px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Corrective Measures</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">O-ring is damaged or clogged with foreign matter.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Stop the compressed air supply and remove the bowl and clean or replace the o-ring.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Bowl is broken.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Stop the compressed air supply and remove and replace the bowl.</para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

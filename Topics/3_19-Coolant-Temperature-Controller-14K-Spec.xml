@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>3.19 Coolant Temperature Controller (14K) Specification</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Coolant Temperature Controller (14K) Specification</para>
+    </header>
+    <para styleclass="Normal" style="margin-top:8px;"><table rowcount="9" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:380px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Specification</para>
+        </td>
+        <td style="width:274px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Description</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:380px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Manufacturer</text></para>
+        </td>
+        <td style="width:274px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Harbor Precision Industry Co., Ltd</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:380px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Input Voltage (AC, 3-Phase)</text></para>
+        </td>
+        <td style="width:274px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">380 V (50Hz) to 415 V (60Hz)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:380px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Motor Power/Fan Power</text></para>
+        </td>
+        <td style="vertical-align:middle; width:274px; height:24px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">0.75kw (50Hz), 0.75kW (60 Hz)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:380px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Ambient Temperature Conditions</text></para>
+        </td>
+        <td style="width:274px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">5°C ~ 45°C</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:380px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Oil Temperature Conditions</text></para>
+        </td>
+        <td style="width:274px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">5°C ~ 45°C</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:380px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Cooling Capacity</text></para>
+        </td>
+        <td style="vertical-align:middle; width:274px; height:24px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">1700kW (50Hz), 2100 kW (60 Hz)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="2" style="vertical-align:middle; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Detecting Accuracy</text></para>
+        </td>
+        <td style="width:274px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Change with ±2°C (stability condition)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:274px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Ambient temperature tolerance</text></para>
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">fluctuation value within ±5°C</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

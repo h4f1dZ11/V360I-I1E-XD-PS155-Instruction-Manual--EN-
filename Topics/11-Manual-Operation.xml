@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>11 Manual Operation</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Manual Operation</para>
+    </header>
+    <para styleclass="Normal">Manual operation consists of operation of the machine with the operator controls provided on the main operation panel without using an NC program.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">The machine units and devices can be manually operated with the operation panel and on the Function screen.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">The three types of manual operations are available for the feed axes (X/Y/Z-axes). Operations in these manual operation modes are performed from the main operation panel.</para>
+    <para styleclass="Normal"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Manual Reference Position Return Mode (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="11_1-Manual-Reference-Position-Retu" style="color:#0000ff;">11.1 Manual Reference Position Return</link>)</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">Jog Feed Mode (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="11_2-Jog-Feed" style="color:#0000ff;">11.2 Jog Feed</link>)</li>
+      <li styleclass="Normal" style="margin-left:13px;">Handle Feed Mode  (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="11_3-Handle-Feed" style="color:#0000ff;">11.3 Handle Feed</link>)</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:13px;"></para>
+    <para styleclass="Normal">In Operation Mode 1, axis feed operation can be performed with the operator door closed.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">In Operation Mode 2 or 3, manual operation of axis feed can be performed with the operator door open. </para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">If the machine is provided with the Portable Manual Generator (MPG), axis feed can only be performed with the Portable MPG. The operator door is open by holding down the Deadman switch on the Portable MPG.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">If the machine is provided with Standard MPG, axis feed can on only be performed by holding down <text style="font-weight:bold;">[SAFETY ENABLE]</text> button on the MPG panel.</para>
+  </body>
+</topic>

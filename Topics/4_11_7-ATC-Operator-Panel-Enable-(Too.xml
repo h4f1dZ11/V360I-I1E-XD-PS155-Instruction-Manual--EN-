@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.11.7 ATC Operator Panel Enable (Tool Magazine Side)</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">ATC Operator Panel Enable (Tool Magazine Side)</para>
+    </header>
+    <para styleclass="Normal">For safety reasons, the ATC operation panel and ATC Maintenance screen cannot be operated at the same time. When ATC Maintenance mode is on, ATC Manual Intervention mode is off and the buttons on the ATC operation panel cannot be operated.</para>
+    <para styleclass="Normal">&#32;</para>
+    <para styleclass="Normal">By pressing the <text style="font-weight:bold;">[ATC OP PANEL]</text> button, it is possible to enable the ATC operation panel in Maintenance mode. In this condition, the on and off buttons on the ATC Maintenance screen are disabled but the push buttons on the ATC operation panel are enabled.</para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

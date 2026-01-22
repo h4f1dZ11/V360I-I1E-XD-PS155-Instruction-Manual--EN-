@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">4.2 Electrical System</title>
+  <body>
+    <header>
+      <para styleclass="Heading3" style="page-break-before:always;"><text styleclass="Heading3" translate="true">Electrical System</text></para>
+    </header>
+    <para styleclass="Normal" style="margin-top:8px;"><table rowcount="9" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:392px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header"><text styleclass="Table font_Header" translate="true">Action/Situation</text></para>
+        </td>
+        <td style="width:265px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header"><text styleclass="Table font_Header" translate="true">Result</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:392px; height:40px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;"><text styleclass="Table Font_Left" translate="true">Performing inspection or maintenance operation without turning OFF the machine power (Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href anchor="-NOTES-ElectricalSystem" styleclass="Table Font_Left" style="color:#0000ff;" translate="true">NOTES</link><text styleclass="Table Font_Left" translate="true">)</text></para>
+        </td>
+        <td style="vertical-align:middle; width:265px; height:40px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;"><text styleclass="Table Font_Left" translate="true">Electric shock, breakdown of the machine, abnormal operation, fire</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:392px; height:24px;">
+          <para styleclass="Table Font_Left"><text styleclass="Table Font_Left" translate="true">Touching a device with residual voltage (Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href anchor="-NOTES-ElectricalSystem" styleclass="Table Font_Left" style="color:#0000ff;" translate="true">NOTES</link><text styleclass="Table Font_Left" translate="true">)</text></para>
+        </td>
+        <td style="vertical-align:middle; width:265px; height:24px;">
+          <para styleclass="Table Font_Left"><text styleclass="Table Font_Left" translate="true">Electrical shock</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:392px; height:40px;">
+          <para styleclass="Table Font_Left"><text styleclass="Table Font_Left" translate="true">Miswiring</text></para>
+        </td>
+        <td style="vertical-align:middle; width:265px; height:40px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;"><text styleclass="Table Font_Left" translate="true">Breakdown of the machine, abnormal operation, fire</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:392px; height:40px;">
+          <para styleclass="Table Font_Left"><text styleclass="Table Font_Left" translate="true">Loose screw in terminal block or other location</text></para>
+        </td>
+        <td style="vertical-align:middle; width:265px; height:40px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;"><text styleclass="Table Font_Left" translate="true">Breakdown of the machine, abnormal operation, fire</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:392px; height:40px;">
+          <para styleclass="Table Font_Left"><text styleclass="Table Font_Left" translate="true">Machine controller door or junction box cover is left open</text></para>
+        </td>
+        <td style="vertical-align:middle; width:265px; height:40px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;"><text styleclass="Table Font_Left" translate="true">Electric leakage, breakdown of the machine, abnormal operation, fire</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:392px; height:24px;">
+          <para styleclass="Table Font_Left"><text styleclass="Table Font_Left" translate="true">Touching switches with wet hands</text></para>
+        </td>
+        <td style="vertical-align:middle; width:265px; height:24px;">
+          <para styleclass="Table Font_Left"><text styleclass="Table Font_Left" translate="true">Electrical shock</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:392px; height:40px;">
+          <para styleclass="Table Font_Left"><text styleclass="Table Font_Left" translate="true">Damage to wiring on floor surrounding machine</text></para>
+        </td>
+        <td style="vertical-align:middle; width:265px; height:40px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;"><text styleclass="Table Font_Left" translate="true">Electric leakage, breakdown of the machine, abnormal operation, fire</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:392px; height:24px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;"><text styleclass="Table Font_Left" translate="true">Operation or maintenance by non-qualified personnel</text></para>
+        </td>
+        <td style="vertical-align:middle; width:265px; height:24px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;"><text styleclass="Table Font_Left" translate="true">Breakdown of the machine</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Notes"></para>
+    <para styleclass="Notes"><anchor id="-NOTES-ElectricalSystem" styleclass="Notes"></anchor><text styleclass="Notes" translate="true">-NOTES-</text></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="%s" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Notes" style="font-family:Arial; font-size:10pt; color:#231f20;">
+      <li styleclass="Notes"><text styleclass="Notes" translate="true">Prior to performing maintenance of the servo amplifiers, spindle amplifiers, and inverters, turn OFF the main power switch and confirm that the LED which indicates charging (red) for each amplifier and inverter is off.</text></li>
+      <li styleclass="Notes"><text styleclass="Notes" translate="true">High voltage current flows through components inside the junction box.</text></li>
+      <li styleclass="Notes"><text styleclass="Notes" translate="true">High voltage current continues to flow on the primary side of the main power switch even after the main power supply is turned OFF.</text></li>
+      <li styleclass="Notes"><text styleclass="Notes" translate="true">Electrical current continues to flow to lamps and outlets in the machine controller even after the main power supply is turned OFF.</text></li>
+    </list>
+  </body>
+</topic>

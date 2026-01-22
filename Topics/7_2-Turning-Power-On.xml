@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>7.2 Turning Power On</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Turning Power On</para>
+    </header>
+    <para styleclass="Normal"><text style="font-weight:bold;">Power On Procedure (Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href="7_1-Switches_Buttons-to-Turn-Power" anchor="Fig7.1" style="font-weight:bold; color:#0000ff;">Fig 7.1</link><text style="font-weight:bold;">)</text></para>
+    <para styleclass="Normal"></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Turn on the main circuit breaker switch. (Refer to NOTE)</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Press the </text><text styleclass style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[POWER ON]</text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> switch on the main operation panel.</text></li>
+    </list>
+    <para styleclass="1_11mm" style="margin-top:0px; line-height:1.00;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">This completes the procedure to turn on the power.</text></para>
+    <para styleclass="1_11mm" style="margin-top:0px;"></para>
+    <para styleclass="Notes">-NOTE-</para>
+    <para styleclass="Notes">Lift up the main power switch to the <text style="font-weight:bold;">[ON]</text> position, the power is supplied to the machine. The switch acts as a no-fuse breaker. If an over-current condition occurs for any reason, this switch will be automatically tripped to protect the machine. Remove the source of the abnormal current before turning on the switch again.</para>
+  </body>
+</topic>

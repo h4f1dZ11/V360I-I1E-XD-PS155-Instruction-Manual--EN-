@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>8.1.1 Door Lock System (Standard)</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Door Lock System (Standard)</para>
+    </header>
+    <para styleclass="Notes">NOTE</para>
+    <para styleclass="Notes">The indicator lamp means the door can be unlocked (Door Unlock Available).</para>
+    <para styleclass="Normal"><text style="font-weight:bold;">Opening Operator Door Procedure</text></para>
+    <para styleclass="Normal"></para>
+    <list id="6" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Confirm the Door Unlock Available indicator is turned on (green).</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Open the operator door while pressing the </text><text styleclass style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[S/G DOOR UNLOCK]</text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> button on the main operation panel.</text></li>
+    </list>
+    <list id="7" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; margin-left:100px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; margin-left:100px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">The Door Unlock Available indicator is turned Off during machining.</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; margin-left:100px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Open the door while pressing the </text><text styleclass style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[S/G DOOR UNLOCK]</text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> button on the main operation panel.</text></li>
+    </list>
+    <para styleclass="Normal"><text style="font-weight:bold;">Closing Operator Door Procedure</text></para>
+    <para styleclass="Normal"></para>
+    <list id="5" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Confirm the Door Unlock Available indicator is turned on (green).</text></li>
+    </list>
+  </body>
+</topic>

@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>11.3 Handle Feed</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Handle Feed</para>
+    </header>
+    <para styleclass="Normal">The axis is moved by using the Manual Pulse Generator (MPG) in the Handle mode. This mode is used for workpiece alignment, machining reference setting and tool adjustment. The standard MPG, is integrated in the control panel. For the portable MPG (Option) is connected to the main operation panel and can be placed on the MPG dock below the main operation panel when not in used.</para>
+    <para styleclass="Normal" style="margin-top:8px; margin-bottom:8px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass="Warning_bold_1" style="margin-top:0px; margin-bottom:0px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">NOTICE</text></para>
+        </td>
+        <td style="vertical-align:middle; width:602px; border-left:none;">
+          <para styleclass="Table font Warning_3"> &#160; <text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">In the Handle mode, axis feed operation can be performed with the operator door open by holding down the </text><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[SAFETY ENABLE]</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> button for Standard MPG or Deadman switch for Portable MPG.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-top:8px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Danger symbol no text.ipp" scale="16.00%" width="42" height="37" styleclass="Image Caption"></image></para>
+          <para styleclass="Warning_bold_1"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">WARNING</text></para>
+        </td>
+        <td style="vertical-align:middle; width:604px; border-left:none;">
+          <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Table font Warning_3" style="margin-bottom:0px; font-family:Symbol; font-size:10pt; color:#000000;">
+            <li styleclass="Table font Warning_3" style="margin-bottom:0px;">Moving the axes at high speed is dangerous. Make sure to confirm the axis feed rate that has been set before performing reference position return.</li>
+            <li styleclass="Table font Warning_3">Exercise extreme caution when operating the machine with the operator door open to prevent being seriously injured.</li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-top:8px;"></para>
+    <para styleclass="Normal"><text style="font-weight:bold;">Operation Procedure</text></para>
+    <para styleclass="Normal"></para>
+    <list id="3" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Select the </text><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[HANDLE]</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> switch on the main operation panel.</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Open the operator door.</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Press the “Axis Selection” switch to select the axis to be moved.</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Specify the feed per pulse by using the “Handle Feed” switch.</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Rotate MPG hand wheel while pressing the </text><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[SAFETY ENABLE]</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> switch.</text></li>
+    </list>
+    <para styleclass="1_11mm" style="margin-top:0px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">This completes Handle Feed procedure.</text></para>
+    <para styleclass="1_11mm" style="margin-top:0px;"></para>
+    <para styleclass="Figure E"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Table &lt;%HMTABLECOUNTER4=11%&gt;.&lt;%HMTABLECOUNTER=1%&gt; Feed Rate Setting</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="5" colcount="5" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td rowspan="2" style="vertical-align:middle; height:22px; background-color:#d3d3d3;">
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Unit</text></para>
+        </td>
+        <td colspan="4" style="vertical-align:middle; width:586px; height:22px; background-color:#d3d3d3;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Pulse Multiplier Setting</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:143px; height:22px; background-color:#d3d3d3;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">x1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:152px; height:22px; background-color:#d3d3d3;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">x10</text></para>
+        </td>
+        <td style="vertical-align:middle; width:146px; height:22px; background-color:#d3d3d3;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">x100</text></para>
+        </td>
+        <td style="vertical-align:middle; width:139px; height:22px; background-color:#d3d3d3;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">x1000</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:74px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">mm</text></para>
+        </td>
+        <td style="vertical-align:middle; width:143px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">0.0001</text></para>
+        </td>
+        <td style="vertical-align:middle; width:152px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">0.001</text></para>
+        </td>
+        <td style="vertical-align:middle; width:146px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">0.01</text></para>
+        </td>
+        <td style="vertical-align:middle; width:139px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">0.1</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:74px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">inch</text></para>
+        </td>
+        <td style="vertical-align:middle; width:143px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">0.00001</text></para>
+        </td>
+        <td style="vertical-align:middle; width:152px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">0.0001</text></para>
+        </td>
+        <td style="vertical-align:middle; width:146px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">0.001</text></para>
+        </td>
+        <td style="vertical-align:middle; width:139px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">0.01</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:74px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">degree</text></para>
+        </td>
+        <td style="vertical-align:middle; width:143px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">0.0001</text></para>
+        </td>
+        <td style="vertical-align:middle; width:152px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">0.001</text></para>
+        </td>
+        <td style="vertical-align:middle; width:146px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">0.01</text></para>
+        </td>
+        <td style="vertical-align:middle; width:139px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">0.1</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-left:52px; page-break-before:always;"></para>
+  </body>
+</topic>

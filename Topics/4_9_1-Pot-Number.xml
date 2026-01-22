@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.9.1 Pot Number</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">POT NO. (Pot Number)<draft-comment width="29px" height="13px" modified="2024-09-11" styleclass="Comment"><![CDATA[This page should be same as V180I-I1E-XD Slim3n Instruction Manual (EN) chapter 4.9.1]]></draft-comment></para>
+    </header>
+    <para styleclass="Normal">Pot number indicates the location where the Tools are loaded in the magazine.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><draft-comment width="29px" height="13px" modified="2024-09-11" styleclass="Comment"><![CDATA[Remove the table below]]></draft-comment></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+  </body>
+</topic>

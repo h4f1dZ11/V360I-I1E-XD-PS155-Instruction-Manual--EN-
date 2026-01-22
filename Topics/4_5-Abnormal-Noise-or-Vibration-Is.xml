@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.5 Abnormal Noise or Vibration Is Emitted During Axis Operation</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Abnormal Noise or Vibration Is Emitted During Axis Operation</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="8" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:239px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Possible Causes</para>
+        </td>
+        <td style="width:648px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Corrective Measures</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Grease shortage.</para>
+        </td>
+        <td style="vertical-align:top; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Grease supplied to the linear motion guide and ball screw on the feed axis or</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">the support bearings is not sufficient. Check if the automatic grease supply</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:4px; line-height:1.00;">unit is working properly.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Bellows cover is damaged or chips have accumulated in the bellows mechanism.</para>
+        </td>
+        <td style="vertical-align:middle; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Confirm chips are not accumulated in the bellows cover.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Also confirm the bellows cover is not damaged. If the cover is damaged, replacement is necessary.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Screws securing servomotor and ball screw nut are loose.</para>
+        </td>
+        <td style="vertical-align:top; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Retighten the loose securing screws.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Axis backlash is excessive.</para>
+        </td>
+        <td style="vertical-align:middle; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:4px; line-height:1.00;">If a scale unit is installed, measure the backlash after changing the NC parameter setting to a machine without a scale unit.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:4px; line-height:1.00;">If the backlash is excessive, the most likely causes are as follows:</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">1. Ball screw nut pre-loading is insufficient. When grease is discolored gray,</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">    ball screw nut pre-loading may be insufficient. Ball screw replacement is</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:4px; line-height:1.00;">    necessary. Contact your Makino service representative.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">2. Ball screw or linear motion guide is worn or damaged. Ball screw or linear</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">    motion guide must be replaced. Contact your Makino service representative.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Support bearings are worn or damaged.</para>
+        </td>
+        <td style="vertical-align:middle; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Support bearing must be replaced. Contact your Makino service representative.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Ball screw run-out is excessive.</para>
+        </td>
+        <td style="vertical-align:middle; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Adjust the ball screw run-out.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Other servo system malfunction.</para>
+        </td>
+        <td style="vertical-align:middle; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Servo alarm is triggered servomotor, servo amplifier, servomotor encoder or</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">scale unit is malfunctioning.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Confirm the alarm content and replace the damaged parts if necessary.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">When replacing the scale unit, contact your Makino service representative.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

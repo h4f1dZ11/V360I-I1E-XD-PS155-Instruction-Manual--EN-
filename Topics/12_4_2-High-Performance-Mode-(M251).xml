@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>12.4.2 High Performance Mode (M251)</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">High Performance Mode (M251)</para>
+    </header>
+    <para styleclass="Normal">This mode places emphasis on high-speed machining. Processing in this mode may result in slightly lower quality than in High Accuracy mode depending on the process geometry or programs. Specify M251 at the beginning of program in individual block.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-weight:bold;">M250/M251 Mode Display</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Ch 4 Fig 12.1.png" scale="53.00%" width="428" height="370" styleclass="Image Caption"></image><draft-comment width="29px" height="13px" modified="2024-09-13" styleclass="Comment"><![CDATA[Replace the machine status screen figure to "Machine Status Screen" from Chp 11 folder in Graphic folder]]></draft-comment></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px; margin-left:13px;"><text styleclass="Figure E" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=12%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; M250/M251 Mode Display on Machine Status Screen</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:200px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:200px; height:22px;">
+          <para styleclass="Table Font_Left">Machining Mode Display</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal"><text style="font-weight:bold;">Issuing of M250, M251</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">With GI control, issue each M code in an independent block. It is possible to issue these M codes for specific machining purposes within one program.</para>
+    <para styleclass="Normal" style="page-break-before:always;"><text style="font-weight:bold;">Program Example</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;"><table styleclass="Default" rowcount="16" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="width:211px; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"><text style="font-size:9pt;">O0100;</text></para>
+        </td>
+        <td style="width:358px; border-bottom:none; border-left:none;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:211px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-bottom:4px; margin-left:52px;"><text style="font-size:10pt;">:</text></para>
+        </td>
+        <td style="width:358px; border-top:none; border-bottom:none; border-left:none;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:211px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-bottom:4px; margin-left:52px;"><text style="font-size:10pt;">:</text></para>
+        </td>
+        <td style="width:358px; border-top:none; border-bottom:none; border-left:none;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:211px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"><text style="font-size:10pt;">M250;</text></para>
+        </td>
+        <td style="width:358px; border-top:none; border-bottom:none; border-left:none;">
+          <para styleclass="Normal"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">High Accuracy Machining</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:211px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"><text style="font-size:10pt;">G91 G01 Z-10. F200;</text></para>
+        </td>
+        <td style="width:358px; border-top:none; border-bottom:none; border-left:none;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:211px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"><text style="font-size:10pt;">G02 I-10.;</text></para>
+        </td>
+        <td style="width:358px; border-top:none; border-bottom:none; border-left:none;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:211px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-bottom:4px; margin-left:91px;"><text style="font-size:10pt;">:</text></para>
+        </td>
+        <td style="width:358px; border-top:none; border-bottom:none; border-left:none;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:211px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-bottom:4px; margin-left:91px;"><text style="font-size:10pt;">:</text></para>
+        </td>
+        <td style="width:358px; border-top:none; border-bottom:none; border-left:none;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:211px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-bottom:4px; margin-left:91px;"><text style="font-size:10pt;">:</text></para>
+        </td>
+        <td style="width:358px; border-top:none; border-bottom:none; border-left:none;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:211px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"><text style="font-size:10pt;">M251;</text></para>
+        </td>
+        <td style="width:358px; border-top:none; border-bottom:none; border-left:none;">
+          <para styleclass="Normal">High Speed Machining</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:211px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"><text style="font-size:10pt;">G91 G01 Z-10.0 F10000;</text></para>
+        </td>
+        <td style="width:358px; border-top:none; border-bottom:none; border-left:none;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:211px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-bottom:4px; margin-left:91px;"><text style="font-size:10pt;">:</text></para>
+        </td>
+        <td style="width:358px; border-top:none; border-bottom:none; border-left:none;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:211px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-bottom:4px; margin-left:91px;"><text style="font-size:10pt;">:</text></para>
+        </td>
+        <td style="width:358px; border-top:none; border-bottom:none; border-left:none;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:211px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-bottom:4px; margin-left:91px;"><text style="font-size:10pt;">:</text></para>
+        </td>
+        <td style="width:358px; border-top:none; border-bottom:none; border-left:none;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:211px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-bottom:4px; margin-left:91px;"><text style="font-size:10pt;">:</text></para>
+        </td>
+        <td style="width:358px; border-top:none; border-bottom:none; border-left:none;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:211px; border-top:none; border-right:none;">
+          <para styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"><text style="font-size:10pt;">M30</text></para>
+        </td>
+        <td style="width:358px; border-top:none; border-left:none;">
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00; page-break-before:always;"></para>
+  </body>
+</topic>

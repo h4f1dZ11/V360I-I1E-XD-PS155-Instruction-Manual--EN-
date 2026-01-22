@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>1.6 PS155 (SPD-10K Option) Machine Stroke Limits &amp; Work Area</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">PS155 (SPD-10K Option) Machine Stroke Limits &amp; Work Area</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="Fig 1.6.png" scale="50.00%" width="860" height="856" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><anchor id="Fig1.7" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER6=1%&gt;.&lt;%HMFIGURECOUNTER%&gt;   </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">PS155 (SPD-10K Option) Machine Stroke Limits &amp; Work Area 1</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="Fig 1.7 PS155 MC Stroke Limits &amp; Work Area 2.png" scale="80.00%" width="450" height="580" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><anchor id="Fig1.8" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER6=1%&gt;.&lt;%HMFIGURECOUNTER%&gt;   </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">PS155 (SPD-10K Option) Machine Stroke Limits &amp; Work Area 2</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px; page-break-before:always;"></para>
+  </body>
+</topic>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>12.2 Automatic Operation Mode</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Automatic Operation Mode</para>
+    </header>
+    <para styleclass="Normal">There are three automatic operation modes: MDI, Memory and External Input modes. To perform automatic operation, first select the mode by pressing the desired “Mode Selection” switch on the main operation panel. (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="2_2-Main-Mode-Setting-Switches" style="color:#0000ff;">2.2 Main Mode Setting Switches</link>)</para>
+  </body>
+</topic>

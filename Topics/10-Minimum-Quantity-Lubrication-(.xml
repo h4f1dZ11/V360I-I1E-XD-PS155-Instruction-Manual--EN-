@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>10 Minimum Quantity Lubrication (Option)</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Minimum Quantity Lubrication (Option)</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="7" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:239px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Problem</para>
+        </td>
+        <td style="width:471px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Solution</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Reduced/no fluid output.</para>
+        </td>
+        <td style="vertical-align:middle; width:471px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">1. Make sure air is being supplied to the applicator.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">2. Check pressure gauge, operating range is 0.5 MPa to 1 MPa.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">3. Check reservoir level, refill if needed.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">4. Make sure the lubricant line is cut and installed correctly.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">5. Check the frequency generator and reset it to the correct frequency.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">6. Make sure the lubricant control is not at the zero point.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">7. Make sure the hose bard outlet is not over-tightened.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Reduced/no air output.</para>
+        </td>
+        <td style="vertical-align:middle; width:471px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">1. Make sure air is being supplied to the applicator.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">2. Check pressure gauge, operating range is 0.5 MPa to 1 MPa.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">3. Check airflow valve and reset it accordingly.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Fluid leaking.</para>
+        </td>
+        <td style="vertical-align:middle; width:471px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">1. Make sure the lubricant control is not set to the stop point.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">2. Make sure the lubricant line is cut and installed correctly.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Frequency generator malfunctioning.</para>
+        </td>
+        <td style="vertical-align:middle; width:471px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">1. Check frequency generator and reset it to the correct frequency.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">2. Dirty/oily air can damage the frequency generator, replace damaged</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">    internal components with the Frequency Generator Repair Kit.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">3. To prevent future problems add a coalescing filter to the air filter</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">    regulator/pressure gauge.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Applicator is on but not operating.</para>
+        </td>
+        <td style="vertical-align:middle; width:471px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">1. Check on/off valve or electronic solenoid.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">2. Make sure air is being supplied to the applicator.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">3. Make sure the air hose and lubricant line are securely installed.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Misting lubricant.</para>
+        </td>
+        <td style="vertical-align:middle; width:471px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">1. Make sure the airflow valve is not set too high.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

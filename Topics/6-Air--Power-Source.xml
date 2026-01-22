@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>6 Air &amp; Power Source</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Air &amp; Power Source</para>
+    </header>
+    <para styleclass="Figure E"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Table &lt;%HMTABLECOUNTER3=6%&gt;.&lt;%HMTABLECOUNTER=1%&gt; Air &amp; Power Sources</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="15" colcount="2" style="width:612px; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:middle">
+        <td style="width:131px; height:24px; background-color:#dddddd;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">Item</text></para>
+        </td>
+        <td style="width:477px; height:24px; background-color:#dddddd;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">Description</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:131px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">Voltage of Incoming Power to Machine Control Cabinet</text></para>
+        </td>
+        <td style="vertical-align:middle; width:477px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;"> 380V~415V, 3-Phase, 50Hz/60Hz</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:131px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">Main Electrical Power Capacity</text></para>
+        </td>
+        <td style="vertical-align:middle; width:477px;">
+          <para styleclass="Normal" style="margin-top:8px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;"> Installation: 50 kVA</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:131px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">Main Power Transformer Capacity</text></para>
+        </td>
+        <td style="vertical-align:middle; width:477px;">
+          <para styleclass="Normal" style="margin-top:8px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;"> 50 kVA</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:131px;">
+          <para styleclass="Normal" style="text-align:center; margin-top:4px; margin-bottom:4px; margin-left:13px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">Circuit Breaker</text></para>
+        </td>
+        <td style="vertical-align:middle; width:477px;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;"> 100 A</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:131px;">
+          <para styleclass="Normal" style="text-align:center; margin-top:4px; margin-bottom:4px; margin-left:13px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">Main Electrical Power Cable Size</text></para>
+        </td>
+        <td style="vertical-align:middle; width:477px;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;"> 16 mm² with 415V input</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:131px;">
+          <para styleclass="Normal" style="text-align:center; margin-top:4px; margin-bottom:4px; margin-left:13px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">Main Power Connection Terminal For R, S, T</text></para>
+        </td>
+        <td style="vertical-align:middle; width:477px;">
+          <para styleclass="Normal" style="margin-left:6px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">M8</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:131px;">
+          <para styleclass="Normal" style="text-align:center; margin-top:4px; margin-bottom:4px; margin-left:13px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">Main Power Connection Terminal For Earth</text></para>
+        </td>
+        <td style="vertical-align:middle; width:477px;">
+          <para styleclass="Normal" style="margin-left:6px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">M8</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:131px;">
+          <para styleclass="Normal" style="text-align:center; margin-top:4px; margin-bottom:4px; margin-left:13px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">Air Source</text></para>
+        </td>
+        <td style="vertical-align:middle; width:477px;">
+          <para styleclass="Normal" style="margin-top:4px; margin-right:6px; margin-bottom:4px; margin-left:6px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">Pressure: 0.5 </text><text styleclass style="font-family:Symbol; font-size:9pt; color:#000000;">±</text><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;"> 0.05 Mpa</text></para>
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:6px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">Dew point temperature: -20ºC or less</text></para>
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:6px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">Recommended Air Quality: Equivalent to grade ISO 2.5.2 Specified by ISO 8573-1/JIS 8392-1</text></para>
+          <para styleclass="Normal" style="margin-top:4px; margin-left:6px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">Maximum particles number/1m³: 100 or less(diameter: 0.001 &lt; x </text><text styleclass style="font-family:Symbol; font-size:9pt; color:#000000;">£</text><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;"> 0.005 mm) Maximum particles number/1m³: 6,000 or less(diameter: 0.0005 &lt; x </text><text styleclass style="font-family:Symbol; font-size:9pt; color:#000000;">£</text><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;"> 0.001 mm)</text></para>
+          <para styleclass="Normal" style="margin-left:6px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">Maximum particles number/1m³: 400,000 or less(diameter: 0.0001 &lt; x </text><text styleclass style="font-family:Symbol; font-size:9pt; color:#000000;">£</text><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;"> 0.0005 mm)</text></para>
+          <para styleclass="Normal" style="margin-left:6px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">Dew point at maximum pressure: +7°C or less(Absolute Pressure: 0.8 MPa)</text></para>
+          <para styleclass="Normal" style="margin-bottom:4px; margin-left:6px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">Max. oil concentration: 0.1 mg/m³ or less</text></para>
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:6px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">The machine requires the above air quality. The air filters are installed as a standard feature. Periodic maintenance must be performed to maintain an optimum air supply. However, when maintenance of the filters is neglected, filter pollution and damage to the filter may occur in a short period of time.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="2" style="vertical-align:middle; width:131px; height:38px;">
+          <para styleclass="Normal" style="text-align:center; margin-top:4px; margin-left:13px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">Rate of Air Supply</text></para>
+          <para styleclass="Normal" style="text-align:center; margin-left:13px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">(Maximum / Average)</text></para>
+        </td>
+        <td style="vertical-align:middle; width:477px; height:38px;">
+          <para styleclass="Normal"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;"> 400/130 L/min for Std (No option)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:477px;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;"> 600/220 L/min for Std + TSC + Feedback Scale</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:131px;">
+          <para styleclass="Normal" style="text-align:center; margin-top:4px; margin-bottom:4px; margin-left:13px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">Air Source Connection</text></para>
+        </td>
+        <td style="vertical-align:middle; width:477px;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;"> PT 3/8”</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:131px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">Minimum Air</text></para>
+          <para styleclass="Normal" style="text-align:center; margin-bottom:4px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">Hose Inner Ø</text></para>
+        </td>
+        <td style="vertical-align:middle; width:477px;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;"> 15 mm</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:131px;">
+          <para styleclass="Normal" style="text-align:center; margin-top:4px; margin-bottom:4px; margin-left:13px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">Air Dryer</text></para>
+        </td>
+        <td style="vertical-align:middle; width:477px;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;"> 200 V</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:131px;">
+          <para styleclass="Normal" style="text-align:center; margin-top:4px; margin-bottom:4px; margin-left:13px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">Air Filter</text></para>
+        </td>
+        <td style="vertical-align:middle; width:477px;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;"><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;"> 5 </text><text styleclass style="font-family:Symbol; font-size:9pt; color:#000000;">m</text><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">m </text><text styleclass style="font-family:Symbol; font-size:9pt; color:#000000;">± </text><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">0.01 </text><text styleclass style="font-family:Symbol; font-size:9pt; color:#000000;">m</text><text styleclass style="font-family:Arial; font-size:9pt; color:#000000;">m</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Notes">-NOTE-</para>
+    <para styleclass="Notes" style="margin-bottom:0px;">The air quality varies according to the factory circumstances. Use a particle counter to confirm that the air quality values satisfy the required values.</para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

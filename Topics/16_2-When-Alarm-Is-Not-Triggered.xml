@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>16.2 When Alarm Is Not Triggered</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">When Alarm Is Not Triggered</para>
+    </header>
+    <para styleclass="Normal"><table rowcount="10" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td colspan="2" style="vertical-align:middle; width:637px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; margin-left:0px; line-height:1.00;"> Situation 1: Main power is input, coolant temperature controller does not run.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Status</para>
+        </td>
+        <td style="vertical-align:middle; width:525px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">PVºC, SVºC are not display on the control panel.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Possible</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Causes</para>
+        </td>
+        <td style="vertical-align:top; width:525px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• The main power may not be properly connected or the circuit breaker of the main power</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  source is off.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Control circuit board failure.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Control circuit fuse has blown.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Remote control function is not properly connected.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Timer (optical component) failure.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Inspection</para>
+        </td>
+        <td style="vertical-align:top; width:525px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the main power source is supplying the power properly or not (if the circuit</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  breaker is on).</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the connecting wire is connected properly or not.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the circuit fuse has blown or not.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check the remote control connection.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the timer is set properly or not.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• If all the above are seems to be in order, than it means there is a controller board failure.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Solution</para>
+        </td>
+        <td style="vertical-align:top; width:525px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Reconnect the main power source.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Replace the blown fuse.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Replace the controller board.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Reset the timer (optional component) or replacement.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td colspan="2" style="vertical-align:middle; width:637px; height:7px;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Status</para>
+        </td>
+        <td style="vertical-align:middle; width:525px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">PVºC, SVºC display temperature.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Possible</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Causes</para>
+        </td>
+        <td style="vertical-align:top; width:525px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Remote control function is not properly connected.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Power voltage input is incorrect.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Electromagnetic switch faults.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Motor failure.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Inspection</para>
+        </td>
+        <td style="vertical-align:top; width:525px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check the remote control connection.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the power voltage that inputs into the motor is correct or not.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the electromagnetic switch is in order or not.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the motor is still working properly or not.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Solution</para>
+        </td>
+        <td style="vertical-align:top; width:525px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Reconnect the remote control function.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• The power voltage inputs into the motor should be the same as the rated power voltage</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  for the temperature controller.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Replace faulty parts.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="page-break-before:always;"><table rowcount="10" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td colspan="2" style="vertical-align:middle; width:636px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; margin-left:0px; line-height:1.00;"> Situation 2:</para>
+          <para styleclass="Table Font_Left" style="margin-left:0px; line-height:1.00;"> Coolant temperature controller is operating but there is abnormal condition with</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; margin-left:0px; line-height:1.00;"> the cooling process.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Status</para>
+        </td>
+        <td style="vertical-align:middle; width:524px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">No cooling is processed.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Possible</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Causes</para>
+        </td>
+        <td style="vertical-align:top; width:524px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• The compressor will stop operating when the temperature of the coolant has met the set</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  value (SV<text style="font-size:7pt; vertical-align:super;">o</text>C).</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Electromagnetic switch failure.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Poor heat dissipation.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Inspection</para>
+        </td>
+        <td style="vertical-align:top; width:524px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the coolant temperature has met the required  cooling range or not.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the electromagnetic switch is in order or not.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the coolant temperature controller internal temperature is too high or not.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Solution</para>
+        </td>
+        <td style="vertical-align:top; width:524px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• It is normal for the compressor to stop operating when the coolant temperature has met</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  the set value.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Replace the electromagnetic switch.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Improve the working environment to lower ambient temperature and create better</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  ventilation.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td colspan="2" style="vertical-align:middle; width:636px; height:7px;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Status</para>
+        </td>
+        <td style="vertical-align:middle; width:524px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Cooling continues even when the set value has reached.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Possible</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Causes</para>
+        </td>
+        <td style="vertical-align:top; width:524px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• The process load is over the limit of the temperature controller’s capacity.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Poor heat dissipation.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Leakage of refrigerant.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Thermostat failure.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Inspection</para>
+        </td>
+        <td style="vertical-align:top; width:524px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the capacity of the coolant temperature controller is suitable for the process</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  load or not.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the coolant temperature controller internal temperature is too high or not.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the refrigeration system for any leakage.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• If all the above seem to be in order, than the thermostat fails.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Solution</para>
+        </td>
+        <td style="vertical-align:top; width:524px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• A larger capacity temperature controller is required.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Improve the working environment to lower ambient temperature and create better</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  ventilation.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Contact the refrigeration service technician.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Replace the thermostat.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="page-break-before:always;"><table rowcount="10" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td colspan="2" style="vertical-align:middle; width:636px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; margin-left:0px; line-height:1.00;"> Situation 3:</para>
+          <para styleclass="Table Font_Left" style="margin-left:0px; line-height:1.00;"> Sudden stop of the coolant temperature controller while operating and an alarm</para>
+          <para styleclass="Table Font_Left" style="margin-left:0px; line-height:1.00;"> signal was sent to the machine tool.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Status</para>
+        </td>
+        <td style="vertical-align:middle; width:524px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">PVºC &amp; SVºC are properly display on the control panel.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Possible</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Causes</para>
+        </td>
+        <td style="vertical-align:top; width:524px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• The vibration of the machine tool has loosen the wire connections.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Remote control connection is out.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Coolant temperature controller connection is out.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Coolant temperature controller failure.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Inspection</para>
+        </td>
+        <td style="vertical-align:top; width:524px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check the connections of the remote control and the coolant temperature controller.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• If the connections are in order, than the coolant temperature controller is faulty.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Solution</para>
+        </td>
+        <td style="vertical-align:top; width:524px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Reconnect the connections.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Replace the temperature controller.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td colspan="2" style="vertical-align:middle; width:636px; height:7px;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Status</para>
+        </td>
+        <td style="vertical-align:middle; width:524px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">PVºC &amp; SVºC are not display on the control panel.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Possible</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Causes</para>
+        </td>
+        <td style="vertical-align:top; width:524px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Circuit breaker of the coolant temperature controller may have jumped.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• The vibration of the machine tool has loosen the wire connections.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• The remote control connection is out.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Thermostat connection is out.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Thermostat failure.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Power supply failure.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Inspection</para>
+        </td>
+        <td style="vertical-align:top; width:524px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the circuit breaker is trip-off or not.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check the remote control and the thermostat connections.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the power supply is still operating or not.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• If all the above seem to be in order, than the thermostat is faulty.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Solution</para>
+        </td>
+        <td style="vertical-align:top; width:524px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Set the circuit breaker back on.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Reconnect the remote control and thermostat wires.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Replace faulty parts.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

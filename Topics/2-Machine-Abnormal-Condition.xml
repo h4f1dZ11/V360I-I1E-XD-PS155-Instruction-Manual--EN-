@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2 Machine Abnormal Condition</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Machine Abnormal Condition</para>
+    </header>
+    <para styleclass="Normal">When the moachine has stopped or it does not start due to an Emergency Stop, Interlock or Feed Hold function, these causes can be confirmed on the Machine Status screen.</para>
+  </body>
+</topic>

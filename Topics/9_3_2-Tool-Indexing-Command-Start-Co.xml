@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>9.3.2 Tool Indexing Command Start Conditions</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Tool Indexing Command Start Conditions</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">The following conditions are required for tool indexing command:</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> ATC Manual Intervention Mode Off</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Maintenance Mode Off</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Tool Data Screen Tool Call Mode Off</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> ATC Magazine Door Closed</li>
+      <li styleclass="Normal" style="margin-left:13px;"> Magazine Pot Horizontal</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:13px;"></para>
+    <para styleclass="Normal">Operator messages (warnings) are displayed if the above conditions are not satisfied and tool indexing is not performed.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;">An alarm is triggered in the following cases:</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Too many digits in the tool number</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Tool number not found (PTN)</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> A tool monitor alarm tool is specified and spare tool option is not on.</li>
+      <li styleclass="Normal" style="margin-left:13px;"> A tool monitor alarm tool is specified and no spare tool is found.</li>
+    </list>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px; margin-left:13px; page-break-before:always;"></para>
+  </body>
+</topic>

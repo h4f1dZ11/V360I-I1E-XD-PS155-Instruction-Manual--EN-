@@ -1,0 +1,562 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>16.1 When Alarm Is Triggered</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">When Alarm Is Triggered</para>
+    </header>
+    <para styleclass="Normal"><table rowcount="14" colcount="3" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">1</para>
+        </td>
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Explanation</para>
+        </td>
+        <td style="vertical-align:middle; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Coolant temperature sensor fault.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="3" style="vertical-align:middle; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;"><text style="font-size:24pt;">Sn</text></para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">PV°C</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;"><text style="font-size:24pt;">OL</text></para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">SV°C</para>
+        </td>
+        <td style="vertical-align:middle; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Possible</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Causes</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Broken connection of the coolant temperature sensor.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Coolant temperature sensor fault.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">• Temperature controller failure.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Inspection</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check whether the connection of the coolant temperature sensor is</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  broken or not.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• If the connection is not broken, chances are either the temperature</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  controller or the sensor has failed.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Solution</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Reconnect the wire connection or replace the wire if necessary.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">• Replace the faulty parts.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td colspan="3" style="vertical-align:middle; width:413px; height:7px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; height:2px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">2</para>
+        </td>
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Explanation</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">There is a problem with the ambient or machine body temperature sensor.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="3" style="vertical-align:middle; height:5px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;"><text style="font-size:24pt;">Sn</text></para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">PV°C</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;"><text style="font-size:24pt;">ro</text></para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">SV°C</para>
+        </td>
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Possible</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Causes</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• The wire connection of the ambient or machine body temperature</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  sensor is broken.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• The ambient or machine body temperature sensor has failed.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">• Temperature controller failure.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Inspection</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check whether or not the wire for ambient or machine body</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  temperature sensor is connected.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• If there are no problems with the connection, chances are</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">  either the sensor or the temperature controller is faulty.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Solution</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Reconnect the wire connection or replace the wire if necessary.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">• Replace the faulty parts.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td colspan="3" style="vertical-align:middle; width:413px; height:2px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; height:2px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">3</para>
+        </td>
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Explanation</para>
+        </td>
+        <td style="vertical-align:middle; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Coolant temperature is too high for the temperature controller to process.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="3" style="vertical-align:middle; height:2px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;"><text style="font-size:24pt;">AH</text></para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">PV°C</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;"><text style="font-size:24pt;">OL</text></para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">SV°C</para>
+        </td>
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Possible</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Causes</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Process load is over the limit of the temperature controller’s capacity.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Coolant temperature sensor fault.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">• Refrigerator system failure.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Inspection</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check whether the ambient and coolant temperature are higher than</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  the limit of 45<text style="font-size:7pt; vertical-align:super;">o</text>C.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check whether or not the temperature controller is capable for</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  the process load.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the temperature sensor is functioning properly or not.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">• Check if the refrigeration system is in order or not.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Solution</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Keep the coolant temperature below 45<text style="font-size:7pt; vertical-align:super;">o</text>C.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Change the temperature controller to a larger cooling capacity.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Replace the coolant temperature sensor.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Contact the refrigerator service technician for refrigeration</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">  system failure.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="page-break-before:always;"><table rowcount="14" colcount="3" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">4</para>
+        </td>
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Explanation</para>
+        </td>
+        <td style="vertical-align:middle; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">There is a pressure fault within the refrigeration system.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="3" style="vertical-align:middle; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;"><text style="font-size:24pt;">In</text></para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">PV°C</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;"><text style="font-size:24pt;">--</text></para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:4px; line-height:1.00;">SV°C</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">PRESSURE</para>
+        </td>
+        <td style="vertical-align:middle; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Possible</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Causes</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Low or over charge of refrigerant.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Obstruction or leakage occurred in the refrigeration system.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Condenser or air filter is dirty.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Poor heat dissipation.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Fan or motor failure.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Inspection</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the copper pipe near the low pressure side of the</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  compressor is not cold.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the fins of the condenser are not hot.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the temperature controller’s internal temperature</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  is too high.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the fan or motor is faulty.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Solution</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Clean the air filter and the condenser regularly to improve</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  the heat dissipation and remove any obstructions from air</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  intake or exhaust.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Contact the refrigerator service technician for refrigeration</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">   system failure.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td colspan="3" style="vertical-align:middle; width:413px; height:7px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; height:21px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">5</para>
+        </td>
+        <td style="vertical-align:middle; width:110px; height:21px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Explanation</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:21px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">There is a fault within the compressor which trip out the overload protector.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="3" style="vertical-align:middle; height:5px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;"><text style="font-size:24pt;">In</text></para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">PV°C</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;"><text style="font-size:24pt;">--</text></para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:4px; line-height:1.00;">SV°C</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">COMP</para>
+        </td>
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Possible</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Causes</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Incorrect power voltage input.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Compressor has burned out.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Overload protector trip out.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Poor heat dissipation.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Fan or motor failure.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Inspection</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the input power voltage is correct or not.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the compressor has burned out or not.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the overload protector has trip out or not.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the temperature controller’s internal temperature</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  is too high or not.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the fan or motor is out of order or not.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Solution</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Input the correct power voltage.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Replace burned out compressor.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Reset the overload protector.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Improve the working environment to lower the ambient</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  temperature and create better ventilation.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Replace the fan or motor if out of order.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td colspan="3" style="vertical-align:middle; width:413px; height:2px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; height:2px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">6</para>
+        </td>
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Explanation</para>
+        </td>
+        <td style="vertical-align:middle; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">The power phase input has been reversed.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="3" style="vertical-align:middle; height:2px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;"><text style="font-size:24pt;">In</text></para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">PV°C</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;"><text style="font-size:24pt;">--</text></para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:4px; line-height:1.00;">SV°C</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">REV</para>
+        </td>
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Possible</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Causes</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Incorrect power phase input.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Reverse-phase relay failure.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Temperature controller failure.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Inspection</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the power cable is connected with correct phase or not.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• If the power phase is correct, chances that the reverse-phase</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  relay or the temperature controller has failed.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Solution</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Reconnect the power cable with correct phase.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Replace the faulty parts.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="page-break-before:always;"><table rowcount="9" colcount="3" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">7</para>
+        </td>
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Explanation</para>
+        </td>
+        <td style="vertical-align:middle; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">There is a fault within the coolant pump which trip-out the overload protector.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="3" style="vertical-align:middle; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;"><text style="font-size:24pt;">In</text></para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">PV°C</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;"><text style="font-size:24pt;">--</text></para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:4px; line-height:1.00;">SV°C</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">PUMP</para>
+        </td>
+        <td style="vertical-align:middle; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Possible</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Causes</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Coolant pump motor is faulty.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Coolant pressure is too high.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Coolant flow is not smooth.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Inspection</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the coolant pump is functioning properly or not.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the coolant pressure is too high to cause the</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  overload protector to trip-out.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the coolant pipe is clogged.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Solution</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Replace the faulty pump.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Reset the overload protector.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Clean the coolant circulating system, add a filter if necessary.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td colspan="3" style="vertical-align:middle; width:413px; height:7px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; height:21px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">8</para>
+        </td>
+        <td style="vertical-align:middle; width:110px; height:21px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Explanation</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:21px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Pressure fault or insufficient amount of coolant within the coolant circulating system.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="3" style="vertical-align:middle; height:5px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;"><text style="font-size:24pt;">In</text></para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">PV°C</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;"><text style="font-size:24pt;">--</text></para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:4px; line-height:1.00;">SV°C</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">O.P/FLOW</para>
+        </td>
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Possible</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Causes</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• No coolant flow or flow rate is too low.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Set point of the coolant pressure switch is not within the</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  designed specification.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Failure of the oil pressure switch or flow switch.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Air goes into the coolant pipes or the diameter of the pipes</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  are too small.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Pump motor failure.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Inspection</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the coolant supply is sufficient.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the pressure switch is set within the designed</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  specification.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the coolant pressure switch or flow switch is</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  functioning properly or not.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the pipes diameter are too small.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the pump motor is functioning properly or not.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Solution</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Supply sufficient amount of coolant in the coolant circulating</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  system.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Set the coolant pressure switch to the designed specification.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Replace the coolant pressure switch or the flow switch.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Increase the pipes diameter or shorten the length of the pipes</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  to avoid loss of coolant pressure.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Replace the faulty pump motor.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="page-break-before:always;"><table rowcount="9" colcount="3" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">9</para>
+        </td>
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Explanation</para>
+        </td>
+        <td style="vertical-align:middle; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Compressor temperature is too high.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="3" style="vertical-align:middle; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">PV°C</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;"><text style="font-size:24pt;">EF</text></para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:4px; line-height:1.00;">SV°C</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;"></para>
+        </td>
+        <td style="vertical-align:middle; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Possible</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Causes</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Compressor air vent is dirty.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Incorrect input power voltage or phase.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Inspection</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the hot air exhaust system is clogged.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the input power or phase is correct.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Solution</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Clean the air vent regularly to improve the heat dissipation</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  and remove any obstructions from air exhaust.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Reconnect the power cable with correct phase.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td colspan="3" style="vertical-align:middle; width:413px; height:7px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; height:21px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">10</para>
+        </td>
+        <td style="vertical-align:middle; width:110px; height:21px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Explanation</para>
+        </td>
+        <td style="vertical-align:middle; width:413px; height:21px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Oil level in tank is too low.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="3" style="vertical-align:middle; height:5px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">PV°C</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;"><text style="font-size:24pt;">EC</text></para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:4px; line-height:1.00;">SV°C</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;"></para>
+        </td>
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Possible</para>
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Causes</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Insufficient oil level.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Oil level switch is faulty.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Inspection</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the oil level if sufficient.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check if the oil level switch is functioning properly or not.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:110px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-bottom:2px; line-height:1.00;">Solution</para>
+        </td>
+        <td style="vertical-align:top; width:413px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Supply oil sufficiently.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Replace the faulty oil level switch.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>6.1 Tool Indexing (T Command) Operation Does Not Start</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Tool Indexing (T Command) Operation Does Not Start</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="5" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:239px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Possible Causes</para>
+        </td>
+        <td style="width:648px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Corrective Measures</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Alarm is triggered.</para>
+        </td>
+        <td style="vertical-align:top; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Check the alarm status and recover operation. If a T command was issued simultaneously with other commands that have failed to be completed, the tool search operation cannot start. Issue the T command independently to determine the cause of the problem.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Spindle tool is called.</para>
+        </td>
+        <td rowspan="2" style="vertical-align:top; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">If an attempt was made to call either the spindle tool (tool clamped in the spindle) or the next tool (tool at the tool change position) or if such tool have been cancelled, tool magazine operation is not performed even when a T command is issued.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Spindle tool and next tool numbers can be confirmed on the Tool Data screen.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Next tool is called.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Spindle tool is Fixed Pot tool.</para>
+        </td>
+        <td style="vertical-align:top; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">If spindle tool is fixed pot and current magazine pot is spindle pot, magazine will also not move.</para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

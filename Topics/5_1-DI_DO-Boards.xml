@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>5.1 DI/DO Boards</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">DI/DO Boards</para>
+    </header>
+    <para styleclass="Normal">The digital inputs and digital outputs for the machine control are performed through these boards. The number of digital inputs and outputs depend on the machine configuration and options available.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">These I/O modules are mounted on the main chassis inside the MTC and operator panel and handles all the I/O’s from the machine. </para>
+  </body>
+</topic>

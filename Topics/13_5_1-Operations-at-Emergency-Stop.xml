@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>13.5.1 Operations at Emergency Stop</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Operations at Emergency Stop</para>
+    </header>
+    <para styleclass="Normal">When an “Emergency Stop” switch is pressed or the machine enters the Emergency Stop condition due to a servo alarm or other causes, all outputs signals (USDO1 to USDO8) are unconditionally changed to off and operation of special user I/O interface is aborted.</para>
+  </body>
+</topic>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>20.4.9 Others</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Others</para>
+    </header>
+    <para styleclass="Normal">When the common measurement interface is enabled, system variable #1000 - #1031, #1100 -#1132 is occupied. Other M codes that use these variables, such as M464, are disabled.</para>
+  </body>
+</topic>

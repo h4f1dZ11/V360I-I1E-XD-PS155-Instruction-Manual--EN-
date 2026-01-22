@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>17.2 Motor Rotates but Does Not Collect Mist</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Motor Rotates but Does Not Collect Mist</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="6" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:239px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Possible Causes</para>
+        </td>
+        <td style="width:471px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Corrective Measures</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-top:2px; margin-bottom:2px; margin-left:0px; line-height:1.00;"> Motor rotation direction is opposite.</para>
+        </td>
+        <td style="vertical-align:middle; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-top:2px; margin-bottom:2px; margin-left:0px; line-height:1.00;"> Reconnect the wiring so that the motor rotates forward.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-top:2px; margin-bottom:2px; margin-left:0px; line-height:1.00;"> Filter is clogged.</para>
+        </td>
+        <td style="vertical-align:middle; height:11px;">
+          <para styleclass="Table Font_Left" style="text-indent:-4px; margin-top:2px; line-height:1.00;"> When the filter clog indicator is yellow or red (indicating CLEANING), inspect the condition of each filter and clean or replace as necessary.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-top:2px; margin-left:0px; line-height:1.00;"> Connection point of the duct and</para>
+          <para styleclass="Table Font_Left" style="margin-left:0px; line-height:1.00;"> hose duct is detached.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-top:2px; margin-left:0px; line-height:1.00;"> Check the connection point of the duct and reconnect the duct and the</para>
+          <para styleclass="Table Font_Left" style="margin-left:0px; line-height:1.00;"> hose duct correctly.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-top:2px; margin-bottom:2px; margin-left:0px; line-height:1.00;"> Duct piping is clogged.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="text-indent:-4px; margin-top:2px; line-height:1.00;"> Check the inside of the duct pipe and remove the foreign matter from the duct if necessary.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-left:0px; line-height:1.00;"> Primary filter is under negative</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; margin-left:0px; line-height:1.00;"> pressure.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-top:2px; margin-left:0px; line-height:1.00;"> Check the first drain piping is correctly connected. A coolant bucket</para>
+          <para styleclass="Table Font_Left" style="margin-left:0px; line-height:1.00;"> must be attached to the drain piping.</para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

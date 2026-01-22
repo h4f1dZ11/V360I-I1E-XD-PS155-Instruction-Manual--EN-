@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>17.1 Motor Does Not Rotate</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Motor Does Not Rotate</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="7" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:239px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Possible Causes</para>
+        </td>
+        <td style="width:471px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Corrective Measures</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Cable is improperly connected or damaged.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Check the cable is correctly connected. If the cable is damaged, replace the cable.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Circuit breaker is tripped.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Circuit breaker is tripped when the motor load is excessive. Eliminate the cause of the problem and then power On the motor breaker inside the machine controller.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Supply voltage is low.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Check the cause of low voltage and adjust to the proper voltage.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Electromagnetic contactor is improperly connected.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Check the electromagnetic contactor (KMS19) for the mist collector.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">If the electromagnetic contactor is damaged, replacement is necessary. Contact your Makino service representative.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-top:2px; margin-bottom:2px; margin-left:0px; line-height:1.00;"> Motor is damaged.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-top:2px; margin-left:0px; line-height:1.00;"> Motor replacement is necessary. Contact your Makino service</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; margin-left:0px; line-height:1.00;"> representative.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-top:2px; margin-bottom:2px; margin-left:0px; line-height:1.00;"> Motor seized up or rusted.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-top:2px; margin-left:0px; line-height:1.00;"> Motor replacement is necessary. Contact your Makino service</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; margin-left:0px; line-height:1.00;"> representative.</para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

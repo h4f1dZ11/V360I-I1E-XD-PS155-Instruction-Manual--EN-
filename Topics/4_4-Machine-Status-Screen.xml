@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.4 Machine Status Screen</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Machine Status Screen<draft-comment width="29px" height="13px" modified="2024-09-11" styleclass="Comment"><![CDATA[This page should be same as V180I-I1E-XD Slim3n Instruction Manual (EN) chapter 4.4]]></draft-comment></para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">The Machine Status Screen displays the reasons for Emergency conditions, Interlock conditions, Feed Hold conditions and machine current status.</para>
+    <para styleclass="Normal">To navigate to Machine Status Screen, press <text style="font-weight:bold;">[MENU]</text> <text styleclass style="font-family:Symbol; font-size:11pt; color:#000000;">®</text> press Makino icon <text styleclass style="font-family:Symbol; font-size:11pt; color:#000000;">®</text> Main Menu Screen is displayed <text styleclass style="font-family:Symbol; font-size:11pt; color:#000000;">®</text> press Machine Status <text styleclass style="font-family:Symbol; font-size:11pt; color:#000000;">®</text> Machine Status Screen is displayed.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Machine Status Screen.JPG" scale="47.20%" width="390" height="282" styleclass="Image Caption"></image><draft-comment width="29px" height="13px" modified="2024-09-11" styleclass="Comment"><![CDATA[Replace the figure to Machine Status Screen from Chp 4.4 folder in Graphic folder.]]></draft-comment></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=4%&gt;.&lt;%HMFIGURECOUNTER%&gt;  </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Machine Status Screen</text></para>
+    <para styleclass="Normal" style="text-align:center;"><draft-comment width="29px" height="13px" modified="2024-09-11" styleclass="Comment"><![CDATA[Remove the table and remove all the contents below.]]></draft-comment></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

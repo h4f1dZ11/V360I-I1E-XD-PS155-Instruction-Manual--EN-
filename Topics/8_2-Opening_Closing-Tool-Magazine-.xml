@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>8.2 Opening/Closing Tool Magazine Door</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Opening/Closing Tool Magazine Door</para>
+    </header>
+    <para styleclass="Normal">The following door locking systems can be installed on the tool magazine door.</para>
+    <para styleclass="Normal"></para>
+    <list id="6" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:4px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Door Interlock system (Standard)</li>
+      <li styleclass="Normal" style="margin-left:13px;"> Door Lock system (Option/CE Specification)</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:13px;"></para>
+    <para styleclass="Normal"><text style="font-weight:bold;">Opening Tool Magazine Door Procedure</text></para>
+    <para styleclass="Normal"></para>
+    <list id="7" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="1_11mm" style="margin-top:0px; margin-bottom:4px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:4px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Press the </text><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[ATC Manual Intervention Mode]</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> switch on the ATC operation panel.</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:4px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Confirm that the lamp of “Manual Intervention” switch is illuminated.</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Open the tool magazine door while pressing the </text><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[ATC DOOR UNLOCK]</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> switch located near the ATC operation panel (Door Lock system only).</text></li>
+    </list>
+    <para styleclass="1_11mm" style="margin-top:0px;"></para>
+    <para styleclass="Normal"><text style="font-weight:bold;">Closing Tool Magazine Door Procedure</text></para>
+    <para styleclass="Normal"></para>
+    <list id="8" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="1_11mm" style="margin-top:0px; margin-bottom:4px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:4px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Close the tool magazine door completely.</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:4px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Press the “Manual Intervention” switch on the ATC operation panel.</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Confirm that the “Manual Intervention” switch lamp is turned off.</text></li>
+    </list>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; page-break-before:always;"></para>
+  </body>
+</topic>

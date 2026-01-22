@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.10.5 A-RWH POSITION (Angle of Rotary Work Head Position)</title>
+  <body>
+    <header>
+      <para styleclass="Heading4"><text style="font-size:12pt;">A-RWH POSITION (Angle of Rotary Work Head Position)</text><draft-comment width="29px" height="13px" modified="2024-09-13" styleclass="Comment"><![CDATA[This page should be same as V180I-I1E-XD Slim3n Instruction Manual (EN) chapter 4.10.5]]></draft-comment></para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">At what angle the RWH fixture is to be clamp or unclamp can be set for respective model.</para>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text style="font-size:10pt;">-NOTE- </text></para>
+    <para styleclass="Normal"><text style="font-size:10pt;">Work Selection Screen can be changed in login level MAKINO / SUPERVISOR.</text></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

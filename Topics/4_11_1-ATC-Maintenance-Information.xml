@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.11.1 ATC Maintenance Information</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">ATC Maintenance Information</para>
+    </header>
+    <para styleclass="Normal">The Maintenance Information displayed information required for operating the ATC arm and magazine.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">The displayed information are:</para>
+    <para styleclass="Normal"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:4px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Current angle of the ATC arm</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Current zone of the ATC arm</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Current magazine coordinates</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Spindle PTN</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Current magazine pot PTN</li>
+      <li styleclass="Normal" style="margin-left:13px;"> Last commanded tool PTN</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:13px;"></para>
+    <para styleclass="Normal">Machine status shown in red text means that the status is not satisfied. Whereas machine status shown in green text means that the status is satisfied. </para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="ATC Maintenance Information.JPG" scale="48.00%" width="389" height="355" styleclass="Image Caption"></image><draft-comment width="29px" height="13px" modified="2024-09-13" styleclass="Comment"><![CDATA[Replace the figure to " ATC Maintenance Information" from Chp 4.11 folder in Graphic folder]]></draft-comment></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=4%&gt;.&lt;%HMFIGURECOUNTER%&gt;  </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">ATC Maintenance Information</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:196px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:196px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">ATC Maintenance Information</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

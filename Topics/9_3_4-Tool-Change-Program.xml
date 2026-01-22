@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>9.3.4 Tool Change Program</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Tool Change Program</para>
+    </header>
+    <para styleclass="Normal"><text style="font-weight:bold;">Program Example</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><table styleclass="Default" rowcount="16" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="width:190px; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">O1234;</para>
+        </td>
+        <td style="width:614px; border-bottom:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:190px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">Taaa;</para>
+        </td>
+        <td style="width:614px; border-top:none; border-bottom:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;">(Tool aaa is indexed to Magazine Index Position)</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:190px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">G91 G30 Z0 M319;</para>
+        </td>
+        <td style="width:614px; border-top:none; border-bottom:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;">(Z-axis moves to 2nd reference position, spindle orientates, coolant stops and suction is performed, ATC shutter opens then pot moves to vertical position)</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:190px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">G91 G30 X0 Y0;</para>
+        </td>
+        <td style="width:614px; border-top:none; border-bottom:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;">(X and Y-axis moves to 2nd reference position)</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:190px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">M06;</para>
+        </td>
+        <td style="width:614px; border-top:none; border-bottom:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;">(Tool change command, Taaa is moved to spindle)</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:190px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">Tbbb;</para>
+        </td>
+        <td style="width:614px; border-top:none; border-bottom:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;">(Tool bbb is indexed to Magazine Index Position)</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:190px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">M98 Pxxx;</para>
+        </td>
+        <td style="width:614px; border-top:none; border-bottom:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;">(Machining is performed using Taaa)</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:190px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">G91 G30 Z0 M319;</para>
+        </td>
+        <td style="width:614px; border-top:none; border-bottom:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;">(Z-axis moves to 2nd reference position, spindle orientates, coolant stops and suction is performed, ATC shutter opens then pot moves to vertical position)</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:190px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">G91 G30 X0 Y0;</para>
+        </td>
+        <td style="width:614px; border-top:none; border-bottom:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;">(X and Y-axis moves to 2nd reference position)</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:190px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">M6;</para>
+        </td>
+        <td style="width:614px; border-top:none; border-bottom:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;">(Tool change command, Tbbb is moved to spindle)</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:190px; height:8px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">Txxx;</para>
+        </td>
+        <td style="width:614px; height:8px; border-top:none; border-bottom:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;">(Tool xxx is indexed to Magazine Index Position)</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:190px; height:8px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">M98 Pyyy;</para>
+        </td>
+        <td style="width:614px; height:8px; border-top:none; border-bottom:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;">(Machining is performed using Tbbb)</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:190px; height:8px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">               :</para>
+        </td>
+        <td style="width:614px; height:8px; border-top:none; border-bottom:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:190px; height:8px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">               :</para>
+        </td>
+        <td style="width:614px; height:8px; border-top:none; border-bottom:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;">(Machining continues)</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:190px; height:8px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">               :</para>
+        </td>
+        <td style="width:614px; height:8px; border-top:none; border-bottom:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:190px; height:8px; border-top:none; border-right:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">M30;</para>
+        </td>
+        <td style="width:614px; height:8px; border-top:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;"></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Notes">-NOTE-</para>
+    <para styleclass="Notes" style="margin-bottom:0px;">M319 is a M code used to shorten machining time. For details on using method and cautions of M319 (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="9_4_8-ATC-Cycle-Time-Reduction" style="color:#0000ff;">9.4.8 ATC Cycle Time Reduction</link>)</para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

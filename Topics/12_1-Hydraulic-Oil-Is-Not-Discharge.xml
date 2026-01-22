@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>12.1 Hydraulic Oil Is Not Discharged or Discharge Volume Is Insufficient</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Hydraulic Oil Is Not Discharged or Discharge Volume Is Insufficient</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="5" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:239px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Possible Causes</para>
+        </td>
+        <td style="width:471px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Corrective Measures</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Motor is rotating in reverse direction</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Reverse connection for two of three pump motor power cables (phases).</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Pump cannot draw in oil as oil viscosity is too high.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Replace oil with type of the recommended viscosity range.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Pump draws in air as oil level is insufficient.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Add oil to recommended level.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Hose, filter leakage.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Tighten or replace with new parts.</para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>8 Spindle Lubrication (Oil-Air) Device for Bearing 14K (Option)</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Spindle Lubrication (Oil-Air) Device for Bearing 14K (Option)</para>
+    </header>
+    <para styleclass="Normal">Perform the following corrective measures, when a malfunction has occurred.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="12" colcount="3" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:239px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Problem</para>
+        </td>
+        <td style="width:239px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Possible Causes</para>
+        </td>
+        <td style="width:239px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Corrective Measures</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="3" style="vertical-align:top; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Oil not discharged.</para>
+        </td>
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Oil level is low.</para>
+        </td>
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Add oil to tank.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Suction filter is clogged.</para>
+        </td>
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Clean or replace the suction filter.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Oil viscosity is tool high.</para>
+        </td>
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Replace oil with proper oil viscosity (in case of replacement, flush the tank and hose system (piping system) before regular operation).</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="3" style="vertical-align:top; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Pressure does not rise.</para>
+        </td>
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Hose system trouble (piping system trouble)</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">• Air remains in the hose.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">• Oil leakage from joints between hoses.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">• Hose breakage.</para>
+        </td>
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Check for air release at the end of</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  the hose or at the hose joints.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Screw the hose joints closed with</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">  sufficient force.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">• Replace the hose.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Pressure setting of relief valve is incorrect.</para>
+        </td>
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Adjust the set value.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Pressure valve is malfunctioning</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">• Valve sheet is clogged.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">• Valve sheet is damaged.</para>
+        </td>
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• Disassemble and clean the</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">  pressure valve.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">• Replace the pressure valve.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:7px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Noise emitted from pump.</para>
+        </td>
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Trapped foreign materials have damaged the pump gear.</para>
+        </td>
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Disassemble the pump to confirm the damage. Contact your Makino service representative if the damage has occurred as it is necessary to replace the pump and flush the tank and hose system.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="2" style="vertical-align:top; height:7px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">No signal from the float switch.</para>
+        </td>
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Oil level is too low.</para>
+        </td>
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Add oil to tank to level &quot;L&quot; or higher.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Float switch is faulty.</para>
+        </td>
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">It is necessary to replace the float switch. Contact your Makino</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">service representative. </para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="2" style="vertical-align:top; height:7px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Pump not operating.</para>
+        </td>
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Wiring is incorrect.</para>
+        </td>
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Check the Electrical wiring.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Pump malfunction.</para>
+        </td>
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Repair or replacement of the pump is necessary. Contact your Makino service representative.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

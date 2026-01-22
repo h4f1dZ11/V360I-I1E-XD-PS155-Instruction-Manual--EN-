@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>1 Confirmation of Preparations for Installation</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Confirmation of Preparations for Installation</para>
+    </header>
+    <para styleclass="Normal">Perform the following preparations to ensure that all installation conditions are satisfied prior to machine installation. For details, refer to the respective section in this chapter.</para>
+    <para styleclass="Normal"></para>
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Preparations for Installation Space (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="2_Preparation-of-Installation-Sp" style="color:#0000ff;">2 Preparation of Installation Space</link>)</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">&#32;</text>Preparation of Transport Route and Installation Equipment (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="3-Preparation-of-Transport-Route" style="color:#0000ff;">3 Preparation of Transport Route &amp; Installation Equipment</link>)</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> Confirmation of Set-Up Conditions (Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href="4-Set-Up-Conditions" styleclass="" style="font-family:Arial; font-size:11pt; color:#0000ff;">4 Set-Up Conditions</link><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">)</text></li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> Preparation of Foundation (Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href="5-Recommended-Foundation-Conditi" styleclass="" style="font-family:Arial; font-size:11pt; color:#0000ff;">5 Recommended Foundation Conditions</link><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">)</text></li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> Preparation of Electric Source (Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href="6-Air--Power-Source" styleclass="" style="font-family:Arial; font-size:11pt; color:#0000ff;">6 Air &amp; Power Sources</link><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">)</text></li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> Preparation of Air Source (Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href="6-Air--Power-Source" styleclass="" style="font-family:Arial; font-size:11pt; color:#0000ff;">6 Air &amp; Power Sources</link><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">)</text></li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> Preparation of Required Manpower for Installation (Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href="7-Required-Manpower-for-Installa" styleclass="" style="font-family:Arial; font-size:11pt; color:#0000ff;">7 Required Manpower for Installation</link><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">)</text></li>
+      <li styleclass="Normal" style="margin-left:13px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> Safety Precautions and Other Confirmation (Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href="8-Checks_Precautions-When-Perfor" styleclass="" style="font-family:Arial; font-size:11pt; color:#0000ff;">8 Checks/Precautions When Performing Transportation/Installation Work</link><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">)</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:8px; margin-left:26px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#0000ff;">&#32;</text></para>
+    <para styleclass="Normal" style="margin-left:13px;"></para>
+    <para styleclass="Figure E"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Table &lt;%HMTABLECOUNTER3=1%&gt;.&lt;%HMTABLECOUNTER=1%&gt; Check List for Installation Preparation</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="8" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:middle">
+        <td style="width:123px; height:28px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Check</para>
+        </td>
+        <td style="width:418px; height:28px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Item</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:123px; height:28px;">
+        </td>
+        <td style="vertical-align:middle; width:418px; height:28px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Preparation of Installation Space</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:123px; height:28px;">
+        </td>
+        <td style="vertical-align:middle; width:418px; height:28px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Preparation of Transport Route</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:123px; height:29px;">
+        </td>
+        <td style="vertical-align:middle; width:418px; height:29px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Confirmation of Set-Up Conditions</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:123px; height:28px;">
+        </td>
+        <td style="vertical-align:middle; width:418px; height:28px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Preparation of Foundation</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:123px; height:28px;">
+        </td>
+        <td style="vertical-align:middle; width:418px; height:28px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Preparation of Electric Source</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:123px; height:28px;">
+        </td>
+        <td style="vertical-align:middle; width:418px; height:28px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Preparation of Air Source</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:123px; height:28px;">
+        </td>
+        <td style="vertical-align:middle; width:418px; height:28px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Preparation of Transport Equipment</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

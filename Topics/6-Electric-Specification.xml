@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>6 Electric Specification</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Electric Specification</para>
+    </header>
+    <para styleclass="Normal" style="margin-top:8px;"><table rowcount="4" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">10K Spindle Motor</para>
+        </td>
+        <td style="width:235px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Specification</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Model</text></para>
+        </td>
+        <td style="vertical-align:middle; width:235px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">400V, β</text><text styleclass style="font-family:'Times New Roman'; font-size:10pt; font-style:italic; color:#000000;">i</text><text styleclass style="font-family:Symbol; font-size:10pt; color:#000000;">I</text><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;"> 160LL/13000-B</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Manufacturer</text></para>
+        </td>
+        <td style="width:235px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Fanuc</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Manufacturer’s Part Number</text></para>
+        </td>
+        <td style="width:235px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">A06B-2726-B130#2231</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-top:8px;"><table rowcount="4" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">14K Spindle Motor</para>
+        </td>
+        <td style="width:236px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Specification</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Model</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">400V, β</text><text styleclass style="font-family:'Times New Roman'; font-size:10pt; font-style:italic; color:#000000;">i</text><text styleclass style="font-family:Symbol; font-size:10pt; color:#000000;">I</text><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;"> 112L/15000-B</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Manufacturer</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Fanuc</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Manufacturer’s Part Number</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">A06B-2675-B131#7231</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-top:8px;"></para>
+    <para styleclass="Normal" style="margin-top:8px;"><table rowcount="4" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Control &amp; Control Cabinet</para>
+        </td>
+        <td style="width:236px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Specification</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Maximum Power Consumption</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">35 kW</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Input Voltage To The Control Cabinet</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">3-Phase, 50Hz/60Hz, 380V ~ 415V</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">No-Fuse-Breaker Rating At Incoming</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">100 A</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-top:8px;"><table rowcount="16" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">X,Y, Z-Axis AC Servomotor</para>
+        </td>
+        <td style="width:236px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Specification</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">X-Axis Motor Type</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">αis 30/4000HV-D</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Y-Axis Motor Type</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">αis 30/4000HV-D</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Z-Axis Motor Type</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">αis 22/4000HV-D, WITH BRAKE</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">X-Axis Motor Rated Power</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">5.5 kW</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Y-Axis Motor Rated Power</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">5.5 kW</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Z-Axis Motor Rated Power</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">4.3 kW</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">X-Axis Motor Rated Torque</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">30 Nm</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Y-Axis Motor Rated Torque</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">30 Nm</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Z-Axis Motor Rated Torque</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">22 Nm</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Manufacturer for X, Y, Z-Axis Motor</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Fanuc</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Manufacturer’s Part Number for X-Axis Motor</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">A06B-3145-B100</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Manufacturer’s Part Number for Y-Axis Motor</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">A06B-3145-B100</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Manufacturer’s Part Number for Z-Axis Motor</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">A06B-3135-B400</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Type of Pulse Code for All Axis Motors</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Fanuc β</text><text styleclass style="font-family:'Times New Roman'; font-size:10pt; font-style:italic; color:#000000;">i</text><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;"> A1000 (Serial Type)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Resolution of Pulse Coder</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">1 Million Pulse/Revolution</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-top:8px; page-break-before:always;"><table rowcount="6" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">ATC Axis AC Servomotors</para>
+        </td>
+        <td style="width:236px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Specification</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">ATC Axis Motor Type</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">αis 2/5000HV-D</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">ATC Axis Motor Rated Power</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">0.75 kW</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">ATC Axis Motor Rated Torque</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">2 Nm</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Manufacturer for ATC Axis Motor</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Fanuc</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Manufacturer’s Part Number for ATC Axis Motor</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">A06B-3055-B200</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-top:8px;"><table rowcount="8" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">X,Y, Z-Axis AC Servomotor Amplifiers</para>
+        </td>
+        <td style="width:236px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Specification</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">X, Y Axis Motor Amplifier Type</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">α</text><text styleclass style="font-family:'Times New Roman'; font-size:10pt; font-style:italic; color:#000000;">i</text><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">SV 80/80 HV-D</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Z-Axis Motor Amplifier Type</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">α</text><text styleclass style="font-family:'Times New Roman'; font-size:10pt; font-style:italic; color:#000000;">i</text><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">SV 80 HV-D</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Manufacturer for X, Y, Z-Axis Motor Amplifier</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Fanuc</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Manufacturer’s Part Number for X, Y-Axis Motor Amplifier</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">A06B-6590-H245</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Manufacturer’s Part Number for Z-Axis Motor Amplifier </text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">A06B-6590-H145</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Rated Output Current (rms)</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">22.5 A/22.5A/22.5 A</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Maximum Current for Each Axis (peak)</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">80A/80A/80A</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-top:8px;"><table rowcount="6" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">ATC Axis Servo Amplifier</para>
+        </td>
+        <td style="width:236px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Specification</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">ATC Motor Amplifier Type</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">α</text><text styleclass style="font-family:'Times New Roman'; font-size:10pt; font-style:italic; color:#000000;">i</text><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">SV 10 HV-D</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Manufacturer for ATC Motor Amplifier</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Fanuc</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Manufacturer’s Part Number for ATC Motor Amplifier</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">A06B-6290-H122</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Rated Output Current (rms)</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">3.2 A</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:401px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Maximum Current of the Amplifier (peak)</text></para>
+        </td>
+        <td style="width:236px; height:24px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">10 A</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

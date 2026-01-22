@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>8.5 Working in a Group</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Working in a Group</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">When working in a group, lack of communication when turning On the main power or operating the machine may result in death due to accidents such as electric shock, falling or being caught between moving parts. Pay careful attention to the following points:</para>
+    <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">Confirm the location and tasks being performed by other personnel and give a clearly audible warning when starting to operate the machine.</li>
+      <li styleclass="Normal" style="margin-left:13px;">Clearly display work description warnings and signs in front of the crane operational panel, the main power switch and the main operation panel etc. so that the content of work can be understood.</li>
+    </list>
+  </body>
+</topic>

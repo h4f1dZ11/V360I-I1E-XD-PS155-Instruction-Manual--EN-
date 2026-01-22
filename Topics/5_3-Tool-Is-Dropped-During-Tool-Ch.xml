@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>5.3 Tool Is Dropped During Tool Change</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Tool Is Dropped During Tool Change</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="12" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:239px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Possible Causes</para>
+        </td>
+        <td style="width:648px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Corrective Measures</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Uses of a non-standard tool or tool shank.</para>
+        </td>
+        <td style="vertical-align:top; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Use a standard tool or tool shank. (Refer to<text style="color:#0000ff;"> Chapter 4,</text> <link displaytype="text" defaultstyle="false" type="topiclink" href="9-Tool-Preparations" style="color:#0000ff;">9 Preparations</link>)</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Loosening of the retention knob.</para>
+        </td>
+        <td style="vertical-align:middle; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Tighten the retention knob.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Wear damage to the retention knob.</para>
+        </td>
+        <td style="vertical-align:middle; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Replace the retention knob.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Tool exceeds allowable tool moment limitations,</para>
+        </td>
+        <td style="vertical-align:middle; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Check tool moment limitations. (Refer to <text style="color:#0000ff;">Chapter 4,</text> <link displaytype="text" defaultstyle="false" type="topiclink" href="9-Tool-Preparations" style="color:#0000ff;">9 Preparations</link>)</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Arm gripper motion is not smooth.</para>
+        </td>
+        <td style="vertical-align:middle; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Check for obstruction by chips or other foreign matters around the gripper and plunger pin.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Reference position alignment of magazine position is not proper.</para>
+        </td>
+        <td style="vertical-align:top; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Contact your Makino service representative.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">ATC tool change position</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">(X-/Y-/Z-axis) are not proper.</para>
+        </td>
+        <td style="vertical-align:top; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Adjust the ATC tool change position.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Spindle orientation position is not proper.</para>
+        </td>
+        <td style="vertical-align:top; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Check and adjust the spindle orientation position.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Tool clamping device (spindle head) malfunction.</para>
+        </td>
+        <td style="vertical-align:top; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Contact your Makino service representative.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Chips enter/adhere to spindle head or tool holder.</para>
+        </td>
+        <td style="vertical-align:top; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Clean the spindle head and tool holder.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Arm gripper plunger is damaged.</para>
+        </td>
+        <td style="vertical-align:middle; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Contact your Makino service representative.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;">-NOTE-</para>
+    <para styleclass="Normal"><text style="font-size:10pt;">If the trouble is not related to any of the above causes, leave the machine in its current condition and contact your Makino service representative.</text></para>
+  </body>
+</topic>

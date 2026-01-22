@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>8.2 Handling of Heavy Components</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Handling of Heavy Components</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text style="font-weight:bold;">A. Unassisted Lifting</text></para>
+    <para styleclass="Normal">Avoid the lifting of heavy machine components by one person alone. Lift them with the help of two or more people according to the circumstances. Use mechanical equipment such as a crane, electrical forklift stacker, pallet trolley, or cart chain block depending on the requirements.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text style="font-weight:bold;">B. Lifting with a Crane</text></para>
+    <para styleclass="Normal" style="margin-bottom:8px;">The breakage of wire rope during the lifting of heavy components can result in the balance of heavy components being lost, and them falling. The falling of heavy components may cause irreparable damage to the components and may result in injury or death. Pay careful attention to the following points:</para>
+    <list id="5" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">Forklift must always be operated by qualified personnel only.</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">Do not attempt to go under the lifted machine. Exercise extreme caution for the lifted machine while it is being transferred.</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">Safety helmet and safety shoes must be worn at all times.</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">All hook and linking tasks required for crane lifting must only be performed by qualified personnel only.</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">Use the crane within the range of its rated capacity.</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">Use specialized tools where prescribed.</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">Confirm the weight of the component to be lifted. Then, considering the presumed position of the center gravity, attach wires guaranteed to carry the weight of the component and lift slowly, keeping the weight as stable as possible.</li>
+      <li styleclass="Normal" style="margin-left:13px;">Clearly indicate off-limit zones and keep all unauthorized personnel from entering these areas.</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:13px;"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text style="font-weight:bold;">C. Forklift Lifting</text></para>
+    <para styleclass="Normal" style="margin-bottom:8px;">When using a forklift to carry heavy components, there is a danger of the load falling from the forks or overturning the forklift. Pay careful attention to the following points:</para>
+    <list id="5" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:6px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:6px; margin-left:13px;">Safety helmets and safety shoes must be worn at all times.</li>
+      <li styleclass="Normal" style="margin-bottom:6px; margin-left:13px;">Forklift must always be operated by qualified personnel only.</li>
+      <li styleclass="Normal" style="margin-bottom:6px; margin-left:13px;">Use the forklift within the range of its rated capacity.</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">Widen the forks as much as possible to allow the weight to be raised as stable at a convenient height.</li>
+      <li styleclass="Normal" style="margin-left:13px;">Do not attempt to balance an un-balanced load with extra personnel riding on the opposite side of the forklift.</li>
+    </list>
+  </body>
+</topic>

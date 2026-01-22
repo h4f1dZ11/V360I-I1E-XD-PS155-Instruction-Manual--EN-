@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>15.1 Coolant Is Not Discharged (Pump Is Not Running)</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Coolant Is Not Discharged (Pump Is Not Running)</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="5" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:239px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Possible Causes</para>
+        </td>
+        <td style="width:471px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Corrective Measures</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">For safety reasons, coolant is not discharged for one of the following reasons:</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">• Operator door is open.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">• Coolant stop switch is pressed.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">• During tool change operation.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">• M00 or M01 (program stop) is</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">  executed.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Complete individual operation or release the condition.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Coolant related alarm is triggered.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Check the alarm and restore operation.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Wiring (cable) or piping (hose) connections for pump is incorrect.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Check the connections of cables and hoses.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Thermal alarm is tripped.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Check the alarm triggered on machine side and restore operation.</para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

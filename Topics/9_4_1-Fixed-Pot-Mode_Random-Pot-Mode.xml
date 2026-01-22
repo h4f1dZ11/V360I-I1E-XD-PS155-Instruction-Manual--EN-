@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>9.4.1 Fixed Pot Mode/Random Pot Mode</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Fixed Pot Mode/Random Pot Mode</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">The tool index command and tool change command can operate in two modes:</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Random Pot Mode</li>
+      <li styleclass="Normal" style="margin-left:13px;"> Fixed Pot Mode</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:13px;"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;">When both the spindle tool and the next command tool are not fixed pot type, they will operate in the Random Pot mode. When either the spindle tool or the next command tool is Fixed Pot type, they will operate in the Fixed Pot mode.</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">Fixed Pot mode can be enabled or disabled using Machine Parameter No. 6001 in the ATC Category of the Machine Parameter screen.</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">MC Para 6001: Fixed Pot ATC Enable</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">0: Disable</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">1: Enable</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">When Fixed Pot mode is enabled, it is necessary to set the PTN of one pot of the ATC to 99. This PTN 99 serves as a dummy tool, required to setup the magazine for Fixed Pot Tool Change. If PTN 99 is not set, the machine alarm “EX1398 T99 not set in Tool Data” will occur.</para>
+  </body>
+</topic>

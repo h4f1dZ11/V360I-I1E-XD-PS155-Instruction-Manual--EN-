@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>3.18 Fixture Hydraulic Unit (Option) Specification</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Fixture Hydraulic Unit (Option) Specification</para>
+    </header>
+    <para styleclass="Normal" style="margin-top:8px;"><table rowcount="4" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:380px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Specification</para>
+        </td>
+        <td style="width:274px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Description</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:380px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Manufacturer</text></para>
+        </td>
+        <td style="width:274px; height:24px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Hydac</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:380px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Power Supply (3-Phase)</text></para>
+        </td>
+        <td style="width:274px; height:24px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">415 V (50Hz/60Hz)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:380px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Motor Power</text></para>
+        </td>
+        <td style="width:274px; height:24px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">2.2 kW (50Hz/60Hz)</text></para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

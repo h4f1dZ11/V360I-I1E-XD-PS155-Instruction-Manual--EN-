@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.9.6 OFFSET</title>
+  <body>
+    <header>
+      <para styleclass="Heading4"><text style="font-size:12pt;">OFFSET</text><draft-comment width="29px" height="13px" modified="2024-09-12" styleclass="Comment"><![CDATA[This page should be same as V180I-I1E-XD Slim3n Instruction Manual (EN) chapter 4.9.6]]></draft-comment></para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">The Tool Offset Data values are entered below.</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px;"> <text style="font-weight:bold;">GEOM_H:</text> Tool length offset.</li>
+      <li styleclass="Normal" style="margin-bottom:8px;"> <text style="font-weight:bold;">WEAR_H:</text> Tool length wear.</li>
+      <li styleclass="Normal" style="margin-bottom:8px;"> <text style="font-weight:bold;">GEOM_D:</text> Tool diameter.</li>
+      <li styleclass="Normal" style="margin-bottom:8px;"> <text style="font-weight:bold;">WEAR_H:</text> Tool diameter wear.</li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:8px;">After Tool change and before processing start, the length / diameter values are transferred to Fanuc offset page by M56 command.</para>
+    <para styleclass="Normal" style="margin-bottom:8px; page-break-before:always;"></para>
+  </body>
+</topic>

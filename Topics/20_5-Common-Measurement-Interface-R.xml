@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>20.5 Common Measurement Interface Related M Codes</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Common Measurement Interface Related M Codes</para>
+    </header>
+    <para styleclass="Table Font_Left" style="margin-right:8px; margin-bottom:8px; margin-left:8px; line-height:1.00;"><table styleclass="Default" rowcount="7" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px;">
+          <para styleclass="Normal" style="text-align:center; margin-top:2px; margin-right:8px; margin-bottom:2px; margin-left:8px;"><text style="font-size:10pt;">M1962</text></para>
+        </td>
+        <td style="vertical-align:middle; width:634px;">
+          <para styleclass="Normal" style="margin-top:4px; margin-right:8px; margin-bottom:4px; margin-left:4px;"><text style="font-size:10pt;">Enables the high-speed skip signal for AWM (HSKIP1)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:112px;">
+          <para styleclass="Normal" style="text-align:center; margin-top:4px; margin-right:8px; margin-bottom:4px; margin-left:8px;"><text style="font-size:10pt;">M1963</text></para>
+        </td>
+        <td style="vertical-align:middle; width:634px;">
+          <para styleclass="Normal"><text style="font-size:10pt;"> Enables the high-speed skip signal for ATLM (HSKIP2)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:112px;">
+          <para styleclass="Normal" style="text-align:center; margin-top:4px; margin-right:8px; margin-bottom:4px; margin-left:8px;"><text style="font-size:10pt;">M1966</text></para>
+        </td>
+        <td style="vertical-align:middle; width:634px;">
+          <para styleclass="Normal"> <text style="font-size:10pt;">Enables common measurement interface function</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:112px;">
+          <para styleclass="Normal" style="text-align:center; margin-top:4px; margin-right:8px; margin-bottom:4px; margin-left:8px;"><text style="font-size:10pt;">M1965</text></para>
+        </td>
+        <td style="vertical-align:middle; width:634px;">
+          <para styleclass="Normal"><text style="font-size:10pt;"> Disables common measurement interface function</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:112px;">
+          <para styleclass="Normal" style="text-align:center; margin-top:4px; margin-right:8px; margin-bottom:4px; margin-left:8px;"><text style="font-size:10pt;">M1960S1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:634px;">
+          <para styleclass="Normal"><text style="font-size:10pt;"> Enables AWM</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:112px;">
+          <para styleclass="Normal" style="text-align:center; margin-top:4px; margin-right:8px; margin-bottom:4px; margin-left:8px;"><text style="font-size:10pt;">M1960S2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:634px;">
+          <para styleclass="Normal"><text style="font-size:10pt;"> Enables ATLM</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:112px;">
+          <para styleclass="Normal" style="text-align:center; margin-top:4px; margin-right:8px; margin-bottom:4px; margin-left:8px;"><text style="font-size:10pt;">M1960S3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:634px;">
+          <para styleclass="Normal"><text style="font-size:10pt;"> Enables ATLM non-contact type</text></para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

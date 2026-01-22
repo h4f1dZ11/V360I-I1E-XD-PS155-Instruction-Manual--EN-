@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>9.1 Overview</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Overview</para>
+    </header>
+    <para styleclass="Normal">The tool changing system for this machine includes a tool magazine for storing cutters/tools and a CAM driven arm to perform the tool change.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">The tool change process is basically to interchange the tool in the currently indexed pot of the magazine and that in the spindle. This makes the magazine inherently “Random Pot” type. It means each tool does not have a designated pot assigned to it. However, it is possible to have a “Fixed Pot” type Magazine by performing two tool changes in a single tool change command. (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="9_4_1-Fixed-Pot-Mode_Random-Pot-Mode" style="color:#0000ff;">9.4.1 Fixed Pot Mode/Random Pot Mode</link>)</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">Automatic Tool Change (ATC) is a sequence to move/call a specified tool to the spindle. T command and M6 command are used for programming of the automatic tool change.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">The following modes of operation are available for the tool change system:</para>
+    <para styleclass="Normal"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Automatic Operation</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Manual Operation</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Maintenance Operation</li>
+      <li styleclass="Normal" style="margin-left:13px;"> Tool Data Screen Tool Call Mode</li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:8px; margin-left:13px; page-break-before:always;"></para>
+  </body>
+</topic>

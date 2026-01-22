@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>9.2 Tool Shape Limits</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Tool Shape Limits</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><image src="Ch 4 Fig 9.1.png" scale="28.00%" width="353" height="358" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"><text styleclass="Figure E" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=9%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; Standard HSK A-63 ATC30 Tool Shape Limits</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"><image src="Ch 4 Fig 9.2.png" scale="28.00%" width="378" height="360" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"><text styleclass="Figure E" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=9%&gt;.&lt;%HMFIGURECOUNTER%&gt; Standard HSK A-100 ATC30 Tool Shape Limits</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px; page-break-before:always;"></para>
+  </body>
+</topic>

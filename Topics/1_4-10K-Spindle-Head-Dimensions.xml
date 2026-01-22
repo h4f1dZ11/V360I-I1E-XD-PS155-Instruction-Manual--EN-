@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>1.4 10K Spindle Head Dimensions</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">10K Spindle Head Dimensions</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><image src="Chp 6 Fig 1.5.png" scale="32.00%" width="542" height="244" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><anchor id="Fig1.4" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER6=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; &#160;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">10K Spindle Head Dimensions</text></para>
+  </body>
+</topic>

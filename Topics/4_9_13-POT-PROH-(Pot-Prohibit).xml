@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.9.13 POT PROH (Pot Prohibit)</title>
+  <body>
+    <header>
+      <para styleclass="Heading4"><text style="font-size:12pt;">POT PROH (Pot Prohibit)</text><draft-comment width="29px" height="13px" modified="2024-09-12" styleclass="Comment"><![CDATA[This page should be same as V180I-I1E-XD Slim3n Instruction Manual (EN) chapter 4.9.13]]></draft-comment></para>
+    </header>
+    <para styleclass="Normal">When POT PROH is set to YES, Tool change for this pot is prohibited and Alarm is generated. Set to NO, the Tool change for the pot is possible.</para>
+  </body>
+</topic>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>20.4.1 Function Enable/Disable</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Function Enable/Disable</para>
+    </header>
+    <para styleclass="Normal">Common measurement interface can be enabled/disabled by specifying the corresponding M codes.</para>
+    <para styleclass="Normal"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:4px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> M1966 - Enables common measurement interface function</li>
+      <li styleclass="Normal" style="margin-left:13px;"> M1965 - Disables common measurement interface function</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:13px;"></para>
+    <para styleclass="Normal">Enable signal control at the beginning of measurement and disable this function at the end of measurement.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">Variables for signal control are also used in other functions. When common measurement interface is enabled, all functions that use variables are disabled until M1965 is issued.</para>
+  </body>
+</topic>

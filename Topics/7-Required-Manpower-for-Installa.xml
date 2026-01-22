@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>7 Required Manpower for Installation</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Required Manpower for Installation</para>
+    </header>
+    <para styleclass="Normal">The following table shows the minimum required manpower, time and the number of days for installation. Prepare/reserve manpower necessary for the installation by referring to the <link displaytype="text" defaultstyle="false" type="topiclink" href anchor="Table7.1" style="color:#0000ff;">Table 7.1</link> .</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">This work schedule may change for different installation environments and machine options.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Figure E"><anchor id="Table7.1" styleclass style="font-family:Arial; font-size:11pt; color:#000000;"></anchor><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Table &lt;%HMTABLECOUNTER3=7%&gt;.&lt;%HMTABLECOUNTER=1%&gt; Manpower for Installation</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="5" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:middle">
+        <td style="width:383px; height:28px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Work Item</para>
+        </td>
+        <td style="width:101px; height:28px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Required Manpower</para>
+        </td>
+        <td style="width:87px; height:28px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Time Needed Per Person</para>
+        </td>
+        <td style="width:96px; height:28px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Day Required Per Person</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:383px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Installation of Machine</text></para>
+        </td>
+        <td style="vertical-align:middle; width:101px; height:28px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:87px; height:28px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">5 Hours</text></para>
+        </td>
+        <td rowspan="4" style="vertical-align:middle; height:28px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">1 Day</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:383px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Coolant Tank</text></para>
+        </td>
+        <td style="vertical-align:middle; width:101px; height:28px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:87px; height:28px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">1 Hours</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:383px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Drum Conveyor (Option)</text></para>
+        </td>
+        <td style="vertical-align:middle; width:101px; height:28px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:87px; height:28px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">1 Hours</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:383px; height:28px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Operation Checks After Installation</text></para>
+        </td>
+        <td style="vertical-align:middle; width:101px; height:28px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:87px; height:28px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">1 Hours</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Conditions for the above data:</text></para>
+    <para styleclass="Normal"></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Machine is already placed properly on the leveling pads at the installation site.</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Customer is ready with the necessary pre-installation activity such as stabilizer, transformer, electrical connections, air connections etc.</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Operator &amp; Maintenance Training activity is separate (4 hours) and not included in the above chart.</text></li>
+    </list>
+    <para styleclass="1_11mm" style="margin-top:0px; page-break-before:always;"></para>
+  </body>
+</topic>

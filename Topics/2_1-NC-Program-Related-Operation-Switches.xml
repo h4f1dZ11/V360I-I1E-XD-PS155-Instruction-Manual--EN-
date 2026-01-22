@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2.1 NC Program Related Operation Switches</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">NC Program Related Operation Switches</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:15px;"><text styleclass="" style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;">A. Control Power On/Off</text></para>
+    <para styleclass="Title1" style="text-align:left; margin-bottom:15px; background-color:transparent; border:none;"><table styleclass="Default" rowcount="3" colcount="4" style="width:100%; cell-padding:3px; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; head-row-background-color:#dddddd; alt-row-background-color:none;">
+      <thead style="vertical-align:top">
+        <td style="width:31px;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:176px;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+        <td style="width:94px;">
+          <para styleclass="Table font_Header">Symbol</para>
+        </td>
+        <td style="width:581px;">
+          <para styleclass="Table font_Header">Description</para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:31px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">1</text></para>
+        </td>
+        <td style="width:176px;">
+          <para styleclass="Normal"><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">[POWER ON] </text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Switch</text></para>
+        </td>
+        <td style="vertical-align:top; width:94px;">
+          <para styleclass="Normal" style="text-align:center;"><image src="Power On Switch.png" scale="22.00%" width="54" height="54" styleclass="Image Caption"></image></para>
+        </td>
+        <td style="vertical-align:top; width:581px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Press this switch to turn on the control power. When the control power is on, the lamp built into the button is illuminated. When the </text><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">[POWER OFF]</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;"> switch is pressed, the </text><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">[POWER ON]</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;"> switch lamp is extinguished after a certain amount of time.</text></para>
+          <para styleclass="Notes">-NO<text styleclass=" " style="font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#231f20; background-color:#ffffff; letter-spacing:normal; letter-scaling:100%;">TES</text>-</para>
+          <list id="8" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Notes" style="font-family:Arial; font-size:10pt; color:#231f20;">
+            <li styleclass="Notes">Turn on the control power after turning on the main power on the machine controller.</li>
+          </list>
+          <list id="9" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="Notes" style="margin-bottom:0px; font-family:Arial; font-size:10pt; color:#231f20;">
+            <li styleclass="Notes" style="margin-bottom:0px;">When an “Emergency Stop” switch is on, the built-in lamp will not be illuminated even when the control power is turned on.</li>
+          </list>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:31px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">2</text></para>
+        </td>
+        <td style="width:176px;">
+          <para styleclass="Normal"><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">[POWER OFF] </text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Switch</text></para>
+        </td>
+        <td style="vertical-align:top; width:94px;">
+          <para styleclass="Normal" style="text-align:center;"><image src="Power Off Switch.png" scale="22.00%" width="55" height="54" styleclass="Image Caption"></image></para>
+        </td>
+        <td style="vertical-align:top; width:581px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Press this switch to turn off the control power.</text></para>
+          <para styleclass="Notes">-NOTES-</para>
+          <list id="10" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Notes" style="margin-bottom:0px; font-family:Arial; font-size:10pt; color:#231f20;">
+            <li styleclass="Notes" style="margin-bottom:0px;">When this switch is pressed, in the specified time the <text style="font-weight:bold;">[POWER ON]</text> switch lamp is turned off and the main power supply is automatically turned off. </li>
+          </list>
+          <list id="11" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:26px; font-family:Symbol; font-size:10pt; color:#000000;">
+            <li styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:26px;"><text style="font-size:10pt;">Standard specification: 10 seconds.</text></li>
+          </list>
+          <list id="12" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="Notes" style="font-family:Arial; font-size:10pt; color:#231f20;">
+            <li styleclass="Notes">When the <text style="font-weight:bold;">[POWER OFF]</text> switch is pressed again before 10 seconds elapse, the power off sequence is cancelled and the main power supply is not turned off.</li>
+          </list>
+          <list id="13" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="3" styleclass="Notes" style="margin-bottom:0px; font-family:Arial; font-size:10pt; color:#231f20;">
+            <li styleclass="Notes" style="margin-bottom:0px;">The <text style="font-weight:bold;">[POWER OFF]</text> switch’s lamp flashes when it is pressed and then turned off when the main power supply is off.</li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Title1" style="text-align:left; margin-bottom:15px; background-color:transparent; border:none;"><text styleclass="" style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;">B. Starting/Stopping NC Programs</text></para>
+    <para styleclass="Title1" style="text-align:left; background-color:transparent; border:none;"><table styleclass="Default" rowcount="3" colcount="4" style="width:100%; cell-padding:3px; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; head-row-background-color:#dddddd; alt-row-background-color:none;">
+      <thead style="vertical-align:top">
+        <td style="width:31px;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:176px;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+        <td style="width:94px;">
+          <para styleclass="Table font_Header">Symbol</para>
+        </td>
+        <td style="width:581px;">
+          <para styleclass="Table font_Header">Description</para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:31px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">1</text></para>
+        </td>
+        <td style="width:176px;">
+          <para styleclass="Normal"><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">[CYCLE START] </text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Switch</text></para>
+        </td>
+        <td style="vertical-align:top; width:94px;">
+          <para styleclass="Normal" style="text-align:center;"><image src="Cycle Start Switch.png" scale="25.00%" width="56" height="68" styleclass="Image Caption"></image></para>
+        </td>
+        <td style="vertical-align:top; width:581px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Press this switch to start NC programs. The green lamp is illuminated while the NC program is running. This switch is enabled in the MDI (Manual Data Input), Memory and External Input modes.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:31px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">2</text></para>
+        </td>
+        <td style="width:176px;">
+          <para styleclass="Normal"><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">[FEED HOLD] </text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Switch</text></para>
+        </td>
+        <td style="vertical-align:top; width:94px;">
+          <para styleclass="Normal" style="text-align:center;"><image src="Feed Hold Switch.png" scale="25.00%" width="56" height="70" styleclass="Image Caption"></image></para>
+        </td>
+        <td style="vertical-align:top; width:581px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Press this switch to stop the NC programs. The red lamp is illuminated while the NC program is stopped. When this switch is pressed, the machine goes to the Feed Hold status. However, the M/S/T functions continue running until completion, after which the program finally stops.</text></para>
+          <para styleclass="Notes">-NOTES-</para>
+          <list id="14" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Notes" style="margin-bottom:0px; font-family:Arial; font-size:10pt; color:#231f20;">
+            <li styleclass="Notes" style="margin-bottom:0px;">During the Feed Hold status, the following operations continue:</li>
+          </list>
+          <list id="15" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-top:4px; margin-left:26px; font-family:Symbol; font-size:10pt; color:#000000;">
+            <li styleclass="Normal" style="margin-top:4px; margin-left:26px;"><text style="font-size:10pt;">Spindle rotation</text></li>
+            <li styleclass="Normal" style="margin-top:4px; margin-left:26px;"><text style="font-size:10pt;">Tool change</text></li>
+            <li styleclass="Normal" style="margin-top:4px; margin-left:26px;"><text style="font-size:10pt;">Coolant supply</text></li>
+            <li styleclass="Normal" style="margin-top:4px; margin-left:26px;"><text style="font-size:10pt;">Some canned cycles</text></li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Title1" style="text-align:left; background-color:transparent; page-break-before:always; border:none;"></para>
+  </body>
+</topic>

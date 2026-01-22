@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>13.4 Operation Timing Charts and Flowcharts</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Operation Timing Charts and Flowcharts</para>
+    </header>
+    <para styleclass="Normal">The operation is executed in the following sequence:</para>
+    <para styleclass="Normal"></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Start Condition Confirmation</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">Output Signal On/Off</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">Operation Completion Confirmation with Input Signal</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">Completion Delay Time</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">Output Signal Off Upon Completion</li>
+    </list>
+  </body>
+</topic>

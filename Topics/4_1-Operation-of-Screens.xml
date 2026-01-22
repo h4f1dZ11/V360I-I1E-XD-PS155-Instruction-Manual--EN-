@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.1 Operation of Screens</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Operation of Screens<draft-comment width="29px" height="13px" modified="2024-09-11" styleclass="Comment"><![CDATA["Overview" title need to update to "Operation of Screens"
+
+This page should be same as V180I-I1E-XD Slim3n Instruction Manual (EN) chapter 4.1]]></draft-comment></para>
+    </header>
+    <para styleclass="Normal">To navigate to custom Main Menu Screen, press <text style="font-weight:bold;">[MENU]</text> key on MDI panel. <draft-comment width="29px" height="13px" modified="2024-09-11" styleclass="Comment"><![CDATA[Replace with "To navigate to custom Main Menu Screen, press[MENU] key on MDI panel. 
+
+This page should be same as 18VS900B501=2, V180I-I1E-XD Slim3n Instruction Manual (EN) chapter 4.1]]></draft-comment></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:15px;"><image src="Custom Screen Function Key.JPG" scale="70.00%" width="83" height="79" styleclass="Image Caption"></image><draft-comment width="29px" height="13px" modified="2024-09-11" styleclass="Comment"><![CDATA[Need to remove the Figure and table
+
+Include "Custom Screen Function Key" Figure from Chp 4.1 folder in graphic folder.]]></draft-comment></para>
+    <para styleclass="Normal" style="text-align:center;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=4%&gt;.&lt;%HMFIGURECOUNTER=1%&gt;  </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Custom Screen Function Key</text><draft-comment width="29px" height="13px" modified="2024-09-11" styleclass="Comment"><![CDATA[Change to "Custom Screen Function Key"]]></draft-comment></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

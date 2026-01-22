@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>15.2.1 Automatic Operation</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Automatic Operation</para>
+    </header>
+    <para styleclass="Normal">Automatic operation of the drum conveyor are interlinked with discharge of coolant and it can be operated continuously in the forward direction.</para>
+  </body>
+</topic>

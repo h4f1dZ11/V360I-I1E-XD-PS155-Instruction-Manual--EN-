@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Stop Operation</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Stop Operation</para>
+    </header>
+    <para styleclass="Normal">Stop operation of the drum conveyor can be performed with the following methods.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-weight:bold;">A &#160; &#160;Stopped by Emergency Stop Switch</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;">Press the “Emergency Stop” switch on the operation panel. (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="15_2-Drum-Conveyor-(Option)" anchor="Fig15.3" style="color:#0000ff;">Figure 15.3</link>)</para>
+    <para styleclass="Normal">All machine operations are stopped, including spindle rotation. (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="2_7-Malfunction_Accident-Preventio" style="color:#0000ff;">2.7 Malfunction/Accident Prevention Switch/Key Switches</link>)</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">B &#160; &#160;Stopped by Manual Intervention Switch</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">Press the “Manual Intervention” switch on the operation panel. (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="15_2-Drum-Conveyor-(Option)" anchor="Fig15.3" style="color:#0000ff;">Figure 15.3</link>)</para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px; page-break-before:always;"></para>
+  </body>
+</topic>

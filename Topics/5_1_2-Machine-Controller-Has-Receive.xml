@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>5.1.2 Machine Controller Has Received M06 Command But Operation Does Not Start</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Machine Controller Has Received M06 Command But Operation Does Not Start</para>
+    </header>
+    <para styleclass="Normal">When the machine controller receives the M06 command, the <text style="font-weight:bold;">[CYCLE START]</text> switch is illuminated. If an alarm is triggered during the operation, M06 is not executed. Eliminate the cause of alarm.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">Check for specific alarm generated during tool change. Refer to alarm detail in Alarm Detail screen or refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="18_Alarm-List" style="color:#0000ff;">18 Alarm List</link>.</para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

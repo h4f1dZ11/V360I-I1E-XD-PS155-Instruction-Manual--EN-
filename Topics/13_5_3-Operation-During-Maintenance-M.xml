@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>13.5.3 Operation During Maintenance Mode</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Operation During Maintenance Mode</para>
+    </header>
+    <para styleclass="Normal">When NC program is operating, Maintenance mode cannot be turned on. When Maintenance mode is on, program cannot be started.</para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

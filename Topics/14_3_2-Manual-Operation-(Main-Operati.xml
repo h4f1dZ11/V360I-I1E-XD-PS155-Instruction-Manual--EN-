@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>14.3.2 Manual Operation (Main Operation Panel/Function Screen)</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Manual Operation (Main Operation Panel/Function Screen)</para>
+    </header>
+    <para styleclass="Normal">Manual operation can be performed with the following methods.</para>
+    <para styleclass="Normal"></para>
+    <list id="4" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Operating machine from main operation panel (Refer to <text style="color:#0000ff;">A</text>)</li>
+      <li styleclass="Normal" style="margin-left:13px;"> Operating machine from Function Screen (Refer to <text style="color:#0000ff;">B</text>)</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:13px;"></para>
+    <para styleclass="Normal"><text style="font-weight:bold;">A    Manual Operation from Main Operation Panel</text></para>
+    <para styleclass="Normal" style="margin-left:26px;"></para>
+    <para styleclass="Normal" style="margin-bottom:8px; margin-left:26px;">The coolant related function switches are valid regardless of the operation mode. When a switch is pressed, the corresponding function is turned on (lamp illuminated). When pressed again, the function is turned off (lamp extinguished)<text style="font-weight:bold;">.</text></para>
+    <para styleclass="Normal" style="margin-bottom:8px; margin-left:26px;">For details of coolant related switches. (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="2_5-Coolant-Related-Switches" style="color:#0000ff;">2.5 Coolant Related Switches</link>)</para>
+    <para styleclass="Normal" style="margin-left:26px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass="Warning_bold_1"><text styleclass style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">NOTICE</text></para>
+        </td>
+        <td style="vertical-align:top; width:589px; border-left:none;">
+          <list id="5" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-top:4px; margin-bottom:4px; font-family:Symbol; font-size:10pt; color:#000000;">
+            <li styleclass="Normal" style="margin-top:4px; margin-bottom:4px;"><text style="font-size:10pt; font-weight:bold;">Functions not allocated to main operation panel.</text></li>
+          </list>
+          <list id="6" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:4px; font-family:Symbol; font-size:10pt; color:#000000;">
+            <li styleclass="Normal" style="margin-bottom:4px;"><text style="font-size:10pt; font-weight:bold;">The function can be turned on/off on the Function Screen. The flexible switch function can be used to allocated functions to the main operation panel (refer to</text><link displaytype="text" defaultstyle="false" type="topiclink" href="2_8-MDI-Panel" style="font-size:10pt; font-weight:bold; color:#0000ff;"> 2.8 MDI Panel</link><text style="font-size:10pt; font-weight:bold;">).</text></li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-bottom:8px; margin-left:26px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px; margin-left:26px;"><image src="Fig 14.2 Coolant Related Function Switches on Main Operation Panel.png" scale="50.00%" width="548" height="314" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px; margin-left:26px;"><text style="font-size:11pt;">&lt;%HMFIGURECOUNTER4=14%&gt;.&lt;%HMFIGURECOUNTER%&gt;  </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Coolant Related Function Switches on Main Operation Panel</text></para>
+    <para styleclass="Normal" style="page-break-before:always;"><text style="font-weight:bold;">B    Manual Operation from Function Screen</text></para>
+    <para styleclass="Normal" style="margin-left:26px;"></para>
+    <list id="7" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:26px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:26px;">Press <text style="font-weight:bold;">[MAKINO] </text>at Main Menu Screen .</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:26px;">Select <text style="font-weight:bold;">[FUNCTION]</text> by moving the <text style="font-weight:bold;">[</text><text styleclass style="font-family:Symbol; font-size:11pt; font-weight:bold; color:#000000;">¬</text><text style="font-weight:bold;">]</text> or <text style="font-weight:bold;">[</text><text styleclass style="font-family:Symbol; font-size:11pt; font-weight:bold; color:#000000;">®</text><text style="font-weight:bold;">]</text> cursor.</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:26px;">Press the <text style="font-weight:bold;">[ON]</text> soft key to turn on the selected coolant supply function.</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:26px;">Press the <text style="font-weight:bold;">[OFF]</text> soft key to turn off the selected coolant supply function.</li>
+    </list>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><image src="Ch 4 Fig 14.3.png" scale="60.00%" width="474" height="337" styleclass="Image Caption"></image><draft-comment width="29px" height="13px" modified="2024-09-13" styleclass="Comment"><![CDATA[Replace Figure to "Function Button on Navigation Menu Screen" from Chp 13 folder in Graphic folder.]]></draft-comment></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=14%&gt;.&lt;%HMFIGURECOUNTER%&gt;  </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Function Button on Navigation Menu Screen</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:196px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:196px; height:22px;">
+          <para styleclass="Normal"><text style="font-size:10pt; font-weight:bold;"> [FUNCTION]</text><text style="font-size:10pt;"> Button</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Ch 4 Fig 14.4.png" scale="90.00%" width="499" height="356" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><draft-comment width="29px" height="13px" modified="2024-09-13" styleclass="Comment"><![CDATA[Replace the figure to "Coolant related function" from Chp 14 folder in Graphic folder.]]></draft-comment></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=14%&gt;.&lt;%HMFIGURECOUNTER%&gt;  </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Coolant Related Functions on Function Screen</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:196px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:196px; height:22px;">
+          <para styleclass="Normal"><text style="font-size:10pt;"> Coolant Related Functions </text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

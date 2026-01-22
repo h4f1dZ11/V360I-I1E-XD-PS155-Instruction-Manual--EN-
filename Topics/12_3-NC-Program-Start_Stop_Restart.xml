@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>12.3 NC Program Start/Stop/Restart</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">NC Program Start/Stop/Restart</para>
+    </header>
+    <para styleclass="Normal">NC programs are started with the <text style="font-weight:bold;">[CYCLE START]</text> switch on the main operation panel. (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="12_3_1-NC-Program-Start" style="color:#0000ff;">12.3.1 NC Program Start</link>).</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">When automatic operation is started, the NC program is executed as described below:</para>
+    <para styleclass="Normal"></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">The first block command is read by the specified program.</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">The read block command is interpreted.</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Execution of the command is initiated.</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">The next block is read.</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">The next block is interpreted so that it can be immediately executed (buffering).</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">As soon as the execution of the previous block is completed, buffering enables execution of the next block to be immediately started.</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Automatic operation is performed by repeating steps 4 to 6.</text></li>
+    </list>
+    <para styleclass="1_11mm" style="margin-top:0px;"></para>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; margin-left:22px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">The following methods can be used to stop the NC program.</text></para>
+    <list id="3" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; margin-left:35px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; margin-left:35px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Specifying the program stop command in the NC program. (Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href="12_3_2-Program-Stop-by-Stop-Commands" styleclass style="font-family:Arial; font-size:11pt; color:#0000ff;">12.3.2 Program Stop by Stop Commands</link><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">)</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; margin-left:35px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Press the </text><text styleclass style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[FEED HOLD]</text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> or </text><text styleclass style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[SINGLE BLOCK]</text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> switch on the main operation panel.(Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href="12_3_3-Program-Stop-by-Switches-on-Ma" styleclass style="font-family:Arial; font-size:11pt; color:#0000ff;">12.3.3 Program Stop by Switches on Main Operation Panel</link><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">)</text></li>
+    </list>
+  </body>
+</topic>

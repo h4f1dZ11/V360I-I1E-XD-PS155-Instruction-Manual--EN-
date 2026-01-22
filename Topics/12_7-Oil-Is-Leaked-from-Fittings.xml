@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>12.7 Oil Is Leaked from Fittings</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Oil Is Leaked from Fittings</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="4" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:239px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Possible Causes</para>
+        </td>
+        <td style="width:471px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Corrective Measures</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Fittings are loose.</para>
+        </td>
+        <td style="vertical-align:top; height:5px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Tighten the fittings again.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Seal surface is defective.</para>
+        </td>
+        <td style="vertical-align:top; height:5px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Confirm the accuracy of and check for any warping or foreign matter on the seal surface and repair/replace as necessary.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Packing is damaged or worn.</para>
+        </td>
+        <td style="vertical-align:top; height:5px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Check for damage, tearing, ripping, wear or other problems when inserting gasket/seal and replace the part if necessary.</para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

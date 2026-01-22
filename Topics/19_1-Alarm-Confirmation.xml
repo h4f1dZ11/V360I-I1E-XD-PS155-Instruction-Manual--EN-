@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>19.1 Alarm Confirmation</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Alarm Confirmation</para>
+    </header>
+    <para styleclass="Normal">The following items indicate that an alarm/warning has occurred.</para>
+    <para styleclass="Normal"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:4px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Signal Light (Warning Light) – Red and/or Yellow color</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> NC status bar</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Machine Status screen</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Alarm screen</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:13px;"></para>
+    <para styleclass="Normal" style="margin-bottom:4px;">The Alarm screen or Operator Message screen is automatically displayed when an alarm or a warning occurs, respectively. (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="4_5-Alarm-Detail-Screen" style="color:#0000ff;">4.5 Alarm and Operator Message Screens</link>)</para>
+    <para styleclass="Normal" style="margin-bottom:4px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:4px;"><draft-comment width="29px" height="13px" modified="2024-09-13" styleclass="Comment"><![CDATA[Replace figure to "Alarm or Warning display" from Chp 15 folder in Graphic folder]]></draft-comment><image src="Alarm or Warning display.JPG" scale="50.00%" width="405" height="296" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:4px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=19%&gt;.&lt;%HMFIGURECOUNTER=1%&gt;  </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Alarm/Warning Display on Machine Status Screen</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="3" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:196px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+        <td style="width:46px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:202px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:196px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Alarm Indicator</para>
+        </td>
+        <td style="vertical-align:middle; width:46px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:202px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">NC Status Bar</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:196px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Warning Indicator</para>
+        </td>
+        <td style="vertical-align:middle; width:46px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">-</text></para>
+        </td>
+        <td style="vertical-align:middle; width:202px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">-</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

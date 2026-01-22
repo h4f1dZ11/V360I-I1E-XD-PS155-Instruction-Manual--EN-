@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>12.3.2 Program Stop by Stop Commands</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Program Stop by Stop Commands</para>
+    </header>
+    <para styleclass="Normal">Automatic operation is stopped by specifying the program stop or end of program command in the NC program (<text style="color:#0000ff;">A, B, C</text>). For details on these commands.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text style="font-weight:bold;">A &#160; Program Stop (M00)</text></para>
+    <para styleclass="Normal">Automatic operation automatically stops when a block including the M00 command is executed. This command also stops spindle operation and coolant supply.</para>
+    <para styleclass="Normal" style="margin-top:8px; margin-bottom:8px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass="Warning_bold_1" style="margin-top:0px; margin-bottom:0px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">NOTICE</text></para>
+        </td>
+        <td style="vertical-align:middle; width:589px; border-left:none;">
+          <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:11pt; color:#000000;">
+            <li styleclass="Normal"><text style="font-weight:bold;">Operation is restarted with the [CYCLE START] switch. Spindle rotation and coolant supply are resumed at this time.</text></li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text style="font-weight:bold;">B &#160; Optional Stop (M01)</text></para>
+    <para styleclass="Normal">Automatic operation automatically stops when a block including the M01 command is executed. This is only effective, however, when the <text style="font-weight:bold;">[OPTIONAL STOP]</text> switch on the main operation panel is turned on.</para>
+    <para styleclass="Normal" style="margin-top:8px; margin-bottom:8px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass="Warning_bold_1" style="margin-top:0px; margin-bottom:0px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">NOTICE</text></para>
+        </td>
+        <td style="vertical-align:middle; width:589px; border-left:none;">
+          <list id="4" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:11pt; color:#000000;">
+            <li styleclass="Normal"><text style="font-weight:bold;">When the [OPTIONAL STOP] switch is off, the machine does not stop and the program proceeds to the next block.</text></li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text style="font-weight:bold;">C &#160; &#160;End of Program (M02/M30)</text></para>
+    <para styleclass="Normal" style="margin-bottom:8px;">When the command M02 or M30 that specifies the end of the main program is read, automatic operation is stopped and the NC unit is reset.</para>
+    <para styleclass="Normal" style="margin-top:8px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass="Warning_bold_1" style="margin-top:0px; margin-bottom:0px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">NOTICE</text></para>
+        </td>
+        <td style="vertical-align:middle; width:589px; border-left:none;">
+          <list id="5" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:11pt; color:#000000;">
+            <li styleclass="Normal"><text style="font-weight:bold;">When the Automatic Power Out function is on, the power supply is automatically turned off.</text></li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

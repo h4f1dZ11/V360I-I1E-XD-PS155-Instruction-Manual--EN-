@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>11.2 Jog Feed</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Jog Feed</para>
+    </header>
+    <para styleclass="Normal">The Jog Feed mode (manual continuous feed) is used to confirm the condition of the workpiece during machining operation. In this mode, the selected axis is moved at the specified speed while the “Direction Selection” switch is pressed.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">Jog Feed cannot be performed with the operator door open under the following conditions.</para>
+    <para styleclass="Normal"></para>
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Operation Mode 1 in Operator Door Unlock</li>
+      <li styleclass="Normal" style="margin-left:13px;"> Operator Door Lock (Power Out System - Option)</li>
+    </list>
+    <para styleclass="Normal" style="margin-top:8px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Danger symbol no text.ipp" scale="16.00%" width="42" height="37" styleclass="Image Caption"></image></para>
+          <para styleclass="Warning_bold_1"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">WARNING</text></para>
+        </td>
+        <td style="vertical-align:middle; width:589px; border-left:none;">
+          <list id="4" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Table font Warning_3" style="font-family:Symbol; font-size:10pt; color:#000000;">
+            <li styleclass="Table font Warning_3">Exercise extreme caution when operating the machine with the operator door open to prevent being seriously injured.</li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-top:8px;"></para>
+    <para styleclass="Normal"><text style="font-weight:bold;">Operation Procedure</text></para>
+    <para styleclass="Normal"></para>
+    <list id="5" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Press the </text><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[JOG]</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> mode switch on the main operation panel.</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Open the operator door.</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Press the “Axis Selection” switch to select the axis to be moved.</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Specify the feed rate using the “Jog Feed” switch. </text></li>
+    </list>
+    <para styleclass="1_11mm" style="margin-top:0px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Press the </text><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[+]</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> or </text><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[-]</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> “Direction Selection” switch. The axis moves in the selected direction at</text></para>
+    <para styleclass="1_11mm" style="margin-top:0px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">the specified speed while the direction switch remains pressed.</text></para>
+    <para styleclass="Normal" style="margin-top:8px; margin-bottom:8px; margin-left:52px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass="Warning_bold_1" style="margin-top:0px; margin-bottom:0px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">NOTICE</text></para>
+        </td>
+        <td style="vertical-align:middle; width:602px; border-left:none;">
+          <para styleclass="Table font Warning_3"> &#160; <text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">The current position and feed rate can be confirmed on the screen.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="1_11mm" style="margin-top:0px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">This completes the Jog Feed procedure.</text></para>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; page-break-before:always;"></para>
+  </body>
+</topic>

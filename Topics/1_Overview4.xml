@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>1 Overview</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Overview</para>
+    </header>
+    <para styleclass="Normal">This chapter describes troubleshooting procedures for each unit.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-weight:bold;">Prior to Work</text></para>
+    <para styleclass="Normal"></para>
+    <list id="7" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-left:13px;">  Read and understand Chapter 1 Safety prior to troubleshooting to ensure safe working</li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">     conditions.</para>
+    <list id="7" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">  The machine must be handled by trained personnel.</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">  Wear appropriate safety equipment.</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">  Ensure the machine surrounding area is sufficiently illuminated.</li>
+      <li styleclass="Normal" style="margin-left:13px;">  Place “Under Inspection/Maintenance” warning signs at the appropriate locations, including the</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:13px;">     main operation panel to notify personnel that work is in progress to prevent others from</para>
+    <para styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">     inadvertently operating the machine while work is being performed.</para>
+    <list id="7" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-left:13px;">  Prior to maintenance/servicing work, perform troubleshooting thoroughly and be aware as</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:13px;">     much as possible of the condition in which machine operation was interrupted (machine</para>
+    <para styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">     trouble occurred).</para>
+    <list id="7" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-left:13px;">  In the following events, leave the machine as it is and contact your Makino service</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:13px;">     representative.</para>
+    <para styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">     Do not attempt to correct the problem yourself.</para>
+    <para styleclass="Normal" style="margin-left:13px;">     -<tab/>When the tool/tool pot is not clamped correctly (tool/tool pot may fall off the machine).</para>
+    <para styleclass="Normal" style="margin-left:13px;">     -<tab/>When the nature/cause of the machine problem is not apparent.</para>
+    <para styleclass="Normal" style="margin-left:13px;"></para>
+    <para styleclass="Normal"><text style="font-weight:bold;">During Work</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">Observe all safety precautions and exercise extreme caution, especially when operating under the</para>
+    <para styleclass="Normal">following conditions. Careless operation may result in serious injury, death and/or damage to the machine.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">Take adequate precautions to ensure the safety of personnel operating the machine.</para>
+    <para styleclass="Normal"></para>
+    <list id="8" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">  When the power must remain on.</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">  When it is necessary to enter the machine/tool magazine.</li>
+      <li styleclass="Normal" style="margin-left:13px;">  When safety devices such as Interlock system must be released.</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:13px; page-break-before:always;"></para>
+  </body>
+</topic>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>5 CNC Unit</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">CNC Unit</para>
+    </header>
+    <para styleclass="Normal">The CNC control system used in the machine is FS0i-MF+ series and is mounted on the main operator panel. The following components and printed circuit boards are associated with the CNC system.</para>
+  </body>
+</topic>

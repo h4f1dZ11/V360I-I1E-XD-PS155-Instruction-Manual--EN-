@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>12.3.6 NC Program Restart from Stop Status</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">NC Program Restart from Stop Status</para>
+    </header>
+    <para styleclass="Normal">The NC program suspended by the <text style="font-weight:bold;">[FEED HOLD]</text> or <text style="font-weight:bold;">[SINGLE BLOCK]</text> switch can be restarted by pressing the <text style="font-weight:bold;">[CYCLE START]</text> switch on the main operation panel. The flow of the NC program restart procedure from the suspended status is described in the flowchart below.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="FlowChart NCProgram Restart from Stop Status.png" scale="28.00%" width="574" height="783" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

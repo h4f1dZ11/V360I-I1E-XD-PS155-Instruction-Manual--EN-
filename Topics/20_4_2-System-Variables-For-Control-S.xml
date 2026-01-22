@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>20.4.2 System Variables For Control Signal Input</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">System Variables For Control Signal Input</para>
+    </header>
+    <para styleclass="Normal">The signal status can be confirmed by reading the values of system variables #1000 - #1003. 1 is output at 24V, 0 is output at 0V.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Figure E"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Table &lt;%HMTABLECOUNTER4=20%&gt;.&lt;%HMTABLECOUNTER%&gt; System Variables (Input)</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="7" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:133px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Signal Name</para>
+        </td>
+        <td style="width:155px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">System Variable Number</para>
+        </td>
+        <td style="width:81px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Symbol</para>
+        </td>
+        <td style="width:144px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Description</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:133px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">MSDI1</para>
+        </td>
+        <td style="vertical-align:middle; width:155px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">#1000</para>
+        </td>
+        <td style="vertical-align:middle; width:81px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">MSALA</para>
+        </td>
+        <td style="vertical-align:middle; width:144px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">System error</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:133px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">MSDI2</para>
+        </td>
+        <td style="vertical-align:middle; width:155px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">#1001</para>
+        </td>
+        <td style="vertical-align:middle; width:81px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">MSALB</para>
+        </td>
+        <td style="vertical-align:middle; width:144px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Battery low</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:133px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">MSDI3</para>
+        </td>
+        <td style="vertical-align:middle; width:155px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">#1002</para>
+        </td>
+        <td style="vertical-align:middle; width:81px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">LSROK</para>
+        </td>
+        <td style="vertical-align:middle; width:144px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Laser ok</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:133px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">MSDI4</para>
+        </td>
+        <td style="vertical-align:middle; width:155px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">#1003</para>
+        </td>
+        <td style="vertical-align:middle; width:81px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">STA</para>
+        </td>
+        <td style="vertical-align:middle; width:144px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Static</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:133px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">HDIx</para>
+        </td>
+        <td rowspan="2" style="vertical-align:top; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; margin-top:4px; line-height:1.00;">#1031</para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;"></para>
+        </td>
+        <td style="vertical-align:middle; width:144px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">High speed skip</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:133px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Skip</para>
+        </td>
+        <td style="vertical-align:middle; width:144px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Normal skip</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

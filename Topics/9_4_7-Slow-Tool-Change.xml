@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>9.4.7 Slow Tool Change</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Slow Tool Change</para>
+    </header>
+    <para styleclass="Normal">During automatic tool change, the arm moves at a very high speed to reduce cycle time. However there are cases where require the tool change to operate at a lower speed. For example, changing of very heavy tools or sensitive tools like measuring probe. This is to prevent damage to the tool or the machine. </para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">The above can be achieved by setting Slow Tool Change for the tool in the Tool Data screen. Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="4_9-Tool-Data-Management-Screen" style="color:#0000ff;">4.9 Tool Data Management Screen</link> for how to perform this setting. If either the spindle tool or the magazine tool is set as Slow Tool Change, the ATC arm will move in the same motion path but at a much slower speed. </para>
+  </body>
+</topic>

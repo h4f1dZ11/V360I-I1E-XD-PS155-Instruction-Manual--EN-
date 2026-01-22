@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>20.2 Function Description</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Function Description</para>
+    </header>
+    <para styleclass="Normal">Standard measurement device providers are allowed to use system variables to control I/O.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Ch 4 Fig 20.1.png" scale="28.00%" width="543" height="416" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=20%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; &#160;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">I/O System Overview</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px; page-break-before:always;"><text style="font-size:11pt;">Table &lt;%HMTABLECOUNTER4=20%&gt;.&lt;%HMTABLECOUNTER=1%&gt; &#160;Signal Table</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="11" colcount="6" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td colspan="3" style="width:376px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Input (DI)</para>
+        </td>
+        <td colspan="3" style="width:377px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Output (DO)</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:133px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Signal Name</para>
+        </td>
+        <td style="width:124px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Address</para>
+        </td>
+        <td style="width:114px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header" style="margin-right:2px; margin-left:2px;">System Variable</para>
+        </td>
+        <td style="width:133px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Signal Name</para>
+        </td>
+        <td style="width:125px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Address</para>
+        </td>
+        <td style="width:114px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header" style="margin-right:2px; margin-left:2px;">System Variable</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:133px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">MSALA (MSDI1)</para>
+        </td>
+        <td style="vertical-align:middle; width:124px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">X4.5</para>
+        </td>
+        <td style="vertical-align:middle; width:114px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">#1000</para>
+        </td>
+        <td style="vertical-align:middle; width:133px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">OPPON (MSDO1)</para>
+        </td>
+        <td style="vertical-align:middle; width:125px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Y3.6</para>
+        </td>
+        <td style="vertical-align:middle; width:114px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">#1100</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:133px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">MSALB (MSDI2)</para>
+        </td>
+        <td style="vertical-align:middle; width:124px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">X4.6</para>
+        </td>
+        <td style="vertical-align:middle; width:114px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">#1001</para>
+        </td>
+        <td style="vertical-align:middle; width:133px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">PRBSEL (MSDO2)</para>
+        </td>
+        <td style="vertical-align:middle; width:125px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Y3.7</para>
+        </td>
+        <td style="vertical-align:middle; width:114px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">#1101</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:133px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">LSROK (MSDI3)</para>
+        </td>
+        <td style="vertical-align:middle; width:124px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">X4.3</para>
+        </td>
+        <td style="vertical-align:middle; width:114px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">#1002</para>
+        </td>
+        <td style="vertical-align:middle; width:133px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">SL304 (MSDO3)</para>
+        </td>
+        <td style="vertical-align:middle; width:125px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Y3.3</para>
+        </td>
+        <td style="vertical-align:middle; width:114px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">#1102</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:133px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">STA (MSDI4)</para>
+        </td>
+        <td style="vertical-align:middle; width:124px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">X4.4</para>
+        </td>
+        <td style="vertical-align:middle; width:114px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">#1003</para>
+        </td>
+        <td style="vertical-align:middle; width:133px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">SL303 (MSDO4)</para>
+        </td>
+        <td style="vertical-align:middle; width:125px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Y3.4</para>
+        </td>
+        <td style="vertical-align:middle; width:114px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">#1103</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:133px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;"></para>
+        </td>
+        <td style="vertical-align:middle; width:124px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">-</para>
+        </td>
+        <td style="vertical-align:middle; width:114px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">-</para>
+        </td>
+        <td style="vertical-align:middle; width:133px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">SL302 (MSDO5)</para>
+        </td>
+        <td style="vertical-align:middle; width:125px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Y3.5</para>
+        </td>
+        <td style="vertical-align:middle; width:114px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">#1104</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:133px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;"></para>
+        </td>
+        <td style="vertical-align:middle; width:124px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">-</para>
+        </td>
+        <td style="vertical-align:middle; width:114px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">-</para>
+        </td>
+        <td style="vertical-align:middle; width:133px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">ENBL0 (MSDO6)</para>
+        </td>
+        <td style="vertical-align:middle; width:125px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Y3.2</para>
+        </td>
+        <td style="vertical-align:middle; width:114px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">#1105</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:133px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;"></para>
+        </td>
+        <td style="vertical-align:middle; width:124px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">-</para>
+        </td>
+        <td style="vertical-align:middle; width:114px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">-</para>
+        </td>
+        <td style="vertical-align:middle; width:133px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">ENBL1 (MSDO7)</para>
+        </td>
+        <td style="vertical-align:middle; width:125px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Y3.0</para>
+        </td>
+        <td style="vertical-align:middle; width:114px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">#1106</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="2" style="vertical-align:middle; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">SKIP</para>
+        </td>
+        <td style="vertical-align:middle; width:124px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">X4.7</para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">#1031</para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">ENBL2 (MSDO8)</para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">Y3.1</para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">#1107</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:124px; height:22px;">
+          <para styleclass="Table Font_Left" style="text-align:center; line-height:1.00;">F122.0-1</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+  </body>
+</topic>

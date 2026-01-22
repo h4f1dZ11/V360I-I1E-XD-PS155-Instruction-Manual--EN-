@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Manual Operation</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Manual Operation</para>
+    </header>
+    <para styleclass="Normal">Manual operation of the drum conveyor can be performed with the following methods.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-weight:bold;">A    Procedure to Rotate in Forward Direction During Automatic Operation</text></para>
+    <para styleclass="Normal"></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Press the “Manual Intervention” switch. (Manual operation mode)</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Press the “Forward Rotation Start” switch (starts rotation in forward direction).</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Press the “Forward Rotation Start” switch again (stops rotation in forward direction).</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Press the “Manual Intervention” switch. (Automatic operation mode)</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-weight:bold;">B    Procedure to Rotate in Reverse Direction During Automatic Operation</text></para>
+    <para styleclass="Normal"></para>
+    <list id="3" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Press the “Manual Intervention” switch. (Manual operation mode).</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Hold down the “Reverse Rotation Start” switch (rotation in reverse direction).</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Release the “Reverse Rotation Start” switch (stops rotation in reverse direction).</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Press the “Manual Intervention” switch. (Automatic operation mode)</text></li>
+    </list>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; margin-left:22px;"></para>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; margin-left:22px;">-NOTE-</para>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-left:22px;"><text style="font-size:10pt;">The switches are located on the drum conveyor operation panel (hereafter called operation panel).</text></para>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; margin-left:22px;"><text style="font-size:10pt;">(Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href="15_2-Drum-Conveyor-(Option)" anchor="Fig15.3" style="font-size:10pt; color:#0000ff;">Figure 15.3</link><text style="font-size:10pt;">)</text></para>
+  </body>
+</topic>

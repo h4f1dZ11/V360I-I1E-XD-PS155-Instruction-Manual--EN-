@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>13.3.1 Number of Control Signals</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Number of Control Signals</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">Each set of control signals consists of an input signal and an output signal. These sets of signals can be controlled singularly or grouped together in multiple signal control.</para>
+    <para styleclass="Normal">Input and output signals are allocated accordingly to the requirements by a device to be controlled such as a single actuator or double solenoid valve. To allocate control signals into groups, specify each signal set into the group allocation parameters. Groups 1 to 4 are available.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-weight:bold;">Single Signal Control</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">Input/output signal set not assigned to any group.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"> <image src="Ch 4 Fig 13.2.png" scale="26.00%" width="463" height="133" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px; margin-left:13px;"><text styleclass="Figure E" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=13%&gt;.&lt;%HMFIGURECOUNTER%&gt; Single Signal Control Timing Chart</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"></para>
+    <para styleclass="Normal"><text style="font-weight:bold;">Single Signal Control</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">When multiple input/output signal sets are assigned to a group, each M code command affects the outputs of all the signal sets up to eight input/output signals and it can be assigned to the same group. In Multiple Signal Control, only one output in the group can be on at one time. When an “On” M code is commanded for one input/output set in a group, all other output signals in the same group are switched off.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><image src="Ch4 13.3.png" scale="26.00%" width="487" height="305" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"><text styleclass="Figure E" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=13%&gt;.&lt;%HMFIGURECOUNTER%&gt; Multiple Signal Control Timing Chart</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px; margin-left:13px; page-break-before:always;"></para>
+  </body>
+</topic>

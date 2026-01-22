@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2 Maximum Workpiece Limitations</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Maximum Workpiece Limitations</para>
+    </header>
+    <para styleclass="Normal">To prevent interference between the workpiece (e.g. where the workpiece size is bigger than the table size) and other components, mainly the ATC and splash guard, the movement range of the workpiece is restricted to be within the maximum workpiece limitations (sand pattern hatching) as shown in <link displaytype="text" defaultstyle="false" type="topiclink" href="1_3-14K-Spindle-Head-Dimensions" anchor="Fig1.3" style="color:#0000ff;">Figure 1.3</link> to <link displaytype="text" defaultstyle="false" type="topiclink" href="1_5-PS155-Machine-Stroke-Limits--W" anchor="Fig1.6" style="color:#0000ff;">Figure 1.6</link>.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">The automatic tool change operation can be performed with workpieces within the dimensions shown in <link displaytype="text" defaultstyle="false" type="topiclink" href="1_3-14K-Spindle-Head-Dimensions" anchor="Fig1.3" style="color:#0000ff;">Figure 1.3</link> to <link displaytype="text" defaultstyle="false" type="topiclink" href="1_5-PS155-Machine-Stroke-Limits--W" anchor="Fig1.6" style="color:#0000ff;">Figure 1.6</link> and the conditions below are satisfied.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">Conditions:</para>
+    <para styleclass="Normal"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-left:13px;"> When the X-/Y-/Z-axis is moved, the workpiece must be within the movement range.</li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:9px; margin-left:13px;"> &#160; &#160;(Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="1_5-PS155-Machine-Stroke-Limits--W" anchor="Fig1.5" style="color:#0000ff;">Figure 1.5</link> to <link displaytype="text" defaultstyle="false" type="topiclink" href="1_6-PS155-(SPD-10K-Option)-Machine" anchor="Fig1.8" style="color:#0000ff;">Figure 1.8</link>)</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-left:13px;"> When the workpiece is in the machining chamber, the tool change operation cannot be</li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:9px; margin-left:13px;"> &#160; &#160;performed if tool dimensions do not satisfy the conditions in <link displaytype="text" defaultstyle="false" type="topiclink" href="1_3-14K-Spindle-Head-Dimensions" anchor="Fig1.3" style="color:#0000ff;">Figure 1.3</link> to <link displaytype="text" defaultstyle="false" type="topiclink" href="1_5-PS155-Machine-Stroke-Limits--W" anchor="Fig1.6" style="color:#0000ff;">Figure 1.6</link>.</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-left:13px;">A portion of the workpiece shape must be changed for exchanging tools that exceed the</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:13px;"> &#160; tool shape limitation (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="1_5-PS155-Machine-Stroke-Limits--W" anchor="Fig1.5" style="color:#0000ff;">Figure 1.5</link> to <link displaytype="text" defaultstyle="false" type="topiclink" href="1_6-PS155-(SPD-10K-Option)-Machine" anchor="Fig1.8" style="color:#0000ff;">Figure 1.8</link>).</para>
+  </body>
+</topic>

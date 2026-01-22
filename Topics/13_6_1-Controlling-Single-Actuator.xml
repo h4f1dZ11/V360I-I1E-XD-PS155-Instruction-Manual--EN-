@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>13.6.1 Controlling Single Actuator</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Controlling Single Actuator</para>
+    </header>
+    <para styleclass="Normal">Control of a single actuator equipped with a single solenoid valve and limit switch is outlined below.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">When there are only one limit switch, an operation may not be completed even through the status of the limit switch changes for the operation of the one side. In such a case, the completion delay time function is utilized.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Ch 4 Fig 13.16.png" scale="25.00%" width="446" height="296" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"><text styleclass="Figure E" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=13%&gt;.&lt;%HMFIGURECOUNTER%&gt; Single Actuator Control Timing Chart</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"></para>
+    <para styleclass="Normal" style="page-break-inside:avoid;"><text styleclass="Figure E" style="font-size:11pt; font-weight:bold;">Control Procedure Using USDO1/USDI1</text></para>
+    <para styleclass="Normal" style="page-break-inside:avoid;"></para>
+    <list id="3" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="1_11mm" style="margin-top:0px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm" style="margin-top:0px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Set the machine parameters as follows:</text></li>
+    </list>
+    <list id="4" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Body bullet" style="font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> No. 11033 (Start Condition Confirm – Single) 0: Not confirmed</text></li>
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> No. 11041 (Start Condition Confirm – Group) 0: Not Confirmed</text></li>
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> No. 11049 (Finish Condition Confirm – Single) 1: Confirmed</text></li>
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> No. 11057 (Finish Condition Confirm – Group) 0: Not confirmed</text></li>
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> No. 11073 (Operation Completion Time Limit) 30: 30 [sec]</text></li>
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> No. 11089 (Off Operation Completion Delay Time) 5: 500 [msec]</text></li>
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> No. 11081 (On Operation Completion Delay Time) 0: 0 [msec]</text></li>
+      <li styleclass="Body bullet"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> No. 11065 (USDO1 turn off after operation completion) 0: Not turned off</text></li>
+    </list>
+    <list id="5" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="1+_11mm" style="font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="1+_11mm">Connect the limit switch/solenoid valve and the input/output signal terminal in the machine controller with cables. Connect the solenoid valve to USDO1 and the limit switch to USDI1.</li>
+      <li styleclass="1+_11mm">Issue M580 and M581 in MDI mode to confirm the single actuator operation. Check the operation status and adjust the completion delay time to the optimum value with machine parameter No. 11069 (USDO1/USDI1 Off Operation Completion Delay Time).</li>
+    </list>
+    <para styleclass="1+_11mm" style="text-align:center; margin-top:0px; page-break-before:always;"></para>
+  </body>
+</topic>

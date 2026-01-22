@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.11 ATC Maintenance Screen</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">ATC Maintenance Screen</para>
+    </header>
+    <para styleclass="Normal">ATC Maintenance screen is provided for performing recovery or maintenance on the ATC and magazine system. It is necessary to turn on Maintenance mode to perform any maintenance operation. When Maintenance mode is on, machine must be stopped.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="width:112px; border-right:none;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Danger symbol no text.ipp" scale="16.00%" width="42" height="37" styleclass="Image Caption"></image></para>
+          <para styleclass="Warning_bold_1"><text styleclass style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">WARNING</text></para>
+        </td>
+        <td style="vertical-align:middle; width:592px; border-left:none;">
+          <list id="4" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Table font Warning_3" style="font-family:Symbol; font-size:10pt; color:#000000;">
+            <li styleclass="Table font Warning_3">Tool data is not updated for any ATC arm movements made in Maintenance mode.</li>
+            <li styleclass="Table font Warning_3">After any ATC Maintenance operation, always check the tool data is correct.</li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">The following conditions must be satisfied for Maintenance mode to be on:</para>
+    <para styleclass="Normal"></para>
+    <list id="5" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:4px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Not ATC Manual Intervention Mode</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Not Tool Data Screen Tool Call Mode</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Machining Stop (NC Reset)</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Not ATC Magazine Operation</li>
+      <li styleclass="Normal" style="margin-left:13px;"> Not ATC Arm Operation</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:13px;"></para>
+    <para styleclass="Normal">Alarms and/or warnings will be generated when the conditions are not met.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">To view ATC Maintenance screen, press the <text style="font-weight:bold;">[ATC MAINTENANCE]</text> button [1] on the Navigation Menu screen. The ATC Maintenance screen consist of the maintenance for ATC solenoids and ATC magazine servo.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Ch 4 Fig 4.32.png" scale="62.00%" width="399" height="332" styleclass="Image Caption"></image><draft-comment width="29px" height="13px" modified="2024-09-25" styleclass="Comment"><![CDATA[Please replace the figure to "ATC maintenance button navigation Menu screen" from Chp 4 folder in Graphic folder]]></draft-comment></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=4%&gt;.&lt;%HMFIGURECOUNTER%&gt;  </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">ATC Maintenance Button on Navigation Menu Screen</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:196px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:196px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;"><text style="font-weight:bold;">[ATC MAINTENANCE]</text> Button</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Ch 4 Fig 4.33.png" scale="50.00%" width="400" height="300" styleclass="Image Caption"></image><draft-comment width="29px" height="13px" modified="2024-09-25" styleclass="Comment"><![CDATA[Please replace the figure to "ATC maintenance screen" from Chp 4 folder in Graphic folder]]></draft-comment></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=4%&gt;.&lt;%HMFIGURECOUNTER%&gt;  </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">ATC Maintenance Screen</text></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">In the ATC Maintenance screen, the following functions can be controlled/operated:</text></para>
+    <list id="6" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> Shutter Open</text></li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> Shutter Close</text></li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> Pot Horizontal</text></li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> Pot Vertical</text></li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> ATC Arm Forward (M6 Direction)</text></li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> ATC Arm Reverse</text></li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> ATC Auto Recovery</text></li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> Magazine Rotation</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">The left panel of the ATC Maintenance screen contains the controls for the ATC actuators and ATC magazine. The right panel provides information and advice for the Maintenance operation. To perform Maintenance operation, Maintenance mode must be on. Pressing the actuator on/off buttons when Maintenance mode is Off has no effect.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Notes">-NOTES-</para>
+    <list id="7" type="ol" listtype="decimal" formatstring="%0:s    " format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Notes" style="font-family:Arial; font-size:10pt; color:#000000;">
+      <li styleclass="Notes"><text styleclass="Normal" style="font-size:10pt;">Maintenance mode can be protected by password in the User Management screen.</text></li>
+      <li styleclass="Notes" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:10pt;">When Maintenance mode is off and machine is not in Emergency status, the output of the actuators will be reset to the status indicated by their respective limit switches.</text></li>
+    </list>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

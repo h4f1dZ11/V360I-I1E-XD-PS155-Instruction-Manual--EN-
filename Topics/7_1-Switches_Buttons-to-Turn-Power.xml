@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>7.1 Switches/Buttons to Turn Power Supply On/Off</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Switches/Buttons to Turn Power Supply On/Off</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:10px;">The locations of the switches and buttons for turning the power supply on/off are shown below.</para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="Fig 7.1 Switches to Turn Power supply Onoff.png" scale="80.00%" width="643" height="674" styleclass="Image Caption"></image><draft-comment width="29px" height="13px" modified="2024-09-13" styleclass="Comment"><![CDATA[Function Screen figure need to update and figure can be find from Chp 7 folder in Graphic folder]]></draft-comment></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><anchor id="Fig7.1" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=7%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; Switches/Buttons to Turn Power Supply On/Off</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px; page-break-before:always;"></para>
+  </body>
+</topic>

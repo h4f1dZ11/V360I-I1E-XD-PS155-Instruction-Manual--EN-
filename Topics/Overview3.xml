@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Overview</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Overview</para>
+    </header>
+    <para styleclass="Normal">Coolant for machining is supplied by the coolant supply unit.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">Chips are removed from the recovered coolant by the chip disposal unit and the temperature is controlled by the Coolant Chiller (Option) when it is used (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="15-Chip-Disposal" style="color:#0000ff;">15 Chip Disposal</link>).</para>
+  </body>
+</topic>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.9.18 STATUS</title>
+  <body>
+    <header>
+      <para styleclass="Heading4"><text style="font-size:12pt;">STATUS</text><draft-comment width="29px" height="13px" modified="2024-09-12" styleclass="Comment"><![CDATA[This page should be same as V180I-I1E-XD Slim3n Instruction Manual (EN) chapter 4.9.18]]></draft-comment></para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">The status of Tool is displayed as below under this column for the respective Tool.</para>
+    <para styleclass="Normal" style="margin-bottom:3px;"><text style="font-weight:bold;">WRN</text> - Tool Life Warning</para>
+    <para styleclass="Normal" style="margin-bottom:3px;"><text style="font-weight:bold;">LIFE</text> - Tool Life Attained</para>
+    <para styleclass="Normal" style="margin-bottom:3px;"><text style="font-weight:bold;">BT</text> - Broken Tool</para>
+    <para styleclass="Normal" style="margin-bottom:3px;"><text style="font-weight:bold;">SL UP</text> - Spindle Load Upper Limit Alarm</para>
+    <para styleclass="Normal" style="margin-bottom:3px;"><text style="font-weight:bold;">SL LOW</text> - Spindle Load Lower Limit Alarm</para>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text style="font-weight:bold;">PRBT</text> - Tool Change Prohibit Status</para>
+    <para styleclass="Normal" style="margin-bottom:3px;"><text style="font-size:10pt;">-NOTE-</text></para>
+    <para styleclass="Normal"><text style="font-size:10pt;">Tool Data can only be changed in login level MAKINO / SUPERVISOR.</text></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

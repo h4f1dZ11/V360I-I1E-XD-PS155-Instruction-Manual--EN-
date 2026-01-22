@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>9.4.4 Tool Change Command - Random Pot</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Tool Change Command - Random Pot</para>
+    </header>
+    <para styleclass="Normal">In this mode, the magazine index tool and spindle tool will be interchanged immediately.</para>
+  </body>
+</topic>

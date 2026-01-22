@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>13.4.4 Two Signal Control Flow Chart</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Two Signal Control Flow Chart</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><image src="Ch 4 Fig 13.9.png" scale="28.00%" width="551" height="690" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"><text styleclass="Figure E" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=13%&gt;.&lt;%HMFIGURECOUNTER%&gt; Two Signal Control Operation (M581) Flow Chart</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px; page-break-before:always;"><image src="Ch 4 Fig 13.10.png" scale="28.00%" width="543" height="696" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"><text styleclass="Figure E" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=13%&gt;.&lt;%HMFIGURECOUNTER%&gt; Two Signal Control Operation (M583) Flow Chart</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px; page-break-before:always;"></para>
+  </body>
+</topic>

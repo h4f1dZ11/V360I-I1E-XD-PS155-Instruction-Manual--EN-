@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.11.5 ATC Auto Recovery</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">ATC Auto Recovery</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">ATC Auto Recovery function is built into the Maintenance screen to facilitate one touch recovery of the ATC system in the event of any accident or abnormal operation.</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">When ATC Auto Recovery is activated it will automatically operate all the ATC actuators and the spindle clamp / unclamp solenoids in the correct sequence to return the ATC to standby condition.</para>
+    <para styleclass="Normal">ATC Auto Recovery function can be operated in Single mode or Jog mode.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-bottom:9px;"><text style="font-weight:bold;">Single Mode</text></para>
+    <para styleclass="Normal">In Single mode, when the <text style="font-weight:bold;">[ON]</text> button is pressed, the recovery operation will start and complete in a single sequence. The process can only be terminated by pressing the <text style="font-weight:bold;">[OFF]</text> button or by activating Emergency.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-bottom:9px;"><text style="font-weight:bold;">Jog Mode</text></para>
+    <para styleclass="Normal">In Jog mode, when the <text style="font-weight:bold;">[ON]</text> button is pressed, the recovery operation will start and proceed through the recovery sequence. When the <text style="font-weight:bold;">[ON]</text> button is released, the recovery operation will terminate immediately.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">To start ATC Auto Recovery, the prerequisites for ATC arm movement are required and will be displayed in the Maintenance Advice area similar to other ATC actuators.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:17px;"><image src="ATC Auto Recovery.JPG" scale="48.00%" width="409" height="359" styleclass="Image Caption"></image><draft-comment width="29px" height="13px" modified="2024-09-13" styleclass="Comment"><![CDATA[Replace the figure to " ATC Auto Recovery" from Chp 4.11 folder in Graphic folder.]]></draft-comment></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=4%&gt;.&lt;%HMFIGURECOUNTER%&gt;  </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">ATC Auto Recovery</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="3" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:196px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+        <td style="width:46px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:202px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:196px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">ATC Auto Recovery Display</para>
+        </td>
+        <td style="vertical-align:middle; width:46px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:202px; height:22px;">
+          <para styleclass="Table Font_Left"><text style="font-weight:bold;">[SINGLE MODE]</text> / <text style="font-weight:bold;">[JOG MODE]</text> Button</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:196px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Single/Jog Mode Button <text style="font-weight:bold;">[ON]</text> / <text style="font-weight:bold;">[OFF]</text></para>
+        </td>
+        <td style="vertical-align:middle; width:46px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">-</text></para>
+        </td>
+        <td style="vertical-align:middle; width:202px; height:22px;">
+          <para styleclass="Table Font_Left">-</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Notes">-NOTES-</para>
+    <list id="1" type="ol" listtype="decimal" formatstring="%0:s    " format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Notes" style="font-family:Arial; font-size:10pt; color:#231f20;">
+      <li styleclass="Notes">Auto Recovery does not alter the tool data.</li>
+      <li styleclass="Notes" style="margin-bottom:0px;">It is possible to interchange spindle and magazine index tool when moving the ATC arm in Maintenance</li>
+    </list>
+    <para styleclass="Notes">     mode. However, tool data is not updated for arm movements in Maintenance mode.</para>
+    <list id="1" type="ol" listtype="decimal" formatstring="%0:s    " format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Notes" style="margin-bottom:0px; font-family:Arial; font-size:10pt; color:#231f20;">
+      <li styleclass="Notes" style="margin-bottom:0px;">After any ATC Maintenance operation, always check and ensure the tool data is correct before proceeding</li>
+    </list>
+    <para styleclass="Notes" style="margin-bottom:0px;">     with automatic operation.</para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

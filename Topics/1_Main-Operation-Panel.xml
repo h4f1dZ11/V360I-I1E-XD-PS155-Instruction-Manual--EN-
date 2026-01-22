@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>1 Main Operation Panel</title>
+  <keywords>
+    <keyword>Main Operation Panel Screen</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading2">Main Operation Panel</para>
+    </header>
+    <para styleclass="Normal"><text style="font-size:11pt;">The main operation panel is used to perform the basic machine operations and consists of switches and lamps. Standard specifications and CE specifications have minor differences.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-size:11pt;">The primary functions include the following:</text></para>
+    <para styleclass="Normal"></para>
+    <list id="2" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Manual operations</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> NC program related operations</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Spindle, coolant supply and other frequently used machine related operations</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Operations in event of error or malfunction</li>
+    </list>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="Fig 1.1 Main Operation Panel.png" scale="18.00%" width="738" height="710" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=1%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Main Operation Panel </text></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"><table rowcount="19" colcount="2" style="width:100%; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:284px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Switches/Pilot LED</para>
+        </td>
+        <td style="vertical-align:top; width:478px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Functions of Individual Switches/Pilot LED</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:284px; height:22px;">
+          <para styleclass="Table Font_Left">Control Power (On/Off) </para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; width:478px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="2_1-NC-Program-Related-Operation-Switches" style="color:#0000ff;">2.1 NC Program Related Operation Switches</link></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:284px; height:22px;">
+          <para styleclass="Table Font_Left">NC Program Start/Stop</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:284px; height:22px;">
+          <para styleclass="Table Font_Left">Operation Mode Selection</para>
+        </td>
+        <td style="vertical-align:middle; width:478px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="2_2-Main-Mode-Setting-Switches" style="color:#0000ff;">2.2 Main Mode Setting Switches</link></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:284px; height:22px;">
+          <para styleclass="Table Font_Left">NC Function</para>
+        </td>
+        <td style="vertical-align:middle; width:478px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="2_3-NC-Function-Switches" style="color:#0000ff;">2.3 NC Function Switches</link></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:284px; height:22px;">
+          <para styleclass="Table Font_Left">One-Touch Function</para>
+        </td>
+        <td style="vertical-align:middle; width:478px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="2_4-One-Touch-Function-Switches" style="color:#0000ff;">2.4 One-Touch Function Switches</link></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:284px; height:22px;">
+          <para styleclass="Table Font_Left">Coolant Related Function</para>
+        </td>
+        <td style="vertical-align:middle; width:478px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="2_5-Coolant-Related-Switches" style="color:#0000ff;">2.5 Coolant Related Switches</link></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:284px; height:22px;">
+          <para styleclass="Table Font_Left">Spindle Start/Stop</para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; width:478px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="2_6-Spindle-Related-Operation-Swit" style="color:#0000ff;">2.6 Spindle Related Operation Switches</link></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:284px; height:22px;">
+          <para styleclass="Table Font_Left">Spindle Override</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:284px; height:22px;">
+          <para styleclass="Table Font_Left">Emergency Stop</para>
+        </td>
+        <td rowspan="6" style="vertical-align:middle; width:478px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="2_7-Malfunction_Accident-Preventio" style="color:#0000ff;">2.7 Malfunction/Accident Prevention Switch/Key Switches</link></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:284px; height:22px;">
+          <para styleclass="Table Font_Left">Alarm Reset</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:284px; height:22px;">
+          <para styleclass="Table Font_Left">Mode Unlock</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:284px; height:22px;">
+          <para styleclass="Table Font_Left">Memory Unlock</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:284px; height:22px;">
+          <para styleclass="Table Font_Left">Over Travel Release</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:284px; height:22px;">
+          <para styleclass="Table Font_Left">Door Interlock Release</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:284px; height:22px;">
+          <para styleclass="Table Font_Left">Axis Selection</para>
+        </td>
+        <td style="vertical-align:middle; width:478px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="2_7_1-Manual-Axis-Feed-Switches" style="color:#0000ff;">2.7.1 Manual Axis Feed Switches</link></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:284px; height:22px;">
+          <para styleclass="Table Font_Left">Feed Rate/Override Switches</para>
+        </td>
+        <td style="vertical-align:middle; width:478px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="2_7_2-Feed-Rate_Override-Switches" style="color:#0000ff;">2.7.2 Feed Rate/Override Switches</link></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:284px; height:22px;">
+          <para styleclass="Table Font_Left">Manual Data Input (MDI) Panel</para>
+        </td>
+        <td style="vertical-align:middle; width:478px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="2_8-MDI-Panel" style="color:#0000ff;">2.8 MDI Panel</link></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:284px; height:22px;">
+          <para styleclass="Table Font_Left">LCD Panel</para>
+        </td>
+        <td style="vertical-align:middle; width:478px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="4-Screens" style="color:#0000ff;">4 Screens</link></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

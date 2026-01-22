@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2.2 Main Mode Setting Switches</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Main Mode Setting Switches</para>
+    </header>
+    <para styleclass="Normal"><text style="font-size:12pt; font-weight:bold;">A. Automatic Operation Modes</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Title1" style="text-align:left; background-color:transparent; border:none;"><table styleclass="Default" rowcount="5" colcount="4" style="width:100%; cell-padding:3px; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; head-row-background-color:#dddddd; alt-row-background-color:none;">
+      <thead style="vertical-align:top">
+        <td style="width:31px;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:176px;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+        <td style="width:94px;">
+          <para styleclass="Table font_Header">Symbol</para>
+        </td>
+        <td style="width:581px;">
+          <para styleclass="Table font_Header">Description</para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:31px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">1</text></para>
+        </td>
+        <td style="width:176px;">
+          <para styleclass="Normal"><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">[MDI] </text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Mode</text><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Switch</text></para>
+        </td>
+        <td style="vertical-align:top; width:94px;">
+          <para styleclass="Normal" style="text-align:center;"><image src="MID Mode Switch.png" scale="22.00%" width="56" height="53" styleclass="Image Caption"></image></para>
+        </td>
+        <td style="vertical-align:top; width:581px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">This switch selects the MDI (Manual Data Input) mode. This mode is used to perform a simple operation such as axis feed and M/S/T function commands by manually inputting a program consisting of one to several blocks instead of using programs stored in the memory.</text></para>
+          <para styleclass="Notes">-NO<text styleclass=" " style="font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#231f20; background-color:#ffffff; letter-spacing:normal; letter-scaling:100%;">TES</text>-</para>
+          <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Notes" style="font-family:Arial; font-size:10pt; color:#231f20;">
+            <li styleclass="Notes">The program entered in this mode is cleared when the NC unit is reset and is not stored in the NC memory.</li>
+          </list>
+          <list id="3" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="Notes" style="margin-bottom:0px; font-family:Arial; font-size:10pt; color:#231f20;">
+            <li styleclass="Notes" style="margin-bottom:0px;">When To execute the last program again, press the <text style="font-weight:bold;">[MDI Last Program Edit]</text> screen operation button on the Insert button menu on the Program Edit screen</li>
+          </list>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:31px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">2</text></para>
+        </td>
+        <td style="width:176px;">
+          <para styleclass="Normal"><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">[External Input] </text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Mode</text><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Switch</text></para>
+        </td>
+        <td style="vertical-align:top; width:94px;">
+          <para styleclass="Normal" style="text-align:center;"><image src="Extrenal Input Mode Switch.png" scale="22.00%" width="52" height="51" styleclass="Image Caption"></image></para>
+        </td>
+        <td style="vertical-align:top; width:581px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">This switch selects the External Input mode. This mode is used to run programs by DNC or tape for automatic operation.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:31px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">3</text></para>
+        </td>
+        <td style="width:176px;">
+          <para styleclass="Normal"><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">[MEMORY] </text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Mode Switch</text></para>
+        </td>
+        <td style="vertical-align:top; width:94px;">
+          <para styleclass="Normal" style="text-align:center;"><image src="Memory Mode Switch.png" scale="22.00%" width="54" height="53" styleclass="Image Caption"></image></para>
+        </td>
+        <td style="vertical-align:top; width:581px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">This switch selects the Memory mode which is used to perform automatic operation with registered programs. The registered program is searched for and automatic operation is started when the </text><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">[CYCLE START]</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;"> switch is pressed.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:31px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">4</text></para>
+        </td>
+        <td style="width:176px;">
+          <para styleclass="Normal"><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">[EDITOR] </text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Mode Switch</text></para>
+        </td>
+        <td style="vertical-align:top; width:94px;">
+          <para styleclass="Normal" style="text-align:center;"><image src="Editor Mode Switch.png" scale="22.00%" width="53" height="54" styleclass="Image Caption"></image></para>
+        </td>
+        <td style="vertical-align:top; width:581px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">This switch selects the Editor mode. Select this mode to register programs in the NC memory and to edit programs.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="page-break-before:always;"><text style="font-size:12pt; font-weight:bold;">B. Manual Operation Modes</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Title1" style="text-align:left; background-color:transparent; border:none;"><table styleclass="Default" rowcount="5" colcount="4" style="width:100%; cell-padding:3px; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; head-row-background-color:#dddddd; alt-row-background-color:none;">
+      <thead style="vertical-align:top">
+        <td style="width:36px;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:157px;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+        <td style="width:85px;">
+          <para styleclass="Table font_Header">Symbol</para>
+        </td>
+        <td style="width:526px;">
+          <para styleclass="Table font_Header">Description</para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:36px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">1</text></para>
+        </td>
+        <td style="width:157px;">
+          <para styleclass="Normal"><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">[JOG] </text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Mode</text><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Switch</text></para>
+        </td>
+        <td style="vertical-align:top; width:85px;">
+          <para styleclass="Normal" style="text-align:center;"><image src="JOG Mode Switch.png" scale="22.00%" width="53" height="53" styleclass="Image Caption"></image></para>
+        </td>
+        <td style="vertical-align:top; width:526px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Select this mode to move an axis at the jog feed rate. Press this switch and one of Feed Axis Selection switches enables the selected axis to be moved by pressing one of the Direction switches (refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href="2_7_1-Manual-Axis-Feed-Switches" styleclass="" style="font-family:Arial; font-size:10pt; color:#0000ff;">2.7.1 Manual Axis Feed Switches</link><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">).</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:36px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">2</text></para>
+        </td>
+        <td style="width:157px;">
+          <para styleclass="Normal"><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">[HANDLE] </text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Mode</text><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Switch</text></para>
+        </td>
+        <td style="vertical-align:top; width:85px;">
+          <para styleclass="Normal" style="text-align:center;"><image src="Handle Mode Switch.png" scale="22.00%" width="52" height="53" styleclass="Image Caption"></image></para>
+        </td>
+        <td style="vertical-align:top; width:526px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Select this mode to move an axis with the Manual Pulse Generator (MPG). Press this switch, select the axis to be moved with the switch on the MPG and rotate the handle to move the axis (refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href="2_7_1-Manual-Axis-Feed-Switches" styleclass="" style="font-family:Arial; font-size:10pt; color:#0000ff;">2.7.1 Manual Axis Feed Switches</link><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">).</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:36px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">3</text></para>
+        </td>
+        <td style="width:157px;">
+          <para styleclass="Normal"><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">[RAPID] </text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Mode Switch</text></para>
+        </td>
+        <td style="vertical-align:top; width:85px;">
+          <para styleclass="Normal" style="text-align:center;"><image src="Rapid Mode Switch.png" scale="22.00%" width="53" height="53" styleclass="Image Caption"></image></para>
+        </td>
+        <td style="vertical-align:top; width:526px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">This mode enables the axis movement in rapid traverse. By selecting the axis using axis selection button, the axis can be moved in rapid traverse by using the direction push button. The relation between rapid traverse feed rate and the rapid override rotary switch setting is shown below.</text></para>
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:4px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default" rowcount="5" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none;">
+            <tr style="vertical-align:top">
+              <td style="width:139px;">
+                <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">Selection</text></para>
+              </td>
+              <td style="width:193px;">
+                <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">X/Y/Z</text></para>
+              </td>
+            </tr>
+            <tr style="vertical-align:top">
+              <td style="width:139px;">
+                <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">100%</text></para>
+              </td>
+              <td style="width:193px;">
+                <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">36,000 mm/min.</text></para>
+              </td>
+            </tr>
+            <tr style="vertical-align:top">
+              <td style="width:139px;">
+                <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">50%</text></para>
+              </td>
+              <td style="width:193px;">
+                <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">18,000 mm/min.</text></para>
+              </td>
+            </tr>
+            <tr style="vertical-align:top">
+              <td style="width:139px;">
+                <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">25%</text></para>
+              </td>
+              <td style="width:193px;">
+                <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">9,000 mm/min.</text></para>
+              </td>
+            </tr>
+            <tr style="vertical-align:top">
+              <td style="width:139px;">
+                <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">0%</text></para>
+              </td>
+              <td style="width:193px;">
+                <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">0 mm/min.</text></para>
+              </td>
+            </tr>
+          </table></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:36px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">4</text></para>
+        </td>
+        <td style="width:157px;">
+          <para styleclass="Normal"><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">[REFERENCE] </text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Mode Switch</text></para>
+        </td>
+        <td style="vertical-align:top; width:85px;">
+          <para styleclass="Normal" style="text-align:center;"><image src="REFERENCE Mode Switch.png" scale="22.00%" width="55" height="53" styleclass="Image Caption"></image></para>
+        </td>
+        <td style="vertical-align:top; width:526px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">This mode is used to return the axis to the reference position manually. The speed at which the axis moves during reference point return is controllable by the rapid override rotary switch.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Title1" style="text-align:left; background-color:transparent; page-break-before:always; border:none;"></para>
+  </body>
+</topic>

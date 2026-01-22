@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>9.4.2 Tool Index Command - Random Pot Mode</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Tool Index Command - Random Pot Mode</para>
+    </header>
+    <para styleclass="Normal">In this mode, the magazine will immediately rotate the commanded tool to the index position. This commanded tool is then ready for tool change.</para>
+  </body>
+</topic>

@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>3.7 Automatic Tool Changer (HSK A-100 ATC #30) Specification</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Automatic Tool Changer (HSK A-100 ATC #30) Specification</para>
+    </header>
+    <para styleclass="Normal" style="margin-top:8px;"><table rowcount="10" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td rowspan="2" style="vertical-align:middle; width:268px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Specification</para>
+        </td>
+        <td style="width:460px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Measurement &amp; Description</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:460px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">HSK A-100</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:268px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Tool Change Type</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Spindle Direct Pick-Up</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:268px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">ATC Magazine Motor Power</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">2 kW</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:268px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Max. Tool Diameter for Continuous Loading</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:24px;">
+          <para styleclass="Normal"><text styleclass="" style="font-family:Symbol; font-size:11pt; color:#000000;"> Æ </text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">125 mm</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:268px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Max. Tool Diameter with Adjacent Pot Empty</text></para>
+        </td>
+        <td style="vertical-align:middle; width:460px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Symbol; font-size:11pt; color:#000000;"> Æ </text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">299 mm</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:268px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Max. Tool Length</text></para>
+        </td>
+        <td style="width:460px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:4px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">260 mm / 400 mm</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:268px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Max. Tool Weight</text></para>
+        </td>
+        <td style="width:460px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:4px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">20kg / 13kg</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:268px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Max. Tool Moment</text></para>
+        </td>
+        <td style="width:460px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:4px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">25.48 Nm</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:268px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Max. Total Tool Mass</text></para>
+        </td>
+        <td style="width:460px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;"> &#160;300 kg</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-top:8px;"></para>
+    <para styleclass="Notes">-NOTE-</para>
+    <para styleclass="Notes" style="margin-bottom:4px;">This is the random pot type ATC magazine system. ATC can be converted to Fixed Pot Type by performing two tool changes, parameter setting.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Ch 2 Fig 3.4.png" scale="26.00%" width="391" height="373" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=3%&gt;.&lt;%HMFIGURECOUNTER%&gt; &#160;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Automatic Tool Changer (HSK A-100 ATC #30) Specification</text></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

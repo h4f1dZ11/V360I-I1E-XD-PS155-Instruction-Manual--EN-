@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>8.3 Working at Elevated Locations</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Working at Elevated Locations</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">Falling from high places can result in serious injury. Pay extra attention to the following points:</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:6px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:6px; margin-left:13px;">Safety helmets and safety shoes must be worn at all times.</li>
+      <li styleclass="Normal" style="margin-left:13px;">Use stable steps or a stepladder. Do not stand on a pail, cans or boxes stacked one on top</li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:8px; margin-left:26px;"> of the other.</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-left:13px;">Extreme care should be taken to avoid slipping from oily surfaces, etc. Ensure that you are</li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:6px; margin-left:13px;"> &#160; &#160;in a stable position while using both hands to perform a task.</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">Use a safety rope when performing tasks on top of the splash guard.</li>
+    </list>
+  </body>
+</topic>

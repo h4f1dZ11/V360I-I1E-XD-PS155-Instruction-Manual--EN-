@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>20.4.4 Selection of Skip Signals</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Selection of Skip Signals</para>
+    </header>
+    <para styleclass="Normal">High speed SKIP signal can be assigned by specifying the corresponding M codes.</para>
+    <para styleclass="Normal"></para>
+    <list id="2" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:4px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> M1962 - Enables the high-speed skip signal for AWM (HSKIP1)</li>
+      <li styleclass="Normal" style="margin-left:13px;"> M1963 - Enables the high-speed skip signal for ATLM (HSKIP2)</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:13px;"></para>
+    <para styleclass="Normal">High speed skip signals are fixed for ATLM and AWM. HSKIP1 is for AWM, HSKIP2 is for ATLM.</para>
+  </body>
+</topic>

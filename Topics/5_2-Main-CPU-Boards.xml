@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>5.2 Main CPU Boards</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Main CPU Boards</para>
+    </header>
+    <para styleclass="Normal">The “brain” of the control system is the main CPU board. It has multiple modules on the printed circuit board, which perform various functions including:</para>
+    <para styleclass="Normal"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> CNC operation command control</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> CNC program data and machine parameter storing</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> RS-232 serial communication</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Manual Pulse Generator (MPG) control</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> LCD display control (non-graphic)</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Execution of Programmable Machine Controller (PMC) program</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">Servo control for axis 1 to 4</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">Spindle control with serial interface</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">The program data and machine parameter were stored in the main CPU board’s static RAM area, which requires battery back up, under power off condition.</li>
+    </list>
+  </body>
+</topic>

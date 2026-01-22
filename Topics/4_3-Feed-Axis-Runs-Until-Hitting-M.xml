@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.3 Feed Axis Runs Until Hitting Mechanical Stopper</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Feed Axis Runs Until Hitting Mechanical Stopper</para>
+    </header>
+    <para styleclass="Normal">When the feed axis hits the mechanical stopper and stops, the machine accuracy must be confirmed. Contact your Makino service representative. In the event the machine accuracy is not confirmed, the specified level of accuracy will not be achieved. </para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="7" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:239px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Possible Causes</para>
+        </td>
+        <td style="width:648px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Corrective Measures</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Servomotor wiring (cable) is improperly connected or damaged.</para>
+        </td>
+        <td style="vertical-align:top; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:4px; line-height:1.00;">Check the cable is correctly connected. If the cable is damaged, replace the cable.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Supply voltage is low.</para>
+        </td>
+        <td style="vertical-align:middle; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Check cause of low voltage and adjust to the proper voltage.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Axis moved by inertia due to power failure.</para>
+        </td>
+        <td style="vertical-align:top; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Turn on the power supply and then move the axis within the stroke limit.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Other servo system malfunction.</para>
+        </td>
+        <td style="vertical-align:middle; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Servo alarm is triggered.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Servomotor, servo amplifier, servomotor encoder or scale unit is malfunctioning.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Confirm the alarm content and replace the damaged parts if necessary. When replacing the scale unit, contact your Makino service representative.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Improper parameter settings.</para>
+        </td>
+        <td style="vertical-align:middle; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Contact your Makino service representative.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Servo Adaptor or scale battery life over.</para>
+        </td>
+        <td style="vertical-align:middle; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Replace the battery.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

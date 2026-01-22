@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.9.7 OFFSET NO.</title>
+  <body>
+    <header>
+      <para styleclass="Heading4"><text style="font-size:12pt;">OFFSET NO.</text><draft-comment width="29px" height="13px" modified="2024-09-12" styleclass="Comment"><![CDATA[This page should be same as V180I-I1E-XD Slim3n Instruction Manual (EN) chapter 4.9.7]]></draft-comment></para>
+    </header>
+    <para styleclass="Normal">Which Fanuc Tool Offset number the length / diameter values need to be transferred (when command M56) to is entered in this field.</para>
+  </body>
+</topic>

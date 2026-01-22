@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>13.3.2 Start Condition Confirmation</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Start Condition Confirmation</para>
+    </header>
+    <para styleclass="Normal">This function allows the input/output signal status to be confirmed before the output is turned on or off by the M code commands. An alarm is triggered when the required conditions are not satisfied.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">The condition is considered to be satisfied when the input signal corresponds to the output signal, i.e. when the output signal is on, the input signal is also on, or when the output signal is off, the input signal is also off.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">For each M code, it is possible to enable the start condition confirmation for the signal user input/output only or for all the user input/outputs assigned to the same group.</para>
+  </body>
+</topic>

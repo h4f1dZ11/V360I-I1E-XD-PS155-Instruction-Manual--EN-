@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.10 Work Selection Screen</title>
+  <body>
+    <header>
+      <para styleclass="Heading3"><text style="font-size:12pt;">Work Selection Screen</text><draft-comment width="29px" height="13px" modified="2024-09-13" styleclass="Comment"><![CDATA[This page should be same as V180I-I1E-XD Slim3n Instruction Manual (EN) chapter 4.10]]></draft-comment></para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">On the Work Selection Screen up to 10 models can be set per pallet.</para>
+    <para styleclass="Normal">To navigate to Work Selection Screen, press <text style="font-weight:bold;">[MENU]</text> <text styleclass style="font-family:Symbol; font-size:11pt; color:#000000;">®</text> press Makino icon <text styleclass style="font-family:Symbol; font-size:11pt; color:#000000;">®</text> Main Menu Screen is displayed <text styleclass style="font-family:Symbol; font-size:11pt; color:#000000;">®</text> press Work Selection icon <text styleclass style="font-family:Symbol; font-size:11pt; color:#000000;">®</text> Work Selection Screen is displayed.</para>
+    <para styleclass="Normal"><draft-comment width="29px" height="13px" modified="2024-09-13" styleclass="Comment"><![CDATA[Need to include the figure "Work Selection Screen" from Chp 4.10 folder in Graphic folder]]></draft-comment></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Work Selection Screen.JPG" scale="45.00%" width="380" height="273" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=4%&gt;.&lt;%HMFIGURECOUNTER%&gt;  </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Work Selection Screen</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text style="font-weight:bold;">Items Description</text></para>
+    <para styleclass="Normal">The meaning of items on the Work Selection Screen are described below.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

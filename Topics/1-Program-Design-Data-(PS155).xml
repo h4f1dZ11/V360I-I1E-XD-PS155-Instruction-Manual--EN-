@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>1 Program Design Data (PS155)</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Program Design Data (PS155) </para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:9px;">• &#160;Spindle Characteristics</para>
+    <para styleclass="Normal" style="margin-bottom:9px;">• &#160;Spindle Head Dimensions</para>
+    <para styleclass="Normal" style="margin-bottom:9px;">• &#160;Machine Stroke Limits &amp; Work Area</para>
+  </body>
+</topic>

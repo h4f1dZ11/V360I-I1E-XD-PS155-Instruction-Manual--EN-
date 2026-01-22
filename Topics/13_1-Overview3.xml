@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>13.1 Overview</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Overview</para>
+    </header>
+    <para styleclass="Normal">The user input/output (I/O) interface enables actuators, production quantity counters and other external devices required by the user to be controlled by M code commands (M580 – M596).</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">Individual M code functions (control specifications) are specified by machine parameters. The input/output contactors are prepared on the machine control panel. Connecting an external device to these contactors with cables enables the M codes to control the device.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;">The following operations are performed by the special user I/O interface:</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:4px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Output signal is sent from the machine controller to the external device by issuing of M code.</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Output signal starts the operation of the external device.</li>
+      <li styleclass="Normal" style="margin-bottom:6px; margin-left:13px;"> Completion of the operation is confirmed when the relevant switch input signal is sent back to the machine controller.</li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:8px;">Preparations described in the following page are necessary to utilize the user I/O interface.</para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Ch 4 Fig 13.1.png" scale="23.00%" width="462" height="269" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"><text styleclass="Figure E" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=13%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; System Overview</text></para>
+  </body>
+</topic>

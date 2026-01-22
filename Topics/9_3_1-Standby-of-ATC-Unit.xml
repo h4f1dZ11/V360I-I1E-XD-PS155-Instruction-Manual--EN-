@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>9.3.1 Standby of ATC Unit</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Standby of ATC Unit</para>
+    </header>
+    <para styleclass="Normal">Machine is ready for automatic operations only if the ATC unit is in the standby condition. When the ATC unit is in standby mode, the ATC standby lamp on the ATC operation panel glows. Therefore, before doing any auto operation, ensure that the ATC is in the standby mode.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">In the case that the lamp is off, the ATC is to be brought back to standby mode by manual operation. </para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">Standby Condition includes the following criteria:</para>
+    <para styleclass="Normal"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> ATC Shutter Close</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> ATC Pot Horizontal</li>
+      <li styleclass="Normal" style="margin-left:13px;"> ATC Arm Home</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:13px;"></para>
+    <para styleclass="Notes">-NOTE-</para>
+    <para styleclass="Notes">When ATC Arm is not in home/standby position, machine axes are interlocked.</para>
+  </body>
+</topic>

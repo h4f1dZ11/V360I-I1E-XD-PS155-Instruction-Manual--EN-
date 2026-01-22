@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2.1 Emergency Stop</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Emergency Stop</para>
+    </header>
+    <para styleclass="Normal">When the <text style="font-weight:bold;">[EMERGENCY STOP]</text> switch is pressed, the machine enters the Emergency Stop condition.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">The machine also enters the Emergency Stop condition in the following cases:</para>
+    <para styleclass="Normal"></para>
+    <list id="2" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:4px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> When the feed axis exceeds the stroke limit.</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> When an abnormality is detected in the machine controller or servomotor.</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> When an abnormality is detected in the hydraulic unit.</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> When the power outage detection unit is activated.</li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"></para>
+    <para styleclass="Normal" style="margin-bottom:4px;">Following an Emergency Stop condition, all commands are stopped and the following operations are performed:</para>
+    <para styleclass="Normal"></para>
+    <list id="3" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:4px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Feeding of each axis is stopped immediately.</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Spindle rotation is stopped immediately.</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Spindle tool is clamped.</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Spindle rotational speed setting (S command) is reset.</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Spindle temperature controller will be switched off.</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> All coolant motors will be switched off.</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Tool search (T command) is cancelled.</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Hydraulic pressure supply is stopped.</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> NC control is reset.</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> All solenoid valves (Pneumatic and Hydraulic) are de-energized.</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> When orientation of the spindle has been performed, orientation is released.</li>
+      <li styleclass="Normal" style="margin-left:13px;"> When an Automatic Tool Changer (ATC) or tool magazine operation is being performed,</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:13px;">    operation stops immediately, even in mid-motion.</para>
+    <para styleclass="Normal" style="margin-left:13px;"></para>
+    <para styleclass="Normal" style="margin-bottom:4px;">Confirm the cause indicated in the cause of emergency stop display on the Machine Status screen and eliminate the cause.</para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:4px;"><draft-comment width="29px" height="13px" modified="2024-09-13" styleclass="Comment"><![CDATA[Replace the Figure to "Machine Status Screen" from Chp 11 folder in Graphic folder]]></draft-comment><text styleclass="Image Caption"> </text><image src="Ch 5 Fig 2.1.png" scale="65.00%" width="437" height="324" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=2%&gt;.&lt;%HMFIGURECOUNTER=1%&gt;  </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Cause of Emergency Stop Display (Machine Status Screen)</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:219px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:219px; height:22px;">
+          <para styleclass="Normal"><text style="font-size:10pt;"> Cause of Emergency Stop Display</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

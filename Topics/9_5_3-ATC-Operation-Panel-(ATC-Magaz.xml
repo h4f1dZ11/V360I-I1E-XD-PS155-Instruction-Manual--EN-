@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>9.5.3 ATC Operation Panel (ATC Magazine Side)</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">ATC Operation Panel (ATC Magazine Side)</para>
+    </header>
+    <para styleclass="Normal">The following operating push buttons and indicating lamps are incorporated in the ATC operation panel for manual operation of the ATC and maintenance operations. The ATC Magazine Manual Index CW/CCW is enabled to allow movement of magazine when ATC Manual Intervention push button is selected. During manual mode, automatic magazine indexing and tool change is interlocked, resulting in stop of part program when a command block with Txxx or M06 is commanded.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><table rowcount="6" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td rowspan="2" style="vertical-align:top; width:103px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Mag Manual Intvn Button.png" scale="28.00%" width="73" height="74" styleclass="Image Caption"></image></para>
+        </td>
+        <td style="vertical-align:middle; width:515px; height:22px;">
+          <para styleclass style="text-align:left; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;"> Magazine Manual Intervention Push Button and Indicator</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:515px; height:22px;">
+          <para styleclass style="text-align:left; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">This push button is used to select the ATC Manual Intervention mode, in order to index the magazine manually. During an auto operation of ATC or magazine index, if this button is pressed, manual mode is temporary hold and the incorporated lamp will flicker. After the automatic operation is completed, the hold manual mode is activated and the light will glow continuously. </text></para>
+          <para styleclass style="text-align:left; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:4px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">With the manual mode on (i.e. the incorporated lamp of the push button on), and a T code is commanded in an auto mode, the magazine will not index, but the commanded T code will hold. When the Magazine Manual mode is switched off, the magazine is immediately indexed to the commanded tool.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="2" style="vertical-align:top; height:11px;">
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Mag Rot Push Button.png" scale="28.00%" width="74" height="165" styleclass="Image Caption"></image></para>
+        </td>
+        <td style="vertical-align:middle; width:515px; height:22px;">
+          <para styleclass style="text-align:left; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">Magazine Rotation Push Button</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:515px; height:22px;">
+          <para styleclass style="text-align:left; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">During a manual mode, the magazine can be rotated CW or CCW by pressing the respective push button. When the push button is released, the magazine will be stopped to the next pot position.</text></para>
+          <para styleclass style="text-align:left; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">After power on or an emergency stop, the magazine must be zero returned to the reference point before a manual operation. To zero return, press CCW button. Even after the push button is released, the magazine continues to rotate till the completion of zero return.</text></para>
+          <para styleclass style="text-align:left; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:4px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">After a power on or an emergency stop, when a tool number is commanded, in auto mode, the magazine will first do the zero return automatically and after that the tool will be indexed to the standby position.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="2" style="vertical-align:top; height:5px;">
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Emergency StopSwitch.png" scale="28.00%" width="66" height="65" styleclass="Image Caption"></image></para>
+        </td>
+        <td style="vertical-align:middle; width:515px; height:22px;">
+          <para styleclass style="text-align:left; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">Emergency Stop Push Button</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:515px; height:22px;">
+          <para styleclass style="text-align:left; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:5px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">In an Emergency condition press this button to stop all the motions abruptly. Once pressed, the button is locked in the pressed position. Rotate the button in the arrow shown to release the lock. When this button is pressed, the following condition occurs.</text></para>
+          <list id="0" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass style="text-align:left; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:18px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none; font-family:Symbol; font-size:10pt; color:#000000;">
+            <li styleclass style="text-align:left; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:18px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;"> All moving axis stops immediately.</text></li>
+            <li styleclass style="text-align:left; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:18px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;"> The spindle stops, if it is running.</text></li>
+            <li styleclass style="text-align:left; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:18px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;"> The spindle tool will be clamped.</text></li>
+            <li styleclass style="text-align:left; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:18px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;"> The spindle orientation will be reset.</text></li>
+            <li styleclass style="text-align:left; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:18px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;"> If ATC is operating, it stops midway.</text></li>
+            <li styleclass style="text-align:left; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:18px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;"> The CNC will be reset.</text></li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

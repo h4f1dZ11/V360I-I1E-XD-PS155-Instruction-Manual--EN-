@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>3.1.1 Switch Does Not Activate at Set Pressure</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Switch Does Not Activate at Set Pressure</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="4" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:239px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Possible Causes</para>
+        </td>
+        <td style="width:471px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Corrective Measures</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Solenoid valve SOL905 (main air on) malfunction.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Check solenoid valve SOL905 (main air on) and other electrical components to identify the location of the problem. Next, perform the following steps:</para>
+          <para styleclass="Table Font_Left" style="text-indent:-15px; margin-bottom:2px; margin-left:19px; line-height:1.00;">1. There is a possibility of damage or malfunction in the electric circuit. Check each cable using the volt meter.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; margin-left:17px; line-height:1.00;">• If solenoid valve SOL905 (main air on) is malfunctioning, replace the valve.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; margin-left:17px; line-height:1.00;">• If the cable is damaged, replace the cable.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">If any problem is found in the machine controller, repair or replace the malfunctioning parts.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Air pressure is not supplied or is insufficient.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Apply pressure higher than the set pressure plus hysteresis.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Pressure switch LS905 (main air pressure switch) malfunction.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Check pressure switch LS905 (main air pressure switch) and other electrical components to identify the location of the problem. Next, perform the following steps:</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">1. If the problem is caused by faulty adjustment, adjust it properly.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">2. There is a possibility of damage or malfunction in the electric circuit.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;"> &#160; &#160;Check each cable using the volt meter.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; margin-left:30px; line-height:1.00;">• If pressure switch LS905 (main air pressure switch) is malfunctioning,</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; margin-left:30px; line-height:1.00;"> &#160;replace the switch.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; margin-left:30px; line-height:1.00;">• If the cable is damaged, replace the cable.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; margin-left:0px; line-height:1.00;"> If any problem is found in the machine controller, repair or replace the</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; margin-left:0px; line-height:1.00;"> malfunctioning parts.</para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

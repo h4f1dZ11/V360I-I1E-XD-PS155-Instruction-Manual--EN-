@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.9.5-SPARE TOOL</title>
+  <body>
+    <header>
+      <para styleclass="Heading4"><text style="font-size:12pt;">SPARE TOOL</text><draft-comment width="29px" height="14px" modified="2024-09-12" styleclass="Comment"><![CDATA[This page should be same as V180I-I1E-XD Slim3n Instruction Manual (EN) chapter 4.9.5]]></draft-comment></para>
+    </header>
+    <para styleclass="Normal">Indication of original Tool having a replacement when its tool life is attained.</para>
+    <para styleclass="Normal"></para>
+    <list id="6" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px;"> <text style="font-weight:bold;">Group (GR):</text> The Tools with same GROUP (GR) are treated as Tools of a same group and if original Tool attains tool life then replacement Tool is called and processing is continued until all Tools of the same group attain life or Alarm status.</li>
+      <li styleclass="Normal"> <text style="font-weight:bold;">Sequence (SQ):</text> If multiple spare Tool of the same group exists in magazine, then this SEQUENCE (SQ) determines the order in which the Tool to be called as replacement Tool in ascending order.</li>
+    </list>
+  </body>
+</topic>

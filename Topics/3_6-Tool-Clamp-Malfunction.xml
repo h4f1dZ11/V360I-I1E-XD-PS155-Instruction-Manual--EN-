@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>3.6 Tool Clamp Malfunction</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Tool Clamp Malfunction</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="5" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:239px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Possible Causes</para>
+        </td>
+        <td style="width:648px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Corrective Measures</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Use of a non-standard tool shank.</para>
+        </td>
+        <td style="vertical-align:middle; width:648px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:4px; line-height:1.00;">Use standard tool shank.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:239px; height:46px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Hydraulic cylinder for tool clamp/unclamp is not activated.</para>
+        </td>
+        <td style="vertical-align:middle; width:648px; height:46px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Check solenoid valve (tool clamp) and other hydraulic components to identify</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:4px; line-height:1.00;">the location of the problem. Next, perform the following steps:</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">1. If the hydraulic cylinder is malfunctioning, replacement is necessary. Contact</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">    your Makino service representative.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">2. There is a possibility of damage or malfunction in the electric circuit. Check</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">    each cable using the volt meter.</para>
+          <para styleclass="Table Font_Left" style="margin-left:30px; line-height:1.00;">• If solenoid valve tool clamp is malfunctioning, replace the valve.</para>
+          <para styleclass="Table Font_Left" style="margin-left:30px; line-height:1.00;">• If the cable is damaged, replace the cable.</para>
+          <para styleclass="Table Font_Left" style="margin-left:30px; line-height:1.00;">• If any problem is found in the machine controller, repair or replace the</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; margin-left:30px; line-height:1.00;">  malfunctioning part.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Foreign matter is lodged in the tool clamp mechanisms.</para>
+        </td>
+        <td rowspan="2" style="vertical-align:top; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Contact your Makino service representative.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:239px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Tool clamp mechanism malfunction.</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

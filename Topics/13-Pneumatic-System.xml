@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>13 Pneumatic System</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Pneumatic System</para>
+    </header>
+    <para styleclass="Normal">If the compressed air supplied to machine does not satisfy the necessary conditions it may cause a malfunction of the pneumatic system and contaminated compressed air will severely damage the major components of the machine; such as the spindle, measurement units and feedback scale units. Clean (replace if necessary) the filter periodically</para>
+  </body>
+</topic>

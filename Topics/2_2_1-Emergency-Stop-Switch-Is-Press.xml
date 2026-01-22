@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2.2.1 Emergency Stop Switch Is Pressed During ATC Operation</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Emergency Stop Switch Is Pressed During ATC Operation</para>
+    </header>
+    <para styleclass="Normal">Restore machine operation from the Emergency Stop condition using the following procedure.</para>
+    <para styleclass="Normal" style="margin-top:8px; margin-bottom:15px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Danger symbol no text.ipp" scale="16.00%" width="42" height="37" styleclass="Image Caption"></image></para>
+          <para styleclass="Warning_bold_1"><text styleclass style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">WARNING</text></para>
+        </td>
+        <td style="vertical-align:middle; width:589px; border-left:none;">
+          <list id="6" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Table font Warning_3" style="margin-bottom:0px; font-family:Symbol; font-size:10pt; color:#000000;">
+            <li styleclass="Table font Warning_3" style="margin-bottom:0px;">Exercise extreme care when recovering the machine from the Emergency Stop condition as serious accidents may occur.</li>
+            <li styleclass="Table font Warning_3" style="margin-top:0px; margin-bottom:0px;">When working with other personnel, maintain clear communication at all times to prevent serious injury.</li>
+            <li styleclass="Table font Warning_3" style="margin-top:0px; margin-bottom:0px;">Contact your Makino service representative for assistance if serious damage to the machine has occurred.</li>
+            <li styleclass="Table font Warning_3" style="margin-top:0px;">If operation cannot be recovered using the manual recovery procedure, DO NOT attempt to solve the problem. Contact your Makino service representative for assistance.</li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-top:8px; margin-bottom:15px;"><text style="font-weight:bold;">Recovery Procedure</text></para>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">1)</text><tab/><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Make sure the condition(s) that led to the activation of the </text><text styleclass style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[EMERGENCY STOP]</text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> switch are eliminated.</text></para>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">2)</text><tab/><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Release the Emergency Stop condition.</text></para>
+    <list id="7" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="1_11mm" style="text-indent:-8px; margin-top:0px; margin-bottom:4px; margin-left:95px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm" style="text-indent:-8px; margin-top:0px; margin-bottom:4px; margin-left:95px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Rotate the </text><text styleclass style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[EMERGENCY STOP]</text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> switch in the direction of arrow to release the lock.</text></li>
+      <li styleclass="1_11mm" style="text-indent:-8px; margin-top:0px; margin-bottom:8px; margin-left:95px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Press the </text><text styleclass style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[CONTROL POWER ON]</text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> switch on the main operation panel.</text></li>
+    </list>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">3)</text><tab/><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Restore the ATC condition using the Maintenance screen.</text></para>
+    <list id="8" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="4" styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">The ATC operation cannot be performed during the following conditions:</text></li>
+    </list>
+    <list id="9" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="1_11mm" style="text-indent:-8px; margin-top:0px; margin-bottom:5px; margin-left:95px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm" style="text-indent:-8px; margin-top:0px; margin-bottom:5px; margin-left:95px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Z-axis is not positioned at the 2nd reference position.</text></li>
+      <li styleclass="1_11mm" style="text-indent:-8px; margin-top:0px; margin-bottom:5px; margin-left:95px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Spindle is not orientated.</text></li>
+      <li styleclass="1_11mm" style="text-indent:-8px; margin-top:0px; margin-bottom:8px; margin-left:95px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Limit switch signal is in a condition where automatic restore procedure is impossible and an alarm is triggered.</text></li>
+    </list>
+    <list id="10" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="5" styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Ensure that the spindle and axis are at the suitable position for tool change to prevent damage to machine or tool during the recovery process.</text></li>
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Perform the Recovery by selecting each item individually or using the “Auto Recovery Function”.</text></li>
+    </list>
+    <list id="11" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="1_11mm" style="text-indent:-8px; margin-top:0px; margin-bottom:4px; margin-left:95px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm" style="text-indent:-8px; margin-top:0px; margin-bottom:4px; margin-left:95px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Select “ATC AUTO RECOVERY” button or individual item on the screen.</text></li>
+      <li styleclass="1_11mm" style="text-indent:-8px; margin-top:0px; margin-bottom:4px; margin-left:95px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Select “SINGLE MODE” or “JOG MODE”.</text></li>
+      <li styleclass="1_11mm" style="text-indent:-8px; margin-top:0px; margin-bottom:4px; margin-left:95px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Press “ON” to start operation. Press “OFF” to stop operation.</text></li>
+    </list>
+    <list id="10" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="5" styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Confirm the pot number on the Tool Data screen. If the pot number indicated on the Tool Data screen is different from the actual machine conditions, the data needs to be updated.</text></li>
+    </list>
+    <para styleclass="1_11mm" style="text-align:center; margin-top:0px; margin-left:26px;"><draft-comment width="29px" height="13px" modified="2024-09-13" styleclass="Comment"><![CDATA[Replace the Figure to "ATC Auto Recovery" from Chp 4.11 folder in Graphic folder]]></draft-comment><image src="ATC Auto Recovery.JPG" scale="48.00%" width="409" height="359" styleclass="Image Caption"></image></para>
+    <para styleclass="1_11mm" style="text-align:center; margin-top:0px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER5=2%&gt;.&lt;%HMFIGURECOUNTER%&gt;  </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Recovery from “Emergency Stop” Switch Pressed During ATC Operation</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="3" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:196px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+        <td style="width:46px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:202px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:196px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">ATC Auto Recovery Display</para>
+        </td>
+        <td style="vertical-align:middle; width:46px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:202px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;"><text style="font-weight:bold;">[SINGLE MODE]</text> / <text style="font-weight:bold;">[JOG MODE]</text> Button</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:196px; height:22px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Single/Jog Mode Button <text style="font-weight:bold;">[ON]</text> / <text style="font-weight:bold;">[OFF]</text></para>
+        </td>
+        <td style="vertical-align:middle; width:46px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">-</text></para>
+        </td>
+        <td style="vertical-align:middle; width:202px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">-</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

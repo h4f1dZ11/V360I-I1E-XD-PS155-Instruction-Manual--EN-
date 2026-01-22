@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.8.1 Login Method</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Login Method</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">For login,</para>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">1)</text><tab/><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Select the required SELECT LEVEL by pressing the LEVEL key.</text></para>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">2)</text><tab/><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Enter password.</text></para>
+    <para styleclass="1_11mm" style="margin-top:0px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">3)</text><tab/><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">If password entry is unsuccessful CURRENT LEVEL will be display logged level. Currently, level NONE / OPERATOR password in not included.</text></para>
+  </body>
+</topic>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>13.5.2 Processing When NC Is Reset</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Processing When NC Is Reset</para>
+    </header>
+    <para styleclass="Normal">In the event the NC is reset while the user I/O interface function M code is being executed, the M code is reset and program is terminated, but the operation continues. M codes, which not executed yet when NC reset is pressed, will not be executed.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">If NC reset is pressed when no user I/O interface functions M codes are being executed, the output status of all output signals remains the same.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Ch 4 Fig 13.14.png" scale="30.00%" width="474" height="164" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"><text styleclass="Figure E" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=13%&gt;.&lt;%HMFIGURECOUNTER%&gt; Timing Chart When NC Is Reset During Operation</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"><image src="Ch 4 Fig 13.15.png" scale="30.00%" width="478" height="165" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:13px;"><text styleclass="Figure E" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=13%&gt;.&lt;%HMFIGURECOUNTER%&gt; Timing Chart When NC Is Reset During No Operation</text></para>
+  </body>
+</topic>

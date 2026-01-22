@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>9.4.5 Tool Change Command - Fixed Pot Mode</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Tool Change Command - Fixed Pot Mode</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">The tool index command and tool change command can operate in two modes:</para>
+    <list id="2" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:4px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Dummy tool T99 Interchange with spindle tool</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Pot Horizontal</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Magazine rotate to next command tool</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Pot Vertical</li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;"> Next command tool interchange with spindle tool</li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:8px;">If T99 is the spindle tool, the next commanded tool will immediately interchange with the spindle tool.</para>
+  </body>
+</topic>

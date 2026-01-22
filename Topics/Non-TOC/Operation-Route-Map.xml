@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../helpproject.xsd">
+  <title>Operation Route Map</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;"><text style="color:#1a1a1a;">Operation Route Map</text></para>
+    </header>
+    <para styleclass="Normal"><text style="font-size:11pt;">Before performing any operation, ensure that you have read and understood the information provided in the Safety Chapter. Refer to</text><text style="font-size:11pt; background-color:#ffffff;"> </text><link displaytype="text" defaultstyle="false" type="topiclink" href="Safety" style="font-size:11pt; color:#0000ff; background-color:#ffffff;">Chapter 1 Safety.</link></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Page 3. Operation Route Map.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

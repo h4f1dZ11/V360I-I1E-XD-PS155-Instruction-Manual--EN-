@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>9.4.8 ATC Cycle Time Reduction</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">ATC Cycle Time Reduction</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:12px;">Before the ATC arm can move in a tool change cycle, the following machine conditions must be established. </para>
+    <list id="2" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:4px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Z-Axis 2nd Reference Position</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;">Coolant Off</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;">Spindle Orientation</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;">Shutter Open</li>
+      <li styleclass="Normal" style="margin-left:13px;">Pot Vertical</li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:12px; page-break-before:always;">M319 can be commanded to reduce cycle time by performing the following actions simultaneously:</para>
+    <list id="3" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:4px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Coolant Off</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Spindle Orientation</li>
+      <li styleclass="Normal" style="margin-left:13px;"> Shutter Open then Pot Vertical</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:13px;"></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-weight:bold;">Program Example</text></para>
+    <para styleclass="Normal"><table styleclass="Default" rowcount="4" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="width:190px; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">Taaa;</para>
+        </td>
+        <td style="width:614px; border-bottom:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;">(Tool aaa is indexed to Magazine Index Position)</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:190px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">G91 G30 Z0 M319;</para>
+        </td>
+        <td style="width:614px; border-top:none; border-bottom:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;">(Z-axis moves to 2nd reference position, spindle orientates, coolant stops and suction is performed, ATC shutter opens then pot moves to vertical position)</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:190px; border-top:none; border-right:none; border-bottom:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">G91 G30 X0 Y0;</para>
+        </td>
+        <td style="width:614px; border-top:none; border-bottom:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;">(X and Y-axis moves to 2nd reference position)</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:190px; border-top:none; border-right:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:13px;">M06;</para>
+        </td>
+        <td style="width:614px; border-top:none; border-left:none;">
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px;">(Tool change command, Taaa is moved to spindle)</para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

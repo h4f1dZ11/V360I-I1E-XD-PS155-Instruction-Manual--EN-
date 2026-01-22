@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>14.3 Drum Filter Is Clogged</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Drum Filter Is Clogged</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="7" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:239px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Possible Causes</para>
+        </td>
+        <td style="width:471px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Corrective Measures</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Periodic inspection and maintenance are not performed.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Clean/replace the filter.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Backwash pressure is low </para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">(backwash amount is insufficient).</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Check for Y-strainer clogging and clean if necessary.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Backwash nozzles immersed due to bubbles in coolant.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Use non-foaming and water soluble coolant and check the coolant concentration (do not use anti-foaming additives unless absolutely necessary to prevent clogging of the filter). </para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Oil (sludge, antifoaming additives, slime or insufficiently emulsified fluid such as base oil) adheres to the filter of drum unit.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Clean/replace the filter of drum unit.</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">There are the following possible causes for oil adhering to the belt:</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">1. Coolant is old: Replace the coolant.</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">2. Coolant supply (dilution) procedure is not correct:</para>
+          <para styleclass="Table Font_Left" style="line-height:1.00;">    Add concentrated solution a little at a time to water</para>
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">    and stir well prior to pouring into the tank,</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Pump for backwash coolant malfunction.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Pump replacement is necessary. Contact your Makino service representative.</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; height:15px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Foreign matter adheres to the pump suction opening for the backwash coolant.</para>
+        </td>
+        <td style="vertical-align:top; height:11px;">
+          <para styleclass="Table Font_Left" style="margin-bottom:2px; line-height:1.00;">Remove the foreign matter from the pump suction opening.</para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

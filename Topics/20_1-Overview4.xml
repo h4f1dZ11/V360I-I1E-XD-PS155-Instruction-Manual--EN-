@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>20.1 Overview</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Overview</para>
+    </header>
+    <para styleclass="Normal">The input-output interface for measurement is a function to control the measuring devices by means of system variables and M codes.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">A terminal block is provided in the machine electrical cabinet for input and output to be connected. Connection of the measuring device to the terminal block enables M codes to select the SKIP signals and system variables to control the input/output signals.</para>
+  </body>
+</topic>

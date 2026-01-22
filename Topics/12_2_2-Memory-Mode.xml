@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>12.2.2 Memory Mode</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Memory Mode</para>
+    </header>
+    <para styleclass="Title1" style="text-align:left; background-color:transparent; border:none;"><table styleclass="Default" rowcount="1" colcount="2" style="width:100%; cell-padding:3px; border-width:0px; border-spacing:0px; cell-border-width:0px; border-style:none; head-row-background-color:#dddddd; alt-row-background-color:none;">
+      <thead style="vertical-align:top">
+        <td style="width:726px;">
+          <para styleclass="Normal"><text styleclass style="font-family:Arial,Bold; font-size:10pt; color:#000000;">In order to perform operation in the Memory mode, an NC program must be first created in the Editor mode or downloaded from an external data input/output device and then registered in the NC Memory. Unlike programs used in the MDI mode, Memory mode operation programs are registered in the NC Memory and can therefore be searched for and executed repeatedly.</text></para>
+        </td>
+        <td style="vertical-align:top; width:102px;">
+          <para styleclass="Normal" style="text-align:center;"><image src="Memory Mode.png" scale="22.00%" width="54" height="54" styleclass="Image Caption"></image></para>
+        </td>
+      </thead>
+    </table></para>
+  </body>
+</topic>

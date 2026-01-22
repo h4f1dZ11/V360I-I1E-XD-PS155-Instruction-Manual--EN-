@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2.8 MDI Panel</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">MDI Panel</para>
+    </header>
+    <para styleclass="Normal">The keyboard on the main operation panel is called the MDI (Manual Data Input) panel. The MDI panel is used for entering data and changing the screen displays.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Fig 2.1 MDI Panel Layout.png" scale="20.00%" width="591" height="313" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=2%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">MDI Panel Layout</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px; page-break-before:always;"></para>
+  </body>
+</topic>

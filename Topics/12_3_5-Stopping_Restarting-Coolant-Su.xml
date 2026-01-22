@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>12.3.5 Stopping/Restarting Coolant Supply</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Stopping/Restarting Coolant Supply</para>
+    </header>
+    <para styleclass="Normal">When the NC program is stopped with the <text style="font-weight:bold;">[FEED HOLD]</text> or <text style="font-weight:bold;">[SINGLE BLOCK]</text> switch, spindle rotation and coolant supply continue and do not stop.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">The procedures to stop (Refer to <text style="color:#0000ff;">A</text>) the coolant supply and restore the coolant supply (Refer to <text style="color:#0000ff;">B</text>) after it is temporarily stopped is described below.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text style="font-weight:bold;">A   Coolant Supply Stop Procedure</text></para>
+    <para styleclass="Normal">Press the <text style="font-weight:bold;">[COOLANT ON/OFF]</text> switch on the main operation panel to pause/suspend the coolant supply. When the <text style="font-weight:bold;">[COOLANT ON/OFF]</text> switch lamp is on, the coolant supply is stopped. The respective coolant related switches on the main operation panel or the Function screen can also be used to turn off the corresponding coolant.</para>
+    <para styleclass="Normal" style="margin-top:8px;"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text style="font-weight:bold;">B   Restarting Coolant Supply Procedure</text></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-left:26px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-left:26px;">  Press the <text style="font-weight:bold;">[COOLANT ON/OFF]</text> switch on the main operation panel while the <text style="font-weight:bold;">[COOLANT</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-left:26px;"><text style="font-weight:bold;">     ON/OFF]</text> switch lamp is on will restart the active coolant mode.</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-left:26px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-left:26px;">  Turn on the relevant coolant related switches on the main operation panel or the function</li>
+    </list>
+    <para styleclass="Normal" style="margin-left:26px;">      button on the Function screen.</para>
+    <para styleclass="Normal" style="margin-left:26px; page-break-before:always;"></para>
+  </body>
+</topic>

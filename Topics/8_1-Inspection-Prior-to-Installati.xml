@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>8.1 Inspection Prior to Installation</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Inspection Prior to Installation</para>
+    </header>
+    <para styleclass="Normal">Confirm the following points prior to installation work:</para>
+    <para styleclass="Normal"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:13px;">Inspect for any machine damage.</li>
+      <li styleclass="Normal" style="margin-left:13px;">Check all attachments and accessory units with the shipping and packaging check list.</li>
+    </list>
+  </body>
+</topic>

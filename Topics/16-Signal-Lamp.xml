@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>16 Signal Lamp</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Signal Lamp</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">The signal lamp is provided to inform the operator of the machine status.</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">Standard Specifications: 3-level signal lamp (red, yellow, green)</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">Option: Buzzer </para>
+  </body>
+</topic>

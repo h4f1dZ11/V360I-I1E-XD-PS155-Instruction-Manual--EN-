@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>9.4 Automatic ATC Operation</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Automatic ATC Operation</para>
+    </header>
+    <para styleclass="Normal">Automatic ATC Operation refers to operating the ATC in any of the following NC modes: memory mode, MDI mode or external input mode. Use the T and M06 command to create the tool change program.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">When the T command is issued, the tool is moved from the tool magazine to the standby position (next tool). When the machine is powered on or when ATC magazine reference position is not established, any T command will cause the magazine to perform an Auto Reference Operation before proceeding with the tool indexing. When the M06 command is issued, the tool in the standby position is interchanged with the spindle tool.</para>
+  </body>
+</topic>

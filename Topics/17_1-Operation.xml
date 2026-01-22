@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>17.1 Operation</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Operation</para>
+    </header>
+    <para styleclass="Normal">Mist collector operation (starting/stopping) is controlled with the following methods:</para>
+    <para styleclass="Normal"></para>
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:4px; margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Manual Operation</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Automatic Operation</li>
+      <li styleclass="Normal" style="margin-bottom:4px; margin-left:13px;"> Operation Using M codes</li>
+    </list>
+    <para styleclass="Normal" style="margin-top:8px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:4px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Danger symbol no text.ipp" scale="16.00%" width="42" height="37" styleclass="Image Caption"></image></para>
+          <para styleclass="Warning_bold_1"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">DANGER</text></para>
+        </td>
+        <td style="vertical-align:middle; width:589px; border-left:none;">
+          <list id="4" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="" style="text-align:left; text-indent:-11px; margin-top:4px; margin-right:0px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ; font-family:Symbol; font-size:10pt; color:#000000;">
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:4px; margin-right:0px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="Table font Warning_1">The use of volatile oils or oils with a low flash point (150°C or less) is prohibited to ensure safety during the mist removal process. The mist collector does not have an explosion-resistant design.</text></li>
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:4px; margin-right:0px; margin-bottom:4px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="Table font Warning_1">Do not use it in a flammable environment. This may result in a fire or explosion.</text></li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-top:8px;"></para>
+    <para styleclass="Normal" style="margin-top:8px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:4px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Danger symbol no text.ipp" scale="16.00%" width="42" height="37" styleclass="Image Caption"></image></para>
+          <para styleclass="Warning_bold_1"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">WARNING</text></para>
+        </td>
+        <td style="vertical-align:middle; width:589px; border-left:none;">
+          <list id="5" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="" style="text-align:left; text-indent:-11px; margin-top:4px; margin-right:0px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ; font-family:Symbol; font-size:10pt; color:#000000;">
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:4px; margin-right:0px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="Table font Warning_1">Immediately stop operation in the event of abnormal vibration, abnormal noise or an abnormal smell. These conditions may indicate the possibility of a fire or serious accident.</text></li>
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:4px; margin-right:0px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="Table font Warning_1">Turn off the main power supply (main circuit breaker) prior to inspections as a safety precaution. If it is not turned off, it may result in an electrical shock.</text></li>
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:4px; margin-right:0px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="Table font Warning_1">Do not disassemble the fans or motors under any circumstance. This may result in electrical shock or a breakdown.</text></li>
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:4px; margin-right:0px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="Table font Warning_1">Do not use the mist collector for exhaust air with a temperature of 60</text><text styleclass="" style="font-family:Symbol; font-size:11pt; color:#000000;">°</text><text styleclass="Table font Warning_1">C or higher, or for processing of water vapor. This may result in a breakdown of the motor.</text></li>
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:4px; margin-right:0px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="Table font Warning_1">Do not use any filter other than the ones specially designed for use with this machine. This may result in a breakdown or a deterioration in performance.</text></li>
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:4px; margin-right:0px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="Table font Warning_1">Do not operate the machine under any circumstance with any of the filters removed. This may result in a breakdown of the fan or motor.</text></li>
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:4px; margin-right:0px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="Table font Warning_1">This unit is secured to a base (casters attached) prior to shipment. If this unit is not attached to the base, mount in place using bolts capable of securing the total unit weight (60 kg) to ensure the unit is secured in place. If it is not, it may fall over or break down due to excessive vibration.</text></li>
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:4px; margin-right:0px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="Table font Warning_1">Do not place items on the mist collector or get on top of it. This may result in deformation of the housing or a breakdown.</text></li>
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:4px; margin-right:0px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="Table font Warning_1">Make sure to stop operation of the unit when changing the filter. Changing the filter with the unit operating may result in injury.</text></li>
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:4px; margin-right:0px; margin-bottom:4px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="Table font Warning_1">The voltage supplied to the motor terminals must be within </text><text styleclass="" style="font-family:Symbol; font-size:11pt; font-weight:bold; color:#000000;">±</text><text styleclass="Table font Warning_1">10 % of the rated voltage. The fluctuation in voltage between the phases must be within </text><text styleclass="" style="font-family:Symbol; font-size:11pt; font-weight:bold; color:#000000;">±</text><text styleclass="Table font Warning_1">3 %. If these conditions are not satisfied, it may result in a fire or accident.</text></li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

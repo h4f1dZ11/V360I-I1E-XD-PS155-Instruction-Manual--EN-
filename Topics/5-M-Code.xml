@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>5 M Code</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">M Code</para>
+    </header>
+    <para styleclass="Normal">This M code list describes all M codes. Please note that there are some M codes that cannot be used depending upon the machine specifications and options that are provided.</para>
+  </body>
+</topic>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.11.4 ATC Arm Maintenance Operation</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">ATC Arm Maintenance Operation</para>
+    </header>
+    <para styleclass="Normal">The ATC arm motion path is controlled by a mechanical CAM. The ATC arm CAM can be commanded to move forward or reverse. Forward direction refers to the direction taken by the CAM during automatic operation (M06).</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">There are no limit switches on the ATC arm CAM, instead the position of the ATC arm CAM is determined by an encoder. The encoder provides the angle that the ATC arm CAM is currently in. The CAM path of the ATC arm is divided into zones and the current zone that the ATC arm is in is also displayed in the ATC Maintenance screen below. </para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">When the ATC arm rotates, the current angle and zone of the ATC is displayed on the Maintenance information screen. The ATC arm will always stop automatically at the spindle and standby positions. It is necessary to command spindle tool Clamp / Unclamp at certain positions of the ATC arm.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">In Maintenance mode, the speed of the arm is limited to less than half of Automatic operation (M06).</para>
+    <para styleclass="Normal" style="margin-left:13px;"></para>
+    <para styleclass="Normal"><text style="font-weight:bold;">ATC Arm Maintenance Operation Procedure</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">1)</text><tab/><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Enable Maintenance mode.</text></para>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">2)</text><tab/><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Select ATC Arm Forward or Reverse.</text></para>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">3)</text><tab/><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Select an operation mode, Jog or Single.</text></para>
+    <para styleclass="1_11mm" style="margin-top:0px; margin-bottom:8px;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">4)</text><tab/><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Press the </text><text styleclass style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[ON]</text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> or </text><text styleclass style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[OFF]</text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> button.</text></para>
+    <para styleclass="1_11mm" style="text-align:center; margin-top:0px; margin-bottom:8px; margin-left:26px;"><image src="ATC Arm Maintenance.JPG" scale="48.00%" width="417" height="359" styleclass="Image Caption"></image><draft-comment width="29px" height="13px" modified="2024-09-13" styleclass="Comment"><![CDATA[Replace the figure to "ATC Arm Maintenance" from Chp 4.11 folder in Graphic folder]]></draft-comment></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=4%&gt;.&lt;%HMFIGURECOUNTER%&gt;  </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">ATC Arm Maintenance</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="3" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:196px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+        <td style="width:46px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:202px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:196px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;"><text style="font-weight:bold;">[SINGLE MODE]</text> / <text style="font-weight:bold;">[JOG MODE]</text> Button</para>
+        </td>
+        <td style="vertical-align:middle; width:46px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:202px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Single/Jog Mode Button <text style="font-weight:bold;">[ON]</text> / <text style="font-weight:bold;">[OFF]</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:196px; height:22px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">ATC Arm Information</para>
+        </td>
+        <td style="vertical-align:middle; width:46px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">-</text></para>
+        </td>
+        <td style="vertical-align:middle; width:202px; height:22px;">
+          <para styleclass="Table Font_Left"><text style="font-weight:bold;">-</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Notes">-NOTES-</para>
+    <list id="1" type="ol" listtype="decimal" formatstring="%0:s    " format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Notes" style="margin-bottom:0px; font-family:Arial; font-size:10pt; color:#231f20;">
+      <li styleclass="Notes" style="margin-bottom:0px;">There may be cases where the ATC arm is unable to move during Maintenance operation. This may be</li>
+    </list>
+    <para styleclass="Notes">      due to the tool being too heavy or there is an obstruction to the arm.</para>
+    <list id="1" type="ol" listtype="decimal" formatstring="%0:s    " format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Notes" style="font-family:Arial; font-size:10pt; color:#231f20;">
+      <li styleclass="Notes">Check the arm mechanism and spindle for any damage or blockages.</li>
+      <li styleclass="Notes" style="margin-bottom:0px;">Do not force the arm to rotate as this may cause damage to the spindle or arm.</li>
+    </list>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">4.5 Tool Magazine</title>
+  <body>
+    <header>
+      <para styleclass="Heading3" style="page-break-before:always;"><text styleclass="Heading3" translate="true">Tool Magazine</text></para>
+    </header>
+    <para styleclass="Normal" style="margin-top:8px;"><table rowcount="17" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:415px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header"><text styleclass="Table font_Header" translate="true">Action/Situation</text></para>
+        </td>
+        <td style="width:241px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header"><text styleclass="Table font_Header" translate="true">Result</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:415px; height:40px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Working without performing lock-out and tag-out</text></para>
+        </td>
+        <td style="vertical-align:top; width:241px; height:40px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:8px; margin-bottom:0px; margin-left:8px; line-height:1.03; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Injury or death, damage to the machine</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:415px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Operator entering the tool magazine without turning OFF the power</text></para>
+        </td>
+        <td style="vertical-align:top; width:241px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Injury or death</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:415px; height:40px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.03; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Operator entering the tool magazine with the safety devices and functions disabled</text></para>
+        </td>
+        <td style="vertical-align:top; width:241px; height:40px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Injury or death</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:415px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Manually changing tools by entering inside the tool magazine</text></para>
+        </td>
+        <td style="vertical-align:top; width:241px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Injury or death</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:415px; height:40px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.03; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Performing T command or tool change while tool blade or tool is mounted incorrectly</text></para>
+        </td>
+        <td style="vertical-align:top; width:241px; height:40px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:8px; margin-bottom:0px; margin-left:8px; line-height:1.03; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Injury or death, damage to the machine</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:415px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Tool number is registered incorrectly</text></para>
+        </td>
+        <td style="vertical-align:top; width:241px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Damage to the machine</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:415px; height:40px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.03; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Operator inserting hands into tool magazine during tool magazine operation</text></para>
+        </td>
+        <td style="vertical-align:top; width:241px; height:40px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Cuts, bone fracture of hands</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:415px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Touching the tool magazine motor</text></para>
+        </td>
+        <td style="vertical-align:top; width:241px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Burns</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:415px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Operator working on oily floor</text></para>
+        </td>
+        <td style="vertical-align:top; width:241px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Fall, bone fracture, injury</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:415px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Operator touching bladed tools</text></para>
+        </td>
+        <td style="vertical-align:top; width:241px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:7px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Cuts, injuries to hands</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:415px; height:40px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Holding a heavy tool</text></para>
+        </td>
+        <td style="vertical-align:top; width:241px; height:40px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:5px; margin-bottom:0px; margin-left:8px; line-height:1.03; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Strained back, hands become wedged between tool and object</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:415px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Operator working at elevated locations</text></para>
+        </td>
+        <td style="vertical-align:top; width:241px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Fall, bone fracture</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:415px; height:40px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:6px; margin-bottom:0px; margin-left:8px; line-height:1.03; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Hand or other body part becomes stuck in tool magazine door when it is opened or closed</text></para>
+        </td>
+        <td style="vertical-align:top; width:241px; height:40px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Injury, bruises</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:415px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Leaving a safety guard or maintenance cover opened or removed</text></para>
+        </td>
+        <td style="vertical-align:top; width:241px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Injury</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:415px; height:40px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:6px; margin-bottom:0px; margin-left:8px; line-height:1.03; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Performing cleaning or maintenance while a tool is stored in the tool magazine</text></para>
+        </td>
+        <td style="vertical-align:top; width:241px; height:40px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Cutting or stabbing of hand or body</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:415px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Cleaning without wearing protective gloves</text></para>
+        </td>
+        <td style="vertical-align:top; width:241px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; color:#000000;" translate="true">Cutting or stabbing of hand</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>9.5 Manual ATC Operation</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Manual ATC Operation</para>
+    </header>
+    <para styleclass="Normal">Manual ATC Operation refers to performing operations when the ATC Manual Intervention mode is turned on. In this mode, it is possible to operate the following:</para>
+    <para styleclass="Normal"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-left:13px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-left:13px;"> Magazine Rotation</li>
+    </list>
+  </body>
+</topic>
